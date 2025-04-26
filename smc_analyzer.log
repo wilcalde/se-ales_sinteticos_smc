@@ -1,0 +1,1553 @@
+2025-04-13 17:22:14,562 - INFO - Intentando conectar a MetaTrader 5...
+2025-04-13 17:22:16,502 - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-13 17:22:16,502 - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-13 17:22:17,230 - INFO - Desconectando de MetaTrader 5...
+2025-04-13 17:22:17,230 - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-13 17:22:44,467 - INFO - Intentando conectar a MetaTrader 5...
+2025-04-13 17:22:44,469 - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-13 17:22:44,469 - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-13 17:22:44,479 - INFO - Desconectando de MetaTrader 5...
+2025-04-13 17:22:44,480 - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-13 17:23:03,314 - INFO - Intentando conectar a MetaTrader 5...
+2025-04-13 17:23:05,206 - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-13 17:23:05,206 - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-13 17:23:05,233 - INFO - Desconectando de MetaTrader 5...
+2025-04-13 17:23:05,234 - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-13 17:44:49,045 - INFO - Bot de Telegram inicializado correctamente.
+2025-04-13 17:44:49,045 - INFO - Intentando conectar a MetaTrader 5...
+2025-04-13 17:44:49,047 - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-13 17:44:49,047 - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-13 17:44:50,048 - INFO - Desconectando de MetaTrader 5...
+2025-04-13 17:44:50,048 - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-13 17:44:50,050 - INFO - Mensaje enviado exitosamente a Telegram (intento 1/3).
+2025-04-13 17:45:19,803 - INFO - Bot de Telegram inicializado correctamente.
+2025-04-13 17:45:19,804 - INFO - Intentando conectar a MetaTrader 5...
+2025-04-13 17:45:21,763 - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-13 17:45:21,763 - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-13 17:45:22,764 - ERROR - No se pudo obtener el tick actual para Volatility 75 Index. Error MT5: (-4, 'Terminal: Not found')
+2025-04-13 17:45:22,764 - INFO - Desconectando de MetaTrader 5...
+2025-04-13 17:45:22,764 - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-13 17:45:22,766 - INFO - Mensaje enviado exitosamente a Telegram (intento 1/3).
+2025-04-13 17:45:55,931 - INFO - Bot de Telegram inicializado correctamente.
+2025-04-13 17:45:55,931 - INFO - Intentando conectar a MetaTrader 5...
+2025-04-13 17:45:57,870 - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-13 17:45:57,870 - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-13 17:45:58,871 - ERROR - No se pudo obtener el tick actual para Volatility 75 Index. Error MT5: (-4, 'Terminal: Not found')
+2025-04-13 17:45:58,871 - INFO - Desconectando de MetaTrader 5...
+2025-04-13 17:45:58,872 - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-13 17:45:58,874 - INFO - Mensaje enviado exitosamente a Telegram (intento 1/3).
+2025-04-13 17:57:14,224 - notifiers.telegram_notifier - INFO - Bot de Telegram inicializado correctamente (modo Async).
+2025-04-13 17:57:14,225 - __main__ - INFO - Intentando conectar a MT5...
+2025-04-13 17:57:14,225 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-13 17:57:16,185 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-13 17:57:16,185 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-13 17:57:16,185 - __main__ - INFO - Conexiï¿½n a MT5 establecida.
+2025-04-13 17:57:17,190 - __main__ - INFO - Obteniendo precio actual para Volatility 75 Index...
+2025-04-13 17:57:17,191 - mt5_connector - WARNING - No se pudo obtener el tick actual para Volatility 75 Index (Error MT5: (-4, 'Terminal: Not found')). Puede ser intermitente.
+2025-04-13 17:57:17,191 - __main__ - WARNING - No se pudo obtener el precio actual para Volatility 75 Index.
+2025-04-13 17:57:17,191 - __main__ - INFO - Desconectando de MT5...
+2025-04-13 17:57:17,191 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-13 17:57:17,191 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-13 17:57:17,191 - __main__ - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-13 17:57:17,191 - __main__ - INFO - Formateando mensaje para Telegram...
+2025-04-13 17:57:17,191 - __main__ - INFO - Mensaje a enviar:
+\u274c **Prueba de Integraciï¿½n Fallida** (2025-04-13 17:57:17)
+
+Broker: `Deriv-Demo`
+Symbol: `Volatility 75 Index`
+
+No se pudo obtener el precio actual desde MT5 despuï¿½s de conectar.
+2025-04-13 17:57:17,191 - __main__ - INFO - Intentando enviar mensaje ASYNC a Telegram...
+2025-04-13 17:57:18,010 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-13 17:57:18,010 - notifiers.telegram_notifier - INFO - Mensaje enviado exitosamente a Telegram (intento async 1/3).
+2025-04-13 17:57:18,010 - __main__ - INFO - Mensaje enviado exitosamente a Telegram (aparentemente). ï¿½Revisa tu chat!
+2025-04-13 17:59:17,271 - notifiers.telegram_notifier - INFO - Bot de Telegram inicializado correctamente (modo Async).
+2025-04-13 17:59:17,273 - __main__ - INFO - Intentando conectar a MT5...
+2025-04-13 17:59:17,273 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-13 17:59:19,466 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-13 17:59:19,466 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-13 17:59:19,466 - __main__ - INFO - Conexiï¿½n a MT5 establecida.
+2025-04-13 17:59:20,469 - __main__ - INFO - Obteniendo precio actual para Volatility 75 Index...
+2025-04-13 17:59:20,469 - mt5_connector - WARNING - No se pudo obtener el tick actual para Volatility 75 Index (Error MT5: (-4, 'Terminal: Not found')). Puede ser intermitente.
+2025-04-13 17:59:20,469 - __main__ - WARNING - No se pudo obtener el precio actual para Volatility 75 Index.
+2025-04-13 17:59:20,469 - __main__ - INFO - Desconectando de MT5...
+2025-04-13 17:59:20,469 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-13 17:59:20,469 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-13 17:59:20,469 - __main__ - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-13 17:59:20,469 - __main__ - INFO - Formateando mensaje para Telegram...
+2025-04-13 17:59:20,469 - __main__ - INFO - Mensaje a enviar:
+\u274c **Prueba de Integraciï¿½n Fallida** (2025-04-13 17:59:20)
+
+Broker: `Deriv-Demo`
+Symbol: `Volatility 75 Index`
+
+No se pudo obtener el precio actual desde MT5 despuï¿½s de conectar.
+2025-04-13 17:59:20,469 - __main__ - INFO - Intentando enviar mensaje ASYNC a Telegram...
+2025-04-13 17:59:21,263 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-13 17:59:21,263 - notifiers.telegram_notifier - INFO - Mensaje enviado exitosamente a Telegram (intento async 1/3).
+2025-04-13 17:59:21,263 - __main__ - INFO - Mensaje enviado exitosamente a Telegram (aparentemente). ï¿½Revisa tu chat!
+2025-04-13 18:11:02,552 - notifiers.telegram_notifier - INFO - Bot de Telegram inicializado correctamente (modo Async).
+2025-04-13 18:11:02,552 - __main__ - INFO - Intentando conectar a MT5...
+2025-04-13 18:11:02,552 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-13 18:11:04,506 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-13 18:11:04,507 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-13 18:11:04,507 - __main__ - INFO - Conexiï¿½n a MT5 establecida.
+2025-04-13 18:11:05,511 - __main__ - INFO - Obteniendo precio actual para Volatility 75 Index...
+2025-04-13 18:11:06,513 - mt5_connector - WARNING - No se pudo obtener el tick actual para Volatility 75 Index (Error MT5: (-4, 'Terminal: Not found')). Puede ser intermitente.
+2025-04-13 18:11:06,513 - __main__ - WARNING - No se pudo obtener el precio actual para Volatility 75 Index.
+2025-04-13 18:11:06,513 - __main__ - INFO - Desconectando de MT5...
+2025-04-13 18:11:06,513 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-13 18:11:06,513 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-13 18:11:06,513 - __main__ - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-13 18:11:06,513 - __main__ - INFO - Formateando mensaje para Telegram...
+2025-04-13 18:11:06,513 - __main__ - INFO - Mensaje a enviar:
+\u274c **Prueba de Integraciï¿½n Fallida** (2025-04-13 18:11:06)
+
+Broker: `Deriv-Demo`
+Symbol: `Volatility 75 Index`
+
+No se pudo obtener el precio actual desde MT5 despuï¿½s de conectar.
+2025-04-13 18:11:06,513 - __main__ - INFO - Intentando enviar mensaje ASYNC a Telegram...
+2025-04-13 18:11:07,124 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-13 18:11:07,126 - notifiers.telegram_notifier - INFO - Mensaje enviado exitosamente a Telegram (intento async 1/3).
+2025-04-13 18:11:07,126 - __main__ - INFO - Mensaje enviado exitosamente a Telegram (aparentemente). ï¿½Revisa tu chat!
+2025-04-13 18:15:09,537 - notifiers.telegram_notifier - INFO - Bot de Telegram inicializado correctamente (modo Async).
+2025-04-13 18:15:09,539 - __main__ - INFO - Intentando conectar a MT5...
+2025-04-13 18:15:09,539 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-13 18:15:11,500 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-13 18:15:11,501 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-13 18:15:11,501 - __main__ - INFO - Conexiï¿½n a MT5 establecida.
+2025-04-13 18:15:12,508 - __main__ - INFO - Obteniendo precio actual para Volatility 75 Index...
+2025-04-13 18:15:12,509 - mt5_connector - INFO - Informaciï¿½n general obtenida para Volatility 75 Index. Visible: False, Bid(info): 0.0, Ask(info): 0.0
+2025-04-13 18:15:12,509 - mt5_connector - WARNING - El sï¿½mbolo Volatility 75 Index no estï¿½ visible en la Observaciï¿½n de Mercado de MT5. Se recomienda aï¿½adirlo para recepciï¿½n fiable de ticks.
+2025-04-13 18:15:13,509 - mt5_connector - ERROR - Error al obtener symbol_info_tick para Volatility 75 Index (despuï¿½s de obtener symbol_info OK). Error MT5: (-4, 'Terminal: Not found')
+2025-04-13 18:15:13,509 - __main__ - WARNING - No se pudo obtener el precio actual para Volatility 75 Index.
+2025-04-13 18:15:13,509 - __main__ - INFO - Desconectando de MT5...
+2025-04-13 18:15:13,509 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-13 18:15:13,509 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-13 18:15:13,509 - __main__ - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-13 18:15:13,509 - __main__ - INFO - Formateando mensaje para Telegram...
+2025-04-13 18:15:13,509 - __main__ - INFO - Mensaje a enviar:
+\u274c **Prueba de Integraciï¿½n Fallida** (2025-04-13 18:15:13)
+
+Broker: `Deriv-Demo`
+Symbol: `Volatility 75 Index`
+
+No se pudo obtener el precio actual desde MT5 despuï¿½s de conectar.
+2025-04-13 18:15:13,509 - __main__ - INFO - Intentando enviar mensaje ASYNC a Telegram...
+2025-04-13 18:15:14,113 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-13 18:15:14,114 - notifiers.telegram_notifier - INFO - Mensaje enviado exitosamente a Telegram (intento async 1/3).
+2025-04-13 18:15:14,114 - __main__ - INFO - Mensaje enviado exitosamente a Telegram (aparentemente). ï¿½Revisa tu chat!
+2025-04-13 18:20:49,802 - notifiers.telegram_notifier - INFO - Bot de Telegram inicializado correctamente (modo Async).
+2025-04-13 18:20:49,802 - __main__ - INFO - Intentando conectar a MT5...
+2025-04-13 18:20:49,802 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-13 18:20:52,080 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-13 18:20:52,080 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-13 18:20:52,080 - __main__ - INFO - Conexiï¿½n a MT5 establecida.
+2025-04-13 18:20:53,092 - __main__ - INFO - Obteniendo precio actual para Volatility 75 Index...
+2025-04-13 18:20:53,093 - mt5_connector - INFO - Informaciï¿½n general obtenida para Volatility 75 Index. Visible: True, Bid(info): 125762.79, Ask(info): 125797.57
+2025-04-13 18:20:54,094 - __main__ - INFO - Desconectando de MT5...
+2025-04-13 18:20:54,094 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-13 18:20:54,094 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-13 18:20:54,095 - __main__ - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-13 18:20:54,095 - __main__ - INFO - Formateando mensaje para Telegram...
+2025-04-13 18:20:54,095 - __main__ - INFO - Mensaje a enviar:
+\u2705 **Prueba de Integraciï¿½n OK** (2025-04-13 18:20:54)
+
+Broker: `Deriv-Demo`
+Symbol: `Volatility 75 Index`
+
+**Precio Actual:**
+  Bid: `125762.79000`
+  Ask: `125797.57000`
+2025-04-13 18:20:54,095 - __main__ - INFO - Intentando enviar mensaje ASYNC a Telegram...
+2025-04-13 18:20:54,704 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-13 18:20:54,704 - notifiers.telegram_notifier - INFO - Mensaje enviado exitosamente a Telegram (intento async 1/3).
+2025-04-13 18:20:54,704 - __main__ - INFO - Mensaje enviado exitosamente a Telegram (aparentemente). ï¿½Revisa tu chat!
+2025-04-13 18:25:41,546 - __main__ - INFO - Iniciando pruebas unitarias de data_manager...
+2025-04-13 18:25:41,546 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-13 18:25:41,555 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-13 18:25:41,555 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-13 18:25:41,555 - __main__ - INFO - Iniciando actualizaciï¿½n de datos para todas las temporalidades...
+2025-04-13 18:25:41,555 - __main__ - INFO - Actualizando datos para Volatility 75 Index en 16385 (Lookback: 250)...
+2025-04-13 18:25:41,564 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 16385. Filas: 250, ï¿½ltima vela: 2025-04-13 22:00:00
+2025-04-13 18:25:41,564 - __main__ - INFO - Datos para 16385 actualizados correctamente. 250 velas.
+2025-04-13 18:25:41,564 - __main__ - INFO - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-13 18:25:41,579 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-13 22:45:00
+2025-04-13 18:25:41,579 - __main__ - INFO - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-13 18:25:41,579 - __main__ - INFO - Actualizando datos para Volatility 75 Index en 5 (Lookback: 75)...
+2025-04-13 18:25:41,595 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 5. Filas: 75, ï¿½ltima vela: 2025-04-13 22:45:00
+2025-04-13 18:25:41,595 - __main__ - INFO - Datos para 5 actualizados correctamente. 75 velas.
+2025-04-13 18:25:41,595 - __main__ - INFO - Actualizaciï¿½n de datos para todas las temporalidades completada exitosamente.
+2025-04-13 18:25:41,600 - mt5_connector - INFO - Informaciï¿½n general obtenida para Volatility 75 Index. Visible: True, Bid(info): 126060.71, Ask(info): 126095.49
+2025-04-13 18:25:42,601 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-13 18:25:42,601 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-13 18:25:42,601 - __main__ - INFO - Pruebas unitarias de data_manager finalizadas.
+2025-04-13 18:26:12,977 - __main__ - INFO - Iniciando pruebas unitarias de data_manager...
+2025-04-13 18:26:12,977 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-13 18:26:12,987 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-13 18:26:12,987 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-13 18:26:12,987 - __main__ - INFO - Iniciando actualizaciï¿½n de datos para todas las temporalidades...
+2025-04-13 18:26:12,988 - __main__ - INFO - Actualizando datos para Volatility 75 Index en 16385 (Lookback: 250)...
+2025-04-13 18:26:12,991 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 16385. Filas: 250, ï¿½ltima vela: 2025-04-13 23:00:00
+2025-04-13 18:26:12,991 - __main__ - INFO - Datos para 16385 actualizados correctamente. 250 velas.
+2025-04-13 18:26:12,991 - __main__ - INFO - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-13 18:26:13,007 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-13 23:15:00
+2025-04-13 18:26:13,007 - __main__ - INFO - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-13 18:26:13,007 - __main__ - INFO - Actualizando datos para Volatility 75 Index en 5 (Lookback: 75)...
+2025-04-13 18:26:13,023 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 5. Filas: 75, ï¿½ltima vela: 2025-04-13 23:25:00
+2025-04-13 18:26:13,023 - __main__ - INFO - Datos para 5 actualizados correctamente. 75 velas.
+2025-04-13 18:26:13,023 - __main__ - INFO - Actualizaciï¿½n de datos para todas las temporalidades completada exitosamente.
+2025-04-13 18:26:13,028 - mt5_connector - INFO - Informaciï¿½n general obtenida para Volatility 75 Index. Visible: True, Bid(info): 126102.82, Ask(info): 126137.6
+2025-04-13 18:26:14,029 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-13 18:26:14,029 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-13 18:26:14,029 - __main__ - INFO - Pruebas unitarias de data_manager finalizadas.
+2025-04-13 18:41:45,927 - __main__ - INFO - Iniciando pruebas unitarias de smc_analyzer...
+2025-04-13 18:41:45,927 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-13 18:41:45,935 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-13 18:41:45,935 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-13 18:41:45,936 - data_manager - INFO - Iniciando actualizaciï¿½n de datos para todas las temporalidades...
+2025-04-13 18:41:45,936 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 16385 (Lookback: 250)...
+2025-04-13 18:41:45,938 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 16385. Filas: 250, ï¿½ltima vela: 2025-04-13 23:00:00
+2025-04-13 18:41:45,938 - data_manager - INFO - Datos para 16385 actualizados correctamente. 250 velas.
+2025-04-13 18:41:45,938 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-13 18:41:45,940 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-13 23:30:00
+2025-04-13 18:41:45,940 - data_manager - INFO - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-13 18:41:45,940 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 5 (Lookback: 75)...
+2025-04-13 18:41:45,941 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 5. Filas: 75, ï¿½ltima vela: 2025-04-13 23:40:00
+2025-04-13 18:41:45,941 - data_manager - INFO - Datos para 5 actualizados correctamente. 75 velas.
+2025-04-13 18:41:45,941 - data_manager - INFO - Actualizaciï¿½n de datos para todas las temporalidades completada exitosamente.
+2025-04-13 18:41:45,941 - __main__ - INFO - --- Iniciando Anï¿½lisis de Contexto H1 ---
+2025-04-13 18:41:45,953 - __main__ - INFO - Determinando estructura de mercado (Implementaciï¿½n bï¿½sica v1)...
+2025-04-13 18:41:45,955 - __main__ - INFO - Estructura determinada: 15 puntos. Tendencia final aprox: Bearish_Confirmation_Needed
+2025-04-13 18:41:45,956 - __main__ - INFO - Definiendo contexto (Bias y TR)...
+2025-04-13 18:41:45,956 - __main__ - WARNING - No se pudo definir un Trading Range vï¿½lido.
+2025-04-13 18:41:45,956 - __main__ - ERROR - Error durante el anï¿½lisis de contexto H1: 'int' object has no attribute 'name'
+Traceback (most recent call last):
+  File "c:\Users\USUARIO\Desktop\SMC WilMar Signal Bot\smc_analyzer.py", line 359, in analyze_h1_context
+    poi_candidates_h1 = find_poi_candidates(h1_df, config.TIMEFRAME_HTF, context_h1)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\USUARIO\Desktop\SMC WilMar Signal Bot\smc_analyzer.py", line 296, in find_poi_candidates
+    logger.info(f"Buscando POIs candidatos en {timeframe.name}...")
+                                               ^^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'name'
+2025-04-13 18:41:45,956 - __main__ - CRITICAL - Error inesperado durante las pruebas de smc_analyzer: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "c:\Users\USUARIO\Desktop\SMC WilMar Signal Bot\smc_analyzer.py", line 407, in <module>
+    print(f"  Contexto: Bias={context.get('bias')}, TR={context.get('trading_range')}")
+                              ^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-04-13 18:41:45,957 - __main__ - INFO - Desconectando de MT5 al finalizar pruebas de smc_analyzer...
+2025-04-13 18:41:45,957 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-13 18:41:45,957 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-13 18:41:45,957 - __main__ - INFO - Pruebas unitarias de smc_analyzer finalizadas.
+2025-04-13 18:44:21,376 - __main__ - INFO - Iniciando pruebas unitarias de smc_analyzer...
+2025-04-13 18:44:21,378 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-13 18:44:21,386 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-13 18:44:21,386 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-13 18:44:21,386 - data_manager - INFO - Iniciando actualizaciï¿½n de datos para todas las temporalidades...
+2025-04-13 18:44:21,386 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 16385 (Lookback: 250)...
+2025-04-13 18:44:21,389 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 16385. Filas: 250, ï¿½ltima vela: 2025-04-13 23:00:00
+2025-04-13 18:44:21,389 - data_manager - INFO - Datos para 16385 actualizados correctamente. 250 velas.
+2025-04-13 18:44:21,389 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-13 18:44:21,391 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-13 23:30:00
+2025-04-13 18:44:21,391 - data_manager - INFO - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-13 18:44:21,391 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 5 (Lookback: 75)...
+2025-04-13 18:44:21,392 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 5. Filas: 75, ï¿½ltima vela: 2025-04-13 23:40:00
+2025-04-13 18:44:21,392 - data_manager - INFO - Datos para 5 actualizados correctamente. 75 velas.
+2025-04-13 18:44:21,392 - data_manager - INFO - Actualizaciï¿½n de datos para todas las temporalidades completada exitosamente.
+2025-04-13 18:44:21,392 - __main__ - INFO - --- Iniciando Anï¿½lisis de Contexto H1 ---
+2025-04-13 18:44:21,404 - __main__ - INFO - Determinando estructura de mercado (Implementaciï¿½n bï¿½sica v1)...
+2025-04-13 18:44:21,406 - __main__ - INFO - Estructura determinada: 15 puntos. Tendencia final aprox: Bearish_Confirmation_Needed
+2025-04-13 18:44:21,406 - __main__ - INFO - Definiendo contexto (Bias y TR)...
+2025-04-13 18:44:21,406 - __main__ - WARNING - No se pudo definir un Trading Range vï¿½lido.
+2025-04-13 18:44:21,406 - __main__ - INFO - Buscando POIs candidatos en H1...
+2025-04-13 18:44:21,406 - __main__ - WARNING - Contexto invï¿½lido para buscar POIs en H1 (sin bias o TR).
+2025-04-13 18:44:21,406 - __main__ - INFO - --- Anï¿½lisis H1 Completado: Bias=Bearish_Confirmation_Needed, POIs Vï¿½lidos H1=0 ---
+2025-04-13 18:44:21,406 - __main__ - INFO - Desconectando de MT5 al finalizar pruebas de smc_analyzer...
+2025-04-13 18:44:21,406 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-13 18:44:21,406 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-13 18:44:21,406 - __main__ - INFO - Pruebas unitarias de smc_analyzer finalizadas.
+2025-04-13 18:53:01,434 - __main__ - INFO - Iniciando pruebas unitarias de smc_analyzer...
+2025-04-13 18:53:01,434 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-13 18:53:01,443 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-13 18:53:01,444 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-13 18:53:01,444 - data_manager - INFO - Iniciando actualizaciï¿½n de datos para todas las temporalidades...
+2025-04-13 18:53:01,444 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 16385 (Lookback: 250)...
+2025-04-13 18:53:01,446 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 16385. Filas: 250, ï¿½ltima vela: 2025-04-13 23:00:00
+2025-04-13 18:53:01,446 - data_manager - INFO - Datos para 16385 actualizados correctamente. 250 velas.
+2025-04-13 18:53:01,446 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-13 18:53:01,448 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-13 23:45:00
+2025-04-13 18:53:01,448 - data_manager - INFO - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-13 18:53:01,448 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 5 (Lookback: 75)...
+2025-04-13 18:53:01,449 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 5. Filas: 75, ï¿½ltima vela: 2025-04-13 23:50:00
+2025-04-13 18:53:01,449 - data_manager - INFO - Datos para 5 actualizados correctamente. 75 velas.
+2025-04-13 18:53:01,449 - data_manager - INFO - Actualizaciï¿½n de datos para todas las temporalidades completada exitosamente.
+2025-04-13 18:53:01,449 - __main__ - INFO - --- Iniciando Anï¿½lisis de Contexto H1 ---
+2025-04-13 18:53:01,460 - __main__ - INFO - Determinando estructura de mercado (Implementaciï¿½n v2)...
+2025-04-13 18:53:01,463 - __main__ - INFO - @2025-04-04 11:00:00: DETECTADO BOS_Down - Low 115706.30000 rompe LL anterior inf
+2025-04-13 18:53:01,463 - __main__ - INFO - @2025-04-04 17:00:00: DETECTADO CDC_Up - High 120064.61000 rompe LH anterior -inf
+2025-04-13 18:53:01,463 - __main__ - INFO - @2025-04-07 03:00:00: DETECTADO CDC_Down - Low 114467.87000 rompe HL anterior 114523.75000
+2025-04-13 18:53:01,463 - __main__ - INFO - @2025-04-07 17:00:00: DETECTADO BOS_Down - Low 113269.65000 rompe LL anterior 114467.87000
+2025-04-13 18:53:01,464 - __main__ - INFO - @2025-04-08 19:00:00: DETECTADO CDC_Up - High 127414.37000 rompe LH anterior 119296.81000
+2025-04-13 18:53:01,464 - __main__ - INFO - @2025-04-09 09:00:00: DETECTADO BOS_Up - High 128185.64000 rompe HH anterior 127414.37000
+2025-04-13 18:53:01,464 - __main__ - INFO - @2025-04-09 18:00:00: DETECTADO BOS_Up - High 131466.86000 rompe HH anterior 128185.64000
+2025-04-13 18:53:01,464 - __main__ - INFO - @2025-04-10 12:00:00: DETECTADO CDC_Down - Low 119479.44000 rompe HL anterior 125113.29000
+2025-04-13 18:53:01,464 - __main__ - INFO - @2025-04-11 03:00:00: DETECTADO BOS_Down - Low 119175.44000 rompe LL anterior 119479.44000
+2025-04-13 18:53:01,464 - __main__ - INFO - @2025-04-11 05:00:00: DETECTADO CDC_Up - High 122926.16000 rompe LH anterior 122814.67000
+2025-04-13 18:53:01,465 - __main__ - INFO - @2025-04-12 10:00:00: DETECTADO BOS_Up - High 123722.75000 rompe HH anterior 122926.16000
+2025-04-13 18:53:01,465 - __main__ - INFO - @2025-04-12 23:00:00: DETECTADO CDC_Down - Low 116757.21000 rompe HL anterior 118573.85000
+2025-04-13 18:53:01,465 - __main__ - INFO - Estructura determinada (v2): 22 puntos. Tendencia final: Bearish
+2025-04-13 18:53:01,465 - __main__ - INFO - Definiendo contexto (Bias y TR v2)...
+2025-04-13 18:53:01,465 - __main__ - WARNING - No se encontraron puntos Strong High (LH) y/o ï¿½ltimo Low vï¿½lidos para TR Bearish.
+2025-04-13 18:53:01,465 - __main__ - WARNING - Resultado final: No se pudo definir un Trading Range vï¿½lido.
+2025-04-13 18:53:01,465 - __main__ - INFO - Buscando POIs candidatos en H1...
+2025-04-13 18:53:01,465 - __main__ - WARNING - Contexto invï¿½lido o TR no definido para buscar POIs en H1.
+2025-04-13 18:53:01,465 - __main__ - INFO - --- Anï¿½lisis H1 Completado: Bias=Bearish, POIs Vï¿½lidos H1=0 ---
+2025-04-13 18:53:01,466 - __main__ - INFO - Desconectando de MT5 al finalizar pruebas de smc_analyzer...
+2025-04-13 18:53:01,466 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-13 18:53:01,466 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-13 18:53:01,466 - __main__ - INFO - Pruebas unitarias de smc_analyzer finalizadas.
+2025-04-13 19:09:32,170 - __main__ - INFO - Iniciando pruebas unitarias de smc_analyzer (v4)...
+2025-04-13 19:09:32,170 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-13 19:09:32,179 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-13 19:09:32,179 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-13 19:09:32,179 - data_manager - INFO - Iniciando actualizaciï¿½n de datos para todas las temporalidades...
+2025-04-13 19:09:32,179 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 16385 (Lookback: 250)...
+2025-04-13 19:09:32,181 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 16385. Filas: 250, ï¿½ltima vela: 2025-04-14 00:00:00
+2025-04-13 19:09:32,181 - data_manager - INFO - Datos para 16385 actualizados correctamente. 250 velas.
+2025-04-13 19:09:32,181 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-13 19:09:32,203 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-14 00:00:00
+2025-04-13 19:09:32,203 - data_manager - INFO - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-13 19:09:32,203 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 5 (Lookback: 75)...
+2025-04-13 19:09:32,219 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 5. Filas: 75, ï¿½ltima vela: 2025-04-14 00:05:00
+2025-04-13 19:09:32,219 - data_manager - INFO - Datos para 5 actualizados correctamente. 75 velas.
+2025-04-13 19:09:32,219 - data_manager - INFO - Actualizaciï¿½n de datos para todas las temporalidades completada exitosamente.
+2025-04-13 19:09:32,219 - __main__ - INFO - --- Iniciando Anï¿½lisis de Contexto H1 ---
+2025-04-13 19:09:32,230 - __main__ - INFO - Determinando estructura de mercado (Implementaciï¿½n v4 - Strong/Weak Refined)...
+2025-04-13 19:09:32,232 - __main__ - INFO - @2025-04-04 11:00:00: DETECTADO Break_Down_From_Potential - Low 115706.30000 rompe LL anterior inf
+2025-04-13 19:09:32,232 - __main__ - INFO - @2025-04-04 17:00:00: DETECTADO CDC_Up - High 120064.61000 rompe LH anterior -inf
+2025-04-13 19:09:32,233 - __main__ - INFO - @2025-04-07 03:00:00: DETECTADO CDC_Down - Low 114467.87000 rompe HL anterior 114523.75000
+2025-04-13 19:09:32,233 - __main__ - INFO - @2025-04-07 17:00:00: DETECTADO BOS_Down - Low 113269.65000 rompe LL anterior 114467.87000
+2025-04-13 19:09:32,233 - __main__ - INFO - @2025-04-08 19:00:00: DETECTADO CDC_Up - High 127414.37000 rompe LH anterior 119296.81000
+2025-04-13 19:09:32,233 - __main__ - INFO - @2025-04-09 09:00:00: DETECTADO BOS_Up - High 128185.64000 rompe HH anterior 127414.37000
+2025-04-13 19:09:32,233 - __main__ - INFO - @2025-04-09 18:00:00: DETECTADO BOS_Up - High 131466.86000 rompe HH anterior 128185.64000
+2025-04-13 19:09:32,234 - __main__ - INFO - @2025-04-10 12:00:00: DETECTADO CDC_Down - Low 119479.44000 rompe HL anterior 125113.29000
+2025-04-13 19:09:32,234 - __main__ - INFO - @2025-04-11 03:00:00: DETECTADO BOS_Down - Low 119175.44000 rompe LL anterior 119479.44000
+2025-04-13 19:09:32,234 - __main__ - INFO - @2025-04-11 05:00:00: DETECTADO CDC_Up - High 122926.16000 rompe LH anterior 122814.67000
+2025-04-13 19:09:32,234 - __main__ - INFO - @2025-04-12 10:00:00: DETECTADO BOS_Up - High 123722.75000 rompe HH anterior 122926.16000
+2025-04-13 19:09:32,234 - __main__ - INFO - @2025-04-12 23:00:00: DETECTADO CDC_Down - Low 116757.21000 rompe HL anterior 118573.85000
+2025-04-13 19:09:32,234 - __main__ - INFO - Estructura determinada (v4): 22 puntos. Trend: Bearish. Strong: 5, Weak: 13
+2025-04-13 19:09:32,234 - __main__ - INFO - Definiendo contexto (Bias y TR v4)...
+2025-04-13 19:09:32,235 - __main__ - INFO - TR Bearish Definido: High=123722.75000 (Strong LH @ 2025-04-12 10:00:00), Low=116757.21000 (Last L @ 2025-04-12 23:00:00)
+2025-04-13 19:09:32,235 - __main__ - INFO - Buscando POIs candidatos en H1...
+2025-04-13 19:09:32,240 - __main__ - WARNING - La bï¿½squeda de Order Blocks (OBs) necesita implementaciï¿½n.
+2025-04-13 19:09:32,240 - __main__ - WARNING - La bï¿½squeda de Mechas (Wicks) como POIs necesita implementaciï¿½n.
+2025-04-13 19:09:32,240 - __main__ - INFO - Se encontraron 12 POIs candidatos en H1 (solo FVGs implementados).
+2025-04-13 19:09:32,240 - __main__ - WARNING - La validaciï¿½n de POIs necesita implementaciï¿½n completa. POI 2025-04-04 03:00:00 considerado invï¿½lido.
+2025-04-13 19:09:32,240 - __main__ - WARNING - La validaciï¿½n de POIs necesita implementaciï¿½n completa. POI 2025-04-09 04:00:00 considerado invï¿½lido.
+2025-04-13 19:09:32,240 - __main__ - WARNING - La validaciï¿½n de POIs necesita implementaciï¿½n completa. POI 2025-04-09 10:00:00 considerado invï¿½lido.
+2025-04-13 19:09:32,240 - __main__ - WARNING - La validaciï¿½n de POIs necesita implementaciï¿½n completa. POI 2025-04-09 18:00:00 considerado invï¿½lido.
+2025-04-13 19:09:32,240 - __main__ - WARNING - La validaciï¿½n de POIs necesita implementaciï¿½n completa. POI 2025-04-09 22:00:00 considerado invï¿½lido.
+2025-04-13 19:09:32,240 - __main__ - WARNING - La validaciï¿½n de POIs necesita implementaciï¿½n completa. POI 2025-04-09 23:00:00 considerado invï¿½lido.
+2025-04-13 19:09:32,240 - __main__ - WARNING - La validaciï¿½n de POIs necesita implementaciï¿½n completa. POI 2025-04-10 01:00:00 considerado invï¿½lido.
+2025-04-13 19:09:32,240 - __main__ - WARNING - La validaciï¿½n de POIs necesita implementaciï¿½n completa. POI 2025-04-10 09:00:00 considerado invï¿½lido.
+2025-04-13 19:09:32,241 - __main__ - WARNING - La validaciï¿½n de POIs necesita implementaciï¿½n completa. POI 2025-04-10 10:00:00 considerado invï¿½lido.
+2025-04-13 19:09:32,241 - __main__ - WARNING - La validaciï¿½n de POIs necesita implementaciï¿½n completa. POI 2025-04-11 06:00:00 considerado invï¿½lido.
+2025-04-13 19:09:32,241 - __main__ - WARNING - La validaciï¿½n de POIs necesita implementaciï¿½n completa. POI 2025-04-11 11:00:00 considerado invï¿½lido.
+2025-04-13 19:09:32,241 - __main__ - WARNING - La validaciï¿½n de POIs necesita implementaciï¿½n completa. POI 2025-04-12 15:00:00 considerado invï¿½lido.
+2025-04-13 19:09:32,241 - __main__ - INFO - --- Anï¿½lisis H1 Completado: Bias=Bearish, POIs Vï¿½lidos H1=12 ---
+2025-04-13 19:09:32,241 - __main__ - INFO - --- Iniciando Anï¿½lisis de Confirmaciï¿½n M15 dentro de zona (np.float64(120303.94), np.float64(120989.16)) (Bias HTF: Bearish) ---
+2025-04-13 19:09:32,241 - __main__ - WARNING - La funciï¿½n analyze_m15_confirmation necesita implementaciï¿½n completa.
+2025-04-13 19:09:32,242 - __main__ - INFO - --- Anï¿½lisis M15 Completado: Tipo Confirmaciï¿½n=None ---
+2025-04-13 19:09:32,242 - __main__ - INFO - Desconectando de MT5 al finalizar pruebas de smc_analyzer...
+2025-04-13 19:09:32,242 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-13 19:09:32,242 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-13 19:09:32,242 - __main__ - INFO - Pruebas unitarias de smc_analyzer finalizadas.
+2025-04-13 19:35:49,447 - __main__ - INFO - Iniciando pruebas unitarias de smc_analyzer (v4.3)...
+2025-04-13 19:35:49,447 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-13 19:35:49,456 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-13 19:35:49,456 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-13 19:35:49,456 - data_manager - INFO - Iniciando actualizaciï¿½n de datos para todas las temporalidades...
+2025-04-13 19:35:49,456 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 16385 (Lookback: 250)...
+2025-04-13 19:35:49,459 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 16385. Filas: 250, ï¿½ltima vela: 2025-04-14 00:00:00
+2025-04-13 19:35:49,459 - data_manager - INFO - Datos para 16385 actualizados correctamente. 250 velas.
+2025-04-13 19:35:49,459 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-13 19:35:49,461 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-14 00:30:00
+2025-04-13 19:35:49,461 - data_manager - INFO - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-13 19:35:49,461 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 5 (Lookback: 75)...
+2025-04-13 19:35:49,462 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 5. Filas: 75, ï¿½ltima vela: 2025-04-14 00:35:00
+2025-04-13 19:35:49,462 - data_manager - INFO - Datos para 5 actualizados correctamente. 75 velas.
+2025-04-13 19:35:49,462 - data_manager - INFO - Actualizaciï¿½n de datos para todas las temporalidades completada exitosamente.
+2025-04-13 19:35:49,462 - __main__ - INFO - --- Iniciando Anï¿½lisis de Contexto H1 ---
+2025-04-13 19:35:49,473 - __main__ - INFO - Determinando estructura de mercado (v4.4)...
+2025-04-13 19:35:49,474 - __main__ - ERROR - Error CRï¿½TICO anï¿½lisis H1: cannot concatenate object of type '<class 'ellipsis'>'; only Series and DataFrame objs are valid
+Traceback (most recent call last):
+  File "c:\Users\USUARIO\Desktop\SMC WilMar Signal Bot\smc_analyzer.py", line 357, in analyze_h1_context
+    structure_info_h1 = determine_market_structure(df_with_swings_h1)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\USUARIO\Desktop\SMC WilMar Signal Bot\smc_analyzer.py", line 122, in determine_market_structure
+    all_swings = pd.concat([...]).sort_index()
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\USUARIO\anaconda3\envs\smc_wilmar_bot\Lib\site-packages\pandas\core\reshape\concat.py", line 382, in concat
+    op = _Concatenator(
+         ^^^^^^^^^^^^^^
+  File "C:\Users\USUARIO\anaconda3\envs\smc_wilmar_bot\Lib\site-packages\pandas\core\reshape\concat.py", line 448, in __init__
+    ndims = self._get_ndims(objs)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USUARIO\anaconda3\envs\smc_wilmar_bot\Lib\site-packages\pandas\core\reshape\concat.py", line 489, in _get_ndims
+    raise TypeError(msg)
+TypeError: cannot concatenate object of type '<class 'ellipsis'>'; only Series and DataFrame objs are valid
+2025-04-13 19:35:49,475 - __main__ - INFO - No hay POIs H1 vï¿½lidos post-validaciï¿½n.
+2025-04-13 19:35:49,475 - __main__ - INFO - Desconectando MT5...
+2025-04-13 19:35:49,476 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-13 19:35:49,476 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-13 19:35:49,476 - __main__ - INFO - Pruebas smc_analyzer finalizadas.
+2025-04-13 19:52:32,154 - __main__ - INFO - Iniciando pruebas unitarias de smc_analyzer (v4.9)...
+2025-04-13 19:52:32,155 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-13 19:52:32,163 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-13 19:52:32,163 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-13 19:52:32,164 - data_manager - INFO - Iniciando actualizaciï¿½n de datos para todas las temporalidades...
+2025-04-13 19:52:32,164 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 16385 (Lookback: 250)...
+2025-04-13 19:52:32,166 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 16385. Filas: 250, ï¿½ltima vela: 2025-04-14 00:00:00
+2025-04-13 19:52:32,166 - data_manager - INFO - Datos para 16385 actualizados correctamente. 250 velas.
+2025-04-13 19:52:32,166 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-13 19:52:32,168 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-14 00:45:00
+2025-04-13 19:52:32,168 - data_manager - INFO - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-13 19:52:32,168 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 5 (Lookback: 75)...
+2025-04-13 19:52:32,169 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 5. Filas: 75, ï¿½ltima vela: 2025-04-14 00:50:00
+2025-04-13 19:52:32,169 - data_manager - INFO - Datos para 5 actualizados correctamente. 75 velas.
+2025-04-13 19:52:32,169 - data_manager - INFO - Actualizaciï¿½n de datos para todas las temporalidades completada exitosamente.
+2025-04-13 19:52:32,169 - __main__ - INFO - --- Iniciando Anï¿½lisis de Contexto H1 ---
+2025-04-13 19:52:32,176 - __main__ - INFO - Determinando estructura de mercado (v4.9)...
+2025-04-13 19:52:32,180 - __main__ - INFO - @2025-04-04 11:00:00: DETECTADO Break_Down_From_Potential L 115706.30000<inf(LL)
+2025-04-13 19:52:32,180 - __main__ - INFO - @2025-04-04 17:00:00: DETECTADO CDC_Up H 120064.61000>-inf(LH)
+2025-04-13 19:52:32,180 - __main__ - INFO - @2025-04-05 09:00:00: DETECTADO Break_Down_From_Potential L 108123.06000<115706.30000(LL)
+2025-04-13 19:52:32,180 - __main__ - INFO - @2025-04-06 15:00:00: DETECTADO CDC_Up H 117647.90000>114519.39000(LH)
+2025-04-13 19:52:32,180 - __main__ - WARNING - Info original no encontrada para punto fuerte 2025-04-05 19:00:00
+2025-04-13 19:52:32,180 - __main__ - INFO - @2025-04-07 00:00:00: DETECTADO BOS_Up H 118284.66000>117647.90000(HH)
+2025-04-13 19:52:32,181 - __main__ - INFO - @2025-04-07 03:00:00: DETECTADO CDC_Down L 114467.87000<114523.75000(HL)
+2025-04-13 19:52:32,181 - __main__ - INFO - @2025-04-07 08:00:00: DETECTADO Break_Up_From_Potential H 119296.81000>118284.66000(HH)
+2025-04-13 19:52:32,181 - __main__ - INFO - @2025-04-07 17:00:00: DETECTADO CDC_Down L 113269.65000<114467.87000(HL)
+2025-04-13 19:52:32,181 - __main__ - INFO - @2025-04-08 19:00:00: DETECTADO Break_Up_From_Potential H 127414.37000>119296.81000(HH)
+2025-04-13 19:52:32,181 - __main__ - INFO - @2025-04-09 09:00:00: DETECTADO BOS_Up H 128185.64000>127414.37000(HH)
+2025-04-13 19:52:32,181 - __main__ - INFO - @2025-04-09 18:00:00: DETECTADO BOS_Up H 131466.86000>128185.64000(HH)
+2025-04-13 19:52:32,181 - __main__ - INFO - @2025-04-10 12:00:00: DETECTADO CDC_Down L 119479.44000<125113.29000(HL)
+2025-04-13 19:52:32,182 - __main__ - INFO - @2025-04-11 03:00:00: DETECTADO BOS_Down L 119175.44000<119479.44000(LL)
+2025-04-13 19:52:32,182 - __main__ - INFO - @2025-04-11 05:00:00: DETECTADO CDC_Up H 122926.16000>122814.67000(LH)
+2025-04-13 19:52:32,182 - __main__ - INFO - @2025-04-11 13:00:00: DETECTADO Break_Down_From_Potential L 116962.33000<119175.44000(LL)
+2025-04-13 19:52:32,182 - __main__ - INFO - @2025-04-12 10:00:00: DETECTADO CDC_Up H 123722.75000>121366.58000(LH)
+2025-04-13 19:52:32,182 - __main__ - WARNING - Info original no encontrada para punto fuerte 2025-04-12 01:00:00
+2025-04-13 19:52:32,182 - __main__ - INFO - @2025-04-12 23:00:00: DETECTADO Break_Down_From_Potential L 116757.21000<116962.33000(LL)
+2025-04-13 19:52:32,183 - __main__ - INFO - Estructura v4.9: 24 pts. Trend: Bearish. Strong: 6, Weak: 15
+2025-04-13 19:52:32,183 - __main__ - INFO - Definiendo contexto (Bias y TR v4)...
+2025-04-13 19:52:32,183 - __main__ - INFO - TR Bearish Definido: High=123722.75000 (Strong LH @ 2025-04-12 10:00:00), Low=116757.21000 (Last L @ 2025-04-12 23:00:00)
+2025-04-13 19:52:32,183 - __main__ - INFO - Buscando POIs candidatos en H1...
+2025-04-13 19:52:32,188 - __main__ - WARNING - La bï¿½squeda de OBs necesita implementaciï¿½n.
+2025-04-13 19:52:32,188 - __main__ - WARNING - La bï¿½squeda de Wicks necesita implementaciï¿½n.
+2025-04-13 19:52:32,188 - __main__ - INFO - Se encontraron 12 POIs candidatos en H1 (solo FVGs implementados).
+2025-04-13 19:52:32,188 - __main__ - INFO - --- Iniciando Validaciï¿½n POI FVG @ 2025-04-04 03:00:00 (H1) ---
+2025-04-13 19:52:32,189 - __main__ - INFO - POI @ 2025-04-04 03:00:00 INVï¿½LIDO: Falla barrido liquidez.
+2025-04-13 19:52:32,189 - __main__ - INFO - --- Iniciando Validaciï¿½n POI FVG @ 2025-04-09 04:00:00 (H1) ---
+2025-04-13 19:52:32,189 - __main__ - INFO - POI @ 2025-04-09 04:00:00 INVï¿½LIDO: Falla barrido liquidez.
+2025-04-13 19:52:32,189 - __main__ - INFO - --- Iniciando Validaciï¿½n POI FVG @ 2025-04-09 10:00:00 (H1) ---
+2025-04-13 19:52:32,189 - __main__ - INFO - POI @ 2025-04-09 10:00:00 INVï¿½LIDO: Falla barrido liquidez.
+2025-04-13 19:52:32,190 - __main__ - INFO - --- Iniciando Validaciï¿½n POI FVG @ 2025-04-09 18:00:00 (H1) ---
+2025-04-13 19:52:32,190 - __main__ - INFO - POI Val(2025-04-09 18:00:00 H1): BARRIDO LIQ ALCISTA OK.
+2025-04-13 19:52:32,190 - __main__ - INFO - POI Val(2025-04-09 18:00:00 H1): ï¿½CAUSA BOS/CDC Down!
+2025-04-13 19:52:32,190 - __main__ - WARNING - POI Val(2025-04-09 18:00:00 H1): MITIGADO (Bearish)
+2025-04-13 19:52:32,190 - __main__ - INFO - POI @ 2025-04-09 18:00:00 INVï¿½LIDO: Estï¿½ mitigado.
+2025-04-13 19:52:32,190 - __main__ - INFO - --- Iniciando Validaciï¿½n POI FVG @ 2025-04-09 22:00:00 (H1) ---
+2025-04-13 19:52:32,191 - __main__ - INFO - POI @ 2025-04-09 22:00:00 INVï¿½LIDO: Falla barrido liquidez.
+2025-04-13 19:52:32,191 - __main__ - INFO - --- Iniciando Validaciï¿½n POI FVG @ 2025-04-09 23:00:00 (H1) ---
+2025-04-13 19:52:32,191 - __main__ - INFO - POI @ 2025-04-09 23:00:00 INVï¿½LIDO: Falla barrido liquidez.
+2025-04-13 19:52:32,191 - __main__ - INFO - --- Iniciando Validaciï¿½n POI FVG @ 2025-04-10 01:00:00 (H1) ---
+2025-04-13 19:52:32,191 - __main__ - INFO - POI @ 2025-04-10 01:00:00 INVï¿½LIDO: Falla barrido liquidez.
+2025-04-13 19:52:32,191 - __main__ - INFO - --- Iniciando Validaciï¿½n POI FVG @ 2025-04-10 09:00:00 (H1) ---
+2025-04-13 19:52:32,191 - __main__ - INFO - POI @ 2025-04-10 09:00:00 INVï¿½LIDO: Falla barrido liquidez.
+2025-04-13 19:52:32,191 - __main__ - INFO - --- Iniciando Validaciï¿½n POI FVG @ 2025-04-10 10:00:00 (H1) ---
+2025-04-13 19:52:32,192 - __main__ - INFO - POI @ 2025-04-10 10:00:00 INVï¿½LIDO: Falla barrido liquidez.
+2025-04-13 19:52:32,192 - __main__ - INFO - --- Iniciando Validaciï¿½n POI FVG @ 2025-04-11 06:00:00 (H1) ---
+2025-04-13 19:52:32,192 - __main__ - INFO - POI @ 2025-04-11 06:00:00 INVï¿½LIDO: Falla barrido liquidez.
+2025-04-13 19:52:32,192 - __main__ - INFO - --- Iniciando Validaciï¿½n POI FVG @ 2025-04-11 11:00:00 (H1) ---
+2025-04-13 19:52:32,192 - __main__ - INFO - POI @ 2025-04-11 11:00:00 INVï¿½LIDO: Falla barrido liquidez.
+2025-04-13 19:52:32,192 - __main__ - INFO - --- Iniciando Validaciï¿½n POI FVG @ 2025-04-12 15:00:00 (H1) ---
+2025-04-13 19:52:32,192 - __main__ - INFO - POI @ 2025-04-12 15:00:00 INVï¿½LIDO: Falla barrido liquidez.
+2025-04-13 19:52:32,192 - __main__ - INFO - --- Anï¿½lisis H1 Completado: Bias=Bearish, POIs Vï¿½lidos H1=0 ---
+2025-04-13 19:52:32,193 - __main__ - INFO - No hay POIs H1 vï¿½lidos post-validaciï¿½n.
+2025-04-13 19:52:32,193 - __main__ - INFO - Desconectando MT5...
+2025-04-13 19:52:32,193 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-13 19:52:32,193 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-13 19:52:32,193 - __main__ - INFO - Pruebas smc_analyzer finalizadas.
+2025-04-19 21:09:16,200 - notifiers.telegram_notifier - INFO - Bot de Telegram inicializado correctamente (modo Async).
+2025-04-19 21:09:16,201 - __main__ - INFO - Intentando conectar a MT5...
+2025-04-19 21:09:16,201 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-19 21:10:23,973 - mt5_connector - ERROR - Fallo al inicializar MT5 (intento 1/3). Error MT5: (-10005, 'IPC timeout')
+2025-04-19 21:10:23,973 - mt5_connector - INFO - Reintentando conexiï¿½n en 5 segundos...
+2025-04-19 21:25:40,827 - notifiers.telegram_notifier - INFO - Bot de Telegram inicializado correctamente (modo Async).
+2025-04-19 21:25:40,827 - __main__ - INFO - Intentando conectar a MT5...
+2025-04-19 21:25:40,827 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-19 21:25:57,160 - mt5_connector - ERROR - Fallo al inicializar MT5 (intento 1/3). Error MT5: (-10001, 'IPC send failed')
+2025-04-19 21:25:57,160 - mt5_connector - INFO - Reintentando conexiï¿½n en 5 segundos...
+2025-04-19 21:26:06,237 - mt5_connector - ERROR - Fallo al inicializar MT5 (intento 2/3). Error MT5: (-10001, 'IPC send failed')
+2025-04-19 21:26:06,237 - mt5_connector - INFO - Reintentando conexiï¿½n en 5 segundos...
+2025-04-19 21:26:23,396 - notifiers.telegram_notifier - INFO - Bot de Telegram inicializado correctamente (modo Async).
+2025-04-19 21:26:23,396 - __main__ - INFO - *** Iniciando Volatility 75 Index SMC Analyzer ***
+2025-04-19 21:26:23,397 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-19 21:27:03,859 - mt5_connector - ERROR - Fallo al inicializar MT5 (intento 1/3). Error MT5: (-10001, 'IPC send failed')
+2025-04-19 21:27:03,859 - mt5_connector - INFO - Reintentando conexiï¿½n en 5 segundos...
+2025-04-19 21:27:16,373 - __main__ - INFO - Iniciando pruebas unitarias de smc_analyzer (v5.2)...
+2025-04-19 21:27:16,374 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-19 21:28:22,809 - mt5_connector - ERROR - Fallo al inicializar MT5 (intento 1/3). Error MT5: (-10005, 'IPC timeout')
+2025-04-19 21:28:22,809 - mt5_connector - INFO - Reintentando conexiï¿½n en 5 segundos...
+2025-04-19 21:29:17,273 - __main__ - INFO - Pruebas smc_analyzer finalizadas.
+2025-04-19 21:32:01,017 - __main__ - INFO - Iniciando pruebas unitarias de smc_analyzer (v5.2)...
+2025-04-19 21:32:01,017 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-19 21:32:01,026 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-19 21:32:01,026 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-19 21:32:01,026 - data_manager - INFO - Iniciando actualizaciï¿½n de datos para todas las temporalidades...
+2025-04-19 21:32:01,026 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 16385 (Lookback: 250)...
+2025-04-19 21:32:01,132 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 16385. Filas: 250, ï¿½ltima vela: 2025-04-20 02:00:00
+2025-04-19 21:32:01,132 - data_manager - INFO - Datos para 16385 actualizados correctamente. 250 velas.
+2025-04-19 21:32:01,132 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-19 21:32:01,154 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-20 02:30:00
+2025-04-19 21:32:01,154 - data_manager - INFO - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-19 21:32:01,154 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 5 (Lookback: 75)...
+2025-04-19 21:32:01,170 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 5. Filas: 75, ï¿½ltima vela: 2025-04-20 02:30:00
+2025-04-19 21:32:01,170 - data_manager - INFO - Datos para 5 actualizados correctamente. 75 velas.
+2025-04-19 21:32:01,170 - data_manager - INFO - Actualizaciï¿½n de datos para todas las temporalidades completada exitosamente.
+2025-04-19 21:32:01,170 - __main__ - INFO - --- Iniciando Anï¿½lisis de Contexto H1 ---
+2025-04-19 21:32:01,177 - __main__ - INFO - Determinando estructura de mercado (v5.2)...
+2025-04-19 21:32:01,183 - __main__ - INFO - @2025-04-10 08:00:00: DETECTADO Break_Up_From_Potential H 124535.52000>-inf(HH)
+2025-04-19 21:32:01,183 - __main__ - INFO - @2025-04-10 12:00:00: DETECTADO CDC_Down L 119479.44000<inf(HL)
+2025-04-19 21:32:01,183 - __main__ - INFO - @2025-04-11 03:00:00: DETECTADO BOS_Down L 119175.44000<119479.44000(LL)
+2025-04-19 21:32:01,183 - __main__ - INFO - @2025-04-11 05:00:00: DETECTADO CDC_Up H 122926.16000>122814.67000(LH)
+2025-04-19 21:32:01,183 - __main__ - INFO - @2025-04-11 13:00:00: DETECTADO Break_Down_From_Potential L 116962.33000<119175.44000(LL)
+2025-04-19 21:32:01,184 - __main__ - INFO - @2025-04-12 10:00:00: DETECTADO CDC_Up H 123722.75000>121366.58000(LH)
+2025-04-19 21:32:01,184 - __main__ - WARNING - Info original no encontrada para punto fuerte 2025-04-12 01:00:00
+2025-04-19 21:32:01,184 - __main__ - INFO - @2025-04-12 23:00:00: DETECTADO Break_Down_From_Potential L 116757.21000<116962.33000(LL)
+2025-04-19 21:32:01,184 - __main__ - INFO - @2025-04-14 14:00:00: DETECTADO CDC_Up H 135282.68000>121478.65000(LH)
+2025-04-19 21:32:01,184 - __main__ - WARNING - Info original no encontrada para punto fuerte 2025-04-13 10:00:00
+2025-04-19 21:32:01,184 - __main__ - INFO - @2025-04-15 11:00:00: DETECTADO BOS_Up H 136012.44000>135282.68000(HH)
+2025-04-19 21:32:01,184 - __main__ - INFO - @2025-04-16 08:00:00: DETECTADO CDC_Down L 128348.95000<130273.97000(HL)
+2025-04-19 21:32:01,184 - __main__ - WARNING - Info original no encontrada para punto fuerte 2025-04-15 23:00:00
+2025-04-19 21:32:01,185 - __main__ - INFO - @2025-04-17 00:00:00: DETECTADO BOS_Down L 125091.66000<128348.95000(LL)
+2025-04-19 21:32:01,185 - __main__ - INFO - @2025-04-17 22:00:00: DETECTADO CDC_Up H 132225.89000>130300.85000(LH)
+2025-04-19 21:32:01,185 - __main__ - WARNING - Info original no encontrada para punto fuerte 2025-04-17 11:00:00
+2025-04-19 21:32:01,186 - __main__ - INFO - @2025-04-18 07:00:00: DETECTADO Break_Down_From_Potential L 124905.24000<125091.66000(LL)
+2025-04-19 21:32:01,186 - __main__ - INFO - @2025-04-18 18:00:00: DETECTADO CDC_Up H 134110.62000>132225.89000(LH)
+2025-04-19 21:32:01,186 - __main__ - INFO - @2025-04-19 16:00:00: DETECTADO CDC_Down L 124078.24000<125777.86000(HL)
+2025-04-19 21:32:01,186 - __main__ - WARNING - Info original no encontrada para punto fuerte 2025-04-19 08:00:00
+2025-04-19 21:32:01,186 - __main__ - INFO - Estructura v5.2: 23 pts. Trend: Potential_Bearish. Strong: 6, Weak: 13
+2025-04-19 21:32:01,186 - __main__ - INFO - Definiendo contexto (Bias y TR v4)...
+2025-04-19 21:32:01,186 - __main__ - INFO - TR Bearish Definido: High=132113.80000 (Strong LH @ 2025-04-16 13:00:00), Low=124078.24000 (Last L @ 2025-04-19 16:00:00)
+2025-04-19 21:32:01,187 - __main__ - WARNING - Resultado final: Sesgo no confirmado (Potential_Bearish). El TR puede no ser fiable.
+2025-04-19 21:32:01,187 - __main__ - INFO - Buscando POIs candidatos (FVG, OB) en H1...
+2025-04-19 21:32:01,197 - __main__ - WARNING - La bï¿½squeda de Wicks necesita implementaciï¿½n.
+2025-04-19 21:32:01,197 - __main__ - INFO - Se encontraron 0 POIs candidatos en H1 (FVGs + OBs bï¿½sicos).
+2025-04-19 21:32:01,197 - __main__ - INFO - --- Anï¿½lisis H1 Completado: Bias=Potential_Bearish, POIs Vï¿½lidos H1=0 ---
+2025-04-19 21:32:01,197 - __main__ - INFO - No hay POIs H1 vï¿½lidos post-validaciï¿½n.
+2025-04-19 21:32:01,197 - __main__ - INFO - Desconectando MT5...
+2025-04-19 21:32:01,197 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-19 21:32:01,197 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-19 21:32:01,197 - __main__ - INFO - Pruebas smc_analyzer finalizadas.
+2025-04-19 21:33:10,549 - __main__ - INFO - Iniciando pruebas unitarias de smc_analyzer (v5.2)...
+2025-04-19 21:33:10,549 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-19 21:33:10,559 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-19 21:33:10,560 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-19 21:33:10,560 - data_manager - INFO - Iniciando actualizaciï¿½n de datos para todas las temporalidades...
+2025-04-19 21:33:10,560 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 16385 (Lookback: 250)...
+2025-04-19 21:33:10,562 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 16385. Filas: 250, ï¿½ltima vela: 2025-04-20 02:00:00
+2025-04-19 21:33:10,562 - data_manager - INFO - Datos para 16385 actualizados correctamente. 250 velas.
+2025-04-19 21:33:10,562 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-19 21:33:10,564 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-20 02:30:00
+2025-04-19 21:33:10,564 - data_manager - INFO - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-19 21:33:10,564 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 5 (Lookback: 75)...
+2025-04-19 21:33:10,565 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 5. Filas: 75, ï¿½ltima vela: 2025-04-20 02:30:00
+2025-04-19 21:33:10,565 - data_manager - INFO - Datos para 5 actualizados correctamente. 75 velas.
+2025-04-19 21:33:10,565 - data_manager - INFO - Actualizaciï¿½n de datos para todas las temporalidades completada exitosamente.
+2025-04-19 21:33:10,565 - __main__ - INFO - --- Iniciando Anï¿½lisis de Contexto H1 ---
+2025-04-19 21:33:10,571 - __main__ - INFO - Determinando estructura de mercado (v5.2)...
+2025-04-19 21:33:10,575 - __main__ - INFO - @2025-04-10 08:00:00: DETECTADO Break_Up_From_Potential H 124535.52000>-inf(HH)
+2025-04-19 21:33:10,575 - __main__ - INFO - @2025-04-10 12:00:00: DETECTADO CDC_Down L 119479.44000<inf(HL)
+2025-04-19 21:33:10,576 - __main__ - INFO - @2025-04-11 03:00:00: DETECTADO BOS_Down L 119175.44000<119479.44000(LL)
+2025-04-19 21:33:10,576 - __main__ - INFO - @2025-04-11 05:00:00: DETECTADO CDC_Up H 122926.16000>122814.67000(LH)
+2025-04-19 21:33:10,576 - __main__ - INFO - @2025-04-11 13:00:00: DETECTADO Break_Down_From_Potential L 116962.33000<119175.44000(LL)
+2025-04-19 21:33:10,576 - __main__ - INFO - @2025-04-12 10:00:00: DETECTADO CDC_Up H 123722.75000>121366.58000(LH)
+2025-04-19 21:33:10,576 - __main__ - WARNING - Info original no encontrada para punto fuerte 2025-04-12 01:00:00
+2025-04-19 21:33:10,576 - __main__ - INFO - @2025-04-12 23:00:00: DETECTADO Break_Down_From_Potential L 116757.21000<116962.33000(LL)
+2025-04-19 21:33:10,576 - __main__ - INFO - @2025-04-14 14:00:00: DETECTADO CDC_Up H 135282.68000>121478.65000(LH)
+2025-04-19 21:33:10,576 - __main__ - WARNING - Info original no encontrada para punto fuerte 2025-04-13 10:00:00
+2025-04-19 21:33:10,577 - __main__ - INFO - @2025-04-15 11:00:00: DETECTADO BOS_Up H 136012.44000>135282.68000(HH)
+2025-04-19 21:33:10,577 - __main__ - INFO - @2025-04-16 08:00:00: DETECTADO CDC_Down L 128348.95000<130273.97000(HL)
+2025-04-19 21:33:10,577 - __main__ - WARNING - Info original no encontrada para punto fuerte 2025-04-15 23:00:00
+2025-04-19 21:33:10,577 - __main__ - INFO - @2025-04-17 00:00:00: DETECTADO BOS_Down L 125091.66000<128348.95000(LL)
+2025-04-19 21:33:10,577 - __main__ - INFO - @2025-04-17 22:00:00: DETECTADO CDC_Up H 132225.89000>130300.85000(LH)
+2025-04-19 21:33:10,577 - __main__ - WARNING - Info original no encontrada para punto fuerte 2025-04-17 11:00:00
+2025-04-19 21:33:10,577 - __main__ - INFO - @2025-04-18 07:00:00: DETECTADO Break_Down_From_Potential L 124905.24000<125091.66000(LL)
+2025-04-19 21:33:10,577 - __main__ - INFO - @2025-04-18 18:00:00: DETECTADO CDC_Up H 134110.62000>132225.89000(LH)
+2025-04-19 21:33:10,577 - __main__ - INFO - @2025-04-19 16:00:00: DETECTADO CDC_Down L 124078.24000<125777.86000(HL)
+2025-04-19 21:33:10,577 - __main__ - WARNING - Info original no encontrada para punto fuerte 2025-04-19 08:00:00
+2025-04-19 21:33:10,577 - __main__ - INFO - Estructura v5.2: 23 pts. Trend: Potential_Bearish. Strong: 6, Weak: 13
+2025-04-19 21:33:10,578 - __main__ - INFO - Definiendo contexto (Bias y TR v4)...
+2025-04-19 21:33:10,578 - __main__ - INFO - TR Bearish Definido: High=132113.80000 (Strong LH @ 2025-04-16 13:00:00), Low=124078.24000 (Last L @ 2025-04-19 16:00:00)
+2025-04-19 21:33:10,578 - __main__ - WARNING - Resultado final: Sesgo no confirmado (Potential_Bearish). El TR puede no ser fiable.
+2025-04-19 21:33:10,578 - __main__ - INFO - Buscando POIs candidatos (FVG, OB) en H1...
+2025-04-19 21:33:10,588 - __main__ - WARNING - La bï¿½squeda de Wicks necesita implementaciï¿½n.
+2025-04-19 21:33:10,588 - __main__ - INFO - Se encontraron 0 POIs candidatos en H1 (FVGs + OBs bï¿½sicos).
+2025-04-19 21:33:10,588 - __main__ - INFO - --- Anï¿½lisis H1 Completado: Bias=Potential_Bearish, POIs Vï¿½lidos H1=0 ---
+2025-04-19 21:33:10,588 - __main__ - INFO - No hay POIs H1 vï¿½lidos post-validaciï¿½n.
+2025-04-19 21:33:10,588 - __main__ - INFO - Desconectando MT5...
+2025-04-19 21:33:10,588 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-19 21:33:10,588 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-19 21:33:10,588 - __main__ - INFO - Pruebas smc_analyzer finalizadas.
+2025-04-19 21:41:40,062 - __main__ - INFO - Iniciando pruebas unitarias de smc_analyzer (v5.3)...
+2025-04-19 21:41:40,062 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-19 21:41:40,071 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-19 21:41:40,071 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-19 21:41:40,071 - data_manager - INFO - Iniciando actualizaciï¿½n de datos para todas las temporalidades...
+2025-04-19 21:41:40,071 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 16385 (Lookback: 250)...
+2025-04-19 21:41:40,073 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 16385. Filas: 250, ï¿½ltima vela: 2025-04-20 02:00:00
+2025-04-19 21:41:40,073 - data_manager - INFO - Datos para 16385 actualizados correctamente. 250 velas.
+2025-04-19 21:41:40,073 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-19 21:41:40,083 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-20 02:30:00
+2025-04-19 21:41:40,084 - data_manager - INFO - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-19 21:41:40,084 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 5 (Lookback: 75)...
+2025-04-19 21:41:40,088 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 5. Filas: 75, ï¿½ltima vela: 2025-04-20 02:40:00
+2025-04-19 21:41:40,088 - data_manager - INFO - Datos para 5 actualizados correctamente. 75 velas.
+2025-04-19 21:41:40,088 - data_manager - INFO - Actualizaciï¿½n de datos para todas las temporalidades completada exitosamente.
+2025-04-19 21:41:40,088 - __main__ - INFO - --- Iniciando Anï¿½lisis de Contexto H1 ---
+2025-04-19 21:41:40,095 - __main__ - INFO - Determinando estructura de mercado (v5.3)...
+2025-04-19 21:41:40,097 - __main__ - INFO - @2025-04-10 08:00:00: DETECTADO Break_Up_From_Potential H 124535.52000>-inf(HH)
+2025-04-19 21:41:40,097 - __main__ - INFO - @2025-04-10 12:00:00: DETECTADO CDC_Down L 119479.44000<inf(HL)
+2025-04-19 21:41:40,097 - __main__ - INFO - @2025-04-11 03:00:00: DETECTADO BOS_Down L 119175.44000<119479.44000(LL)
+2025-04-19 21:41:40,097 - __main__ - INFO - @2025-04-11 05:00:00: DETECTADO CDC_Up H 122926.16000>122814.67000(LH)
+2025-04-19 21:41:40,097 - __main__ - INFO - @2025-04-11 13:00:00: DETECTADO Break_Down_From_Potential L 116962.33000<119175.44000(LL)
+2025-04-19 21:41:40,097 - __main__ - INFO - @2025-04-12 10:00:00: DETECTADO CDC_Up H 123722.75000>121366.58000(LH)
+2025-04-19 21:41:40,097 - __main__ - WARNING - Info original no encontrada para punto fuerte 2025-04-12 01:00:00
+2025-04-19 21:41:40,097 - __main__ - INFO - @2025-04-12 23:00:00: DETECTADO Break_Down_From_Potential L 116757.21000<116962.33000(LL)
+2025-04-19 21:41:40,097 - __main__ - INFO - @2025-04-14 14:00:00: DETECTADO CDC_Up H 135282.68000>121478.65000(LH)
+2025-04-19 21:41:40,097 - __main__ - WARNING - Info original no encontrada para punto fuerte 2025-04-13 10:00:00
+2025-04-19 21:41:40,099 - __main__ - INFO - @2025-04-15 11:00:00: DETECTADO BOS_Up H 136012.44000>135282.68000(HH)
+2025-04-19 21:41:40,099 - __main__ - INFO - @2025-04-16 08:00:00: DETECTADO CDC_Down L 128348.95000<130273.97000(HL)
+2025-04-19 21:41:40,099 - __main__ - WARNING - Info original no encontrada para punto fuerte 2025-04-15 23:00:00
+2025-04-19 21:41:40,099 - __main__ - INFO - @2025-04-17 00:00:00: DETECTADO BOS_Down L 125091.66000<128348.95000(LL)
+2025-04-19 21:41:40,099 - __main__ - INFO - @2025-04-17 22:00:00: DETECTADO CDC_Up H 132225.89000>130300.85000(LH)
+2025-04-19 21:41:40,099 - __main__ - WARNING - Info original no encontrada para punto fuerte 2025-04-17 11:00:00
+2025-04-19 21:41:40,099 - __main__ - INFO - @2025-04-18 07:00:00: DETECTADO Break_Down_From_Potential L 124905.24000<125091.66000(LL)
+2025-04-19 21:41:40,100 - __main__ - INFO - @2025-04-18 18:00:00: DETECTADO CDC_Up H 134110.62000>132225.89000(LH)
+2025-04-19 21:41:40,100 - __main__ - INFO - @2025-04-19 16:00:00: DETECTADO CDC_Down L 124078.24000<125777.86000(HL)
+2025-04-19 21:41:40,100 - __main__ - WARNING - Info original no encontrada para punto fuerte 2025-04-19 08:00:00
+2025-04-19 21:41:40,100 - __main__ - INFO - Estructura v5.3: 23 pts. Trend: Potential_Bearish. Strong: 6, Weak: 13
+2025-04-19 21:41:40,100 - __main__ - INFO - Definiendo contexto (Bias y TR v4)...
+2025-04-19 21:41:40,100 - __main__ - INFO - TR Bearish Definido: High=132113.80000 (Strong LH @ 2025-04-16 13:00:00), Low=124078.24000 (Last L @ 2025-04-19 16:00:00)
+2025-04-19 21:41:40,100 - __main__ - WARNING - Resultado final: Sesgo no confirmado (Potential_Bearish). El TR puede no ser fiable.
+2025-04-19 21:41:40,100 - __main__ - INFO - Buscando POIs candidatos (FVG, OB) en H1...
+2025-04-19 21:41:40,110 - __main__ - WARNING - La bï¿½squeda de Wicks necesita implementaciï¿½n.
+2025-04-19 21:41:40,110 - __main__ - INFO - Se encontraron 0 POIs candidatos en H1 (FVGs + OBs bï¿½sicos).
+2025-04-19 21:41:40,110 - __main__ - INFO - --- Anï¿½lisis H1 Completado: Bias=Potential_Bearish, POIs Vï¿½lidos H1=0 ---
+2025-04-19 21:41:40,110 - __main__ - INFO - No hay POIs H1 vï¿½lidos post-validaciï¿½n.
+2025-04-19 21:41:40,110 - __main__ - INFO - Desconectando MT5...
+2025-04-19 21:41:40,110 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-19 21:41:40,110 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-19 21:41:40,110 - __main__ - INFO - Pruebas smc_analyzer finalizadas.
+2025-04-19 21:51:53,014 - __main__ - INFO - Iniciando pruebas unitarias de smc_analyzer (v5.5)...
+2025-04-19 21:51:53,014 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-19 21:51:53,023 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-19 21:51:53,023 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-19 21:51:53,023 - data_manager - INFO - Iniciando actualizaciï¿½n de datos para todas las temporalidades...
+2025-04-19 21:51:53,023 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 16385 (Lookback: 250)...
+2025-04-19 21:51:53,025 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 16385. Filas: 250, ï¿½ltima vela: 2025-04-20 02:00:00
+2025-04-19 21:51:53,026 - data_manager - INFO - Datos para 16385 actualizados correctamente. 250 velas.
+2025-04-19 21:51:53,026 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-19 21:51:53,027 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-20 02:45:00
+2025-04-19 21:51:53,027 - data_manager - INFO - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-19 21:51:53,027 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 5 (Lookback: 75)...
+2025-04-19 21:51:53,029 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 5. Filas: 75, ï¿½ltima vela: 2025-04-20 02:50:00
+2025-04-19 21:51:53,029 - data_manager - INFO - Datos para 5 actualizados correctamente. 75 velas.
+2025-04-19 21:51:53,029 - data_manager - INFO - Actualizaciï¿½n de datos para todas las temporalidades completada exitosamente.
+2025-04-19 21:51:53,029 - __main__ - INFO - --- Iniciando Anï¿½lisis de Contexto H1 ---
+2025-04-19 21:51:53,036 - __main__ - INFO - Determinando estructura de mercado (v5.5)...
+2025-04-19 21:51:53,038 - __main__ - INFO - @2025-04-10 08:00:00: DETECTADO Break_Up_From_Potential H 124535.52000>-inf(HH)
+2025-04-19 21:51:53,039 - __main__ - INFO - @2025-04-10 12:00:00: DETECTADO CDC_Down L 119479.44000<inf(HL)
+2025-04-19 21:51:53,039 - __main__ - INFO - @2025-04-11 03:00:00: DETECTADO BOS_Down L 119175.44000<119479.44000(LL)
+2025-04-19 21:51:53,039 - __main__ - INFO - @2025-04-11 05:00:00: DETECTADO CDC_Up H 122926.16000>122814.67000(LH)
+2025-04-19 21:51:53,039 - __main__ - INFO - @2025-04-11 13:00:00: DETECTADO Break_Down_Unknown L 116962.33000<119175.44000(LL)
+2025-04-19 21:51:53,039 - __main__ - INFO - @2025-04-12 10:00:00: DETECTADO BOS_Up H 123722.75000>122926.16000(HH)
+2025-04-19 21:51:53,039 - __main__ - INFO - @2025-04-12 23:00:00: DETECTADO CDC_Down L 116757.21000<118573.85000(HL)
+2025-04-19 21:51:53,040 - __main__ - INFO - @2025-04-14 14:00:00: DETECTADO CDC_Up H 135282.68000>121478.65000(LH)
+2025-04-19 21:51:53,040 - __main__ - WARNING - Info original no encontrada para punto fuerte 2025-04-13 10:00:00
+2025-04-19 21:51:53,040 - __main__ - INFO - @2025-04-15 11:00:00: DETECTADO BOS_Up H 136012.44000>135282.68000(HH)
+2025-04-19 21:51:53,040 - __main__ - INFO - @2025-04-16 08:00:00: DETECTADO CDC_Down L 128348.95000<130273.97000(HL)
+2025-04-19 21:51:53,040 - __main__ - WARNING - Info original no encontrada para punto fuerte 2025-04-15 23:00:00
+2025-04-19 21:51:53,040 - __main__ - INFO - @2025-04-17 00:00:00: DETECTADO BOS_Down L 125091.66000<128348.95000(LL)
+2025-04-19 21:51:53,040 - __main__ - INFO - @2025-04-17 22:00:00: DETECTADO CDC_Up H 132225.89000>130300.85000(LH)
+2025-04-19 21:51:53,040 - __main__ - WARNING - Info original no encontrada para punto fuerte 2025-04-17 11:00:00
+2025-04-19 21:51:53,040 - __main__ - INFO - @2025-04-18 07:00:00: DETECTADO Break_Down_Unknown L 124905.24000<125091.66000(LL)
+2025-04-19 21:51:53,041 - __main__ - INFO - @2025-04-18 18:00:00: DETECTADO Break_Up_From_Potential H 134110.62000>132225.89000(HH)
+2025-04-19 21:51:53,041 - __main__ - INFO - @2025-04-19 16:00:00: DETECTADO CDC_Down L 124078.24000<125777.86000(HL)
+2025-04-19 21:51:53,041 - __main__ - WARNING - Info original no encontrada para punto fuerte 2025-04-19 08:00:00
+2025-04-19 21:51:53,041 - __main__ - INFO - Estructura v5.5: 23 pts. Trend: Potential_Bearish. Strong: 10, Weak: 13
+2025-04-19 21:51:53,041 - __main__ - INFO - Definiendo contexto (Bias y TR v4)...
+2025-04-19 21:51:53,041 - __main__ - INFO - TR Bearish Definido: High=132225.89000 (Strong LH @ 2025-04-17 22:00:00), Low=124078.24000 (Last L @ 2025-04-19 16:00:00)
+2025-04-19 21:51:53,041 - __main__ - WARNING - Resultado final: Sesgo no confirmado (Potential_Bearish). El TR puede no ser fiable.
+2025-04-19 21:51:53,041 - __main__ - INFO - Buscando POIs candidatos (FVG, OB) en H1...
+2025-04-19 21:51:53,052 - __main__ - WARNING - La bï¿½squeda de Wicks necesita implementaciï¿½n.
+2025-04-19 21:51:53,052 - __main__ - INFO - Se encontraron 0 POIs candidatos en H1 (FVGs + OBs bï¿½sicos).
+2025-04-19 21:51:53,052 - __main__ - INFO - --- Anï¿½lisis H1 Completado: Bias=Potential_Bearish, POIs Vï¿½lidos H1=0 ---
+2025-04-19 21:51:53,052 - __main__ - INFO - No hay POIs H1 vï¿½lidos post-validaciï¿½n.
+2025-04-19 21:51:53,052 - __main__ - INFO - Desconectando MT5...
+2025-04-19 21:51:53,052 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-19 21:51:53,052 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-19 21:51:53,052 - __main__ - INFO - Pruebas smc_analyzer finalizadas.
+2025-04-20 19:09:05,732 - __main__ - INFO - Iniciando pruebas unitarias de smc_analyzer (v5.9)...
+2025-04-20 19:09:05,732 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-20 19:09:05,800 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-20 19:09:05,800 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-20 19:09:05,800 - data_manager - INFO - Iniciando actualizaciï¿½n de datos para todas las temporalidades...
+2025-04-20 19:09:05,800 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 16385 (Lookback: 250)...
+2025-04-20 19:09:05,803 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 16385. Filas: 250, ï¿½ltima vela: 2025-04-21 00:00:00
+2025-04-20 19:09:05,803 - data_manager - INFO - Datos para 16385 actualizados correctamente. 250 velas.
+2025-04-20 19:09:05,803 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-20 19:09:05,815 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-21 00:00:00
+2025-04-20 19:09:05,815 - data_manager - INFO - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-20 19:09:05,815 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 5 (Lookback: 75)...
+2025-04-20 19:09:05,833 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 5. Filas: 75, ï¿½ltima vela: 2025-04-21 00:05:00
+2025-04-20 19:09:05,833 - data_manager - INFO - Datos para 5 actualizados correctamente. 75 velas.
+2025-04-20 19:09:05,833 - data_manager - INFO - Actualizaciï¿½n de datos para todas las temporalidades completada exitosamente.
+2025-04-20 19:09:05,833 - __main__ - INFO - --- Iniciando Anï¿½lisis de Contexto H1 ---
+2025-04-20 19:09:05,840 - __main__ - INFO - Determinando estructura de mercado (v5.9)...
+2025-04-20 19:09:05,842 - __main__ - INFO - @2025-04-10 20:00:00: DETECTADO Break_Down_From_Potential L 118589.10000<inf(LL)
+2025-04-20 19:09:05,844 - __main__ - INFO - @2025-04-10 23:00:00: DETECTADO CDC_Up H 122814.67000>-inf(LH)
+2025-04-20 19:09:05,844 - __main__ - INFO - @2025-04-11 05:00:00: DETECTADO BOS_Up H 122926.16000>122814.67000(HH)
+2025-04-20 19:09:05,844 - __main__ - INFO - @2025-04-11 13:00:00: DETECTADO CDC_Down L 116962.33000<119175.44000(HL)
+2025-04-20 19:09:05,844 - __main__ - INFO - @2025-04-12 10:00:00: DETECTADO CDC_Up H 123722.75000>121366.58000(LH)
+2025-04-20 19:09:05,844 - __main__ - WARNING - Info original no encontrada para punto fuerte 2025-04-12 01:00:00
+2025-04-20 19:09:05,844 - __main__ - INFO - @2025-04-12 23:00:00: DETECTADO Break_Down_From_Potential L 116757.21000<116962.33000(LL)
+2025-04-20 19:09:05,844 - __main__ - INFO - @2025-04-14 14:00:00: DETECTADO CDC_Up H 135282.68000>121478.65000(LH)
+2025-04-20 19:09:05,844 - __main__ - WARNING - Info original no encontrada para punto fuerte 2025-04-13 10:00:00
+2025-04-20 19:09:05,844 - __main__ - INFO - @2025-04-15 11:00:00: DETECTADO BOS_Up H 136012.44000>135282.68000(HH)
+2025-04-20 19:09:05,844 - __main__ - INFO - @2025-04-16 08:00:00: DETECTADO CDC_Down L 128348.95000<130273.97000(HL)
+2025-04-20 19:09:05,844 - __main__ - WARNING - Info original no encontrada para punto fuerte 2025-04-15 23:00:00
+2025-04-20 19:09:05,844 - __main__ - INFO - @2025-04-17 00:00:00: DETECTADO BOS_Down L 125091.66000<128348.95000(LL)
+2025-04-20 19:09:05,844 - __main__ - INFO - @2025-04-17 22:00:00: DETECTADO CDC_Up H 132225.89000>130300.85000(LH)
+2025-04-20 19:09:05,846 - __main__ - WARNING - Info original no encontrada para punto fuerte 2025-04-17 11:00:00
+2025-04-20 19:09:05,846 - __main__ - INFO - @2025-04-18 07:00:00: DETECTADO Break_Down_From_Potential L 124905.24000<125091.66000(LL)
+2025-04-20 19:09:05,846 - __main__ - INFO - @2025-04-18 18:00:00: DETECTADO CDC_Up H 134110.62000>132225.89000(LH)
+2025-04-20 19:09:05,846 - __main__ - INFO - @2025-04-19 16:00:00: DETECTADO CDC_Down L 124078.24000<125777.86000(HL)
+2025-04-20 19:09:05,846 - __main__ - WARNING - Info original no encontrada para punto fuerte 2025-04-19 08:00:00
+2025-04-20 19:09:05,846 - __main__ - INFO - @2025-04-20 14:00:00: DETECTADO CDC_Up H 132056.36000>131055.94000(LH)
+2025-04-20 19:09:05,846 - __main__ - WARNING - Info original no encontrada para punto fuerte 2025-04-20 13:00:00
+2025-04-20 19:09:05,846 - __main__ - INFO - Estructura v5.9: 24 pts. Trend: Potential_Bullish. Strong: 6, Weak: 13
+2025-04-20 19:09:05,846 - __main__ - INFO - Definiendo contexto (Bias y TR v4)...
+2025-04-20 19:09:05,846 - __main__ - INFO - TR Bullish Definido: Low=124905.24000 (Strong HL @ 2025-04-18 07:00:00), High=132056.36000 (Last H @ 2025-04-20 14:00:00)
+2025-04-20 19:09:05,846 - __main__ - WARNING - Resultado final: Sesgo no confirmado (Potential_Bullish). El TR puede no ser fiable.
+2025-04-20 19:09:05,846 - __main__ - INFO - Buscando POIs candidatos (FVG, OB) en H1...
+2025-04-20 19:09:05,855 - __main__ - WARNING - La bï¿½squeda de Wicks necesita implementaciï¿½n.
+2025-04-20 19:09:05,855 - __main__ - INFO - Se encontraron 0 POIs candidatos en H1 (FVGs + OBs bï¿½sicos).
+2025-04-20 19:09:05,855 - __main__ - INFO - --- Anï¿½lisis H1 Completado: Bias=Potential_Bullish, POIs Vï¿½lidos H1=0 ---
+2025-04-20 19:09:05,857 - __main__ - INFO - No hay POIs H1 vï¿½lidos post-validaciï¿½n.
+2025-04-20 19:09:05,857 - __main__ - INFO - Desconectando MT5...
+2025-04-20 19:09:05,857 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-20 19:09:05,857 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-20 19:09:05,857 - __main__ - INFO - Pruebas smc_analyzer finalizadas.
+2025-04-20 19:18:48,580 - __main__ - INFO - Iniciando pruebas unitarias de smc_analyzer (v6.1)...
+2025-04-20 19:18:48,581 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-20 19:18:48,589 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-20 19:18:48,589 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-20 19:18:48,589 - data_manager - INFO - Iniciando actualizaciï¿½n de datos para todas las temporalidades...
+2025-04-20 19:18:48,589 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 16385 (Lookback: 250)...
+2025-04-20 19:18:48,592 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 16385. Filas: 250, ï¿½ltima vela: 2025-04-21 00:00:00
+2025-04-20 19:18:48,592 - data_manager - INFO - Datos para 16385 actualizados correctamente. 250 velas.
+2025-04-20 19:18:48,592 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-20 19:18:48,593 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-21 00:15:00
+2025-04-20 19:18:48,593 - data_manager - INFO - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-20 19:18:48,593 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 5 (Lookback: 75)...
+2025-04-20 19:18:48,595 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 5. Filas: 75, ï¿½ltima vela: 2025-04-21 00:15:00
+2025-04-20 19:18:48,595 - data_manager - INFO - Datos para 5 actualizados correctamente. 75 velas.
+2025-04-20 19:18:48,595 - data_manager - INFO - Actualizaciï¿½n de datos para todas las temporalidades completada exitosamente.
+2025-04-20 19:18:48,595 - __main__ - INFO - --- Iniciando Anï¿½lisis de Contexto H1 ---
+2025-04-20 19:18:48,602 - __main__ - INFO - Determinando estructura de mercado (v6.1)...
+2025-04-20 19:18:48,605 - __main__ - INFO - @2025-04-10 20:00:00: DETECTADO Break_Down_From_Potential L 118589.10000<inf(LL)
+2025-04-20 19:18:48,605 - __main__ - INFO - @2025-04-10 23:00:00: DETECTADO CDC_Up H 122814.67000>-inf(LH)
+2025-04-20 19:18:48,606 - __main__ - INFO - @2025-04-11 05:00:00: DETECTADO BOS_Up H 122926.16000>122814.67000(HH)
+2025-04-20 19:18:48,607 - __main__ - INFO - @2025-04-11 13:00:00: DETECTADO CDC_Down L 116962.33000<119175.44000(HL)
+2025-04-20 19:18:48,607 - __main__ - INFO - @2025-04-12 10:00:00: DETECTADO CDC_Up H 123722.75000>121366.58000(LH)
+2025-04-20 19:18:48,607 - __main__ - INFO - @2025-04-12 23:00:00: DETECTADO Break_Down_Unknown L 116757.21000<116962.33000(LL)
+2025-04-20 19:18:48,608 - __main__ - INFO - @2025-04-14 14:00:00: DETECTADO BOS_Up H 135282.68000>123722.75000(HH)
+2025-04-20 19:18:48,608 - __main__ - INFO - @2025-04-15 11:00:00: DETECTADO BOS_Up H 136012.44000>135282.68000(HH)
+2025-04-20 19:18:48,608 - __main__ - INFO - @2025-04-16 08:00:00: DETECTADO CDC_Down L 128348.95000<130273.97000(HL)
+2025-04-20 19:18:48,608 - __main__ - INFO - @2025-04-17 00:00:00: DETECTADO BOS_Down L 125091.66000<128348.95000(LL)
+2025-04-20 19:18:48,609 - __main__ - INFO - @2025-04-17 22:00:00: DETECTADO CDC_Up H 132225.89000>130300.85000(LH)
+2025-04-20 19:18:48,609 - __main__ - INFO - @2025-04-18 07:00:00: DETECTADO Break_Down_Unknown L 124905.24000<125091.66000(LL)
+2025-04-20 19:18:48,609 - __main__ - INFO - @2025-04-18 18:00:00: DETECTADO Break_Up_From_Potential H 134110.62000>132225.89000(HH)
+2025-04-20 19:18:48,609 - __main__ - INFO - @2025-04-19 16:00:00: DETECTADO CDC_Down L 124078.24000<125777.86000(HL)
+2025-04-20 19:18:48,610 - __main__ - INFO - @2025-04-20 14:00:00: DETECTADO CDC_Up H 132056.36000>131055.94000(LH)
+2025-04-20 19:18:48,610 - __main__ - INFO - Estructura v6.1: 24 pts. Trend: Potential_Bullish. Strong: 6, Weak: 13
+2025-04-20 19:18:48,610 - __main__ - INFO - Definiendo contexto (Bias y TR v4)...
+2025-04-20 19:18:48,610 - __main__ - INFO - TR Bullish Definido: Low=124905.24000 (Strong HL @ 2025-04-18 07:00:00), High=132056.36000 (Last H @ 2025-04-20 14:00:00)
+2025-04-20 19:18:48,610 - __main__ - WARNING - Resultado final: Sesgo no confirmado (Potential_Bullish). El TR puede no ser fiable.
+2025-04-20 19:18:48,610 - __main__ - INFO - Buscando POIs candidatos (FVG, OB) en H1...
+2025-04-20 19:18:48,620 - __main__ - WARNING - La bï¿½squeda de Wicks necesita implementaciï¿½n.
+2025-04-20 19:18:48,620 - __main__ - INFO - Se encontraron 0 POIs candidatos en H1 (FVGs + OBs bï¿½sicos).
+2025-04-20 19:18:48,621 - __main__ - INFO - --- Anï¿½lisis H1 Completado: Bias=Potential_Bullish, POIs Vï¿½lidos H1=0 ---
+2025-04-20 19:18:48,621 - __main__ - INFO - No hay POIs H1 vï¿½lidos post-validaciï¿½n.
+2025-04-20 19:18:48,621 - __main__ - INFO - Desconectando MT5...
+2025-04-20 19:18:48,621 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-20 19:18:48,621 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-20 19:18:48,621 - __main__ - INFO - Pruebas smc_analyzer finalizadas.
+2025-04-20 19:44:21,967 - __main__ - INFO - Iniciando pruebas unitarias de smc_analyzer (v7.1)...
+2025-04-20 19:44:21,967 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-20 19:44:21,976 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-20 19:44:21,976 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-20 19:44:21,976 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-20 19:44:21,979 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-21 00:30:00
+2025-04-20 19:44:21,979 - data_manager - INFO - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-20 19:44:21,979 - __main__ - INFO - --- Iniciando Anï¿½lisis de Setup M15 (v7.1) ---
+2025-04-20 19:44:21,987 - __main__ - INFO - ï¿½ltimo evento potencial: BOS_Down @ 2025-04-20 19:45:00 rompiendo 129586.46000
+2025-04-20 19:44:21,989 - __main__ - INFO - Buscando POI de alta probabilidad despuï¿½s de BOS_Down @ 2025-04-20 19:45:00...
+2025-04-20 19:44:21,993 - __main__ - INFO - TR del Impulso (Bearish): Start @ 2025-04-20 18:30:00, End @ 2025-04-20 19:45:00. Low=129524.43000, High=131958.76000, EQ=130741.59500
+2025-04-20 19:44:21,994 - __main__ - ERROR - Error buscando POI especï¿½fico idx 127: module 'config' has no attribute 'TIMEFRAME_M15'
+Traceback (most recent call last):
+  File "c:\Users\USUARIO\Desktop\SMC WilMar Signal Bot\smc_analyzer.py", line 239, in find_high_probability_poi
+    ob_candidate_dict = {'index': candle_index, 'type': 'OB', 'direction': bias, 'timeframe': config.TIMEFRAME_M15}
+                                                                                              ^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'config' has no attribute 'TIMEFRAME_M15'
+2025-04-20 19:44:21,995 - __main__ - INFO - No se encontrï¿½ POI de Alta Probabilidad (OB+Sweep+FVG).
+2025-04-20 19:44:21,995 - __main__ - INFO - No se encontrï¿½ POI vï¿½lido para el ï¿½ltimo BOS M15.
+2025-04-20 19:44:21,996 - __main__ - INFO - Desconectando MT5...
+2025-04-20 19:44:21,996 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-20 19:44:21,996 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-20 19:44:21,996 - __main__ - INFO - Pruebas smc_analyzer finalizadas.
+2025-04-20 19:54:45,656 - __main__ - INFO - Iniciando pruebas unitarias de smc_analyzer (v7.2)...
+2025-04-20 19:54:45,656 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-20 19:54:45,665 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-20 19:54:45,665 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-20 19:54:45,665 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-20 19:54:45,668 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-21 00:45:00
+2025-04-20 19:54:45,668 - data_manager - INFO - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-20 19:54:45,668 - __main__ - INFO - --- Iniciando Anï¿½lisis de Setup M15 (v7.2) ---
+2025-04-20 19:54:45,674 - __main__ - INFO - ï¿½ltimo evento potencial: BOS_Down @ 2025-04-20 19:45:00 rompiendo 129586.46000
+2025-04-20 19:54:45,677 - __main__ - INFO - Buscando POI (M15) de alta probabilidad despuï¿½s de BOS_Down @ 2025-04-20 19:45:00...
+2025-04-20 19:54:45,681 - __main__ - INFO - TR Impulso (Bearish): Start @ 2025-04-20 18:30:00, End @ 2025-04-20 19:45:00. L=129524.43000, H=131958.76000, EQ=130741.59500
+2025-04-20 19:54:45,681 - __main__ - WARNING - Datos insuficientes (6 velas) para lookback=3.
+2025-04-20 19:54:45,682 - __main__ - INFO - No se encontrï¿½ POI (OB+Sweep+FVG).
+2025-04-20 19:54:45,682 - __main__ - INFO - No se encontrï¿½ POI vï¿½lido para el ï¿½ltimo BOS M15.
+2025-04-20 19:54:45,682 - __main__ - INFO - Desconectando MT5...
+2025-04-20 19:54:45,682 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-20 19:54:45,682 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-20 19:54:45,682 - __main__ - INFO - Pruebas smc_analyzer finalizadas.
+2025-04-20 20:42:20,010 - __main__ - INFO - Iniciando pruebas unitarias de smc_analyzer (v7.5)...
+2025-04-20 20:42:20,010 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-20 20:42:20,018 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-20 20:42:20,018 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-20 20:42:20,018 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-20 20:42:20,023 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-21 01:30:00
+2025-04-20 20:42:20,023 - data_manager - INFO - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-20 20:42:20,023 - __main__ - INFO - --- Iniciando Anï¿½lisis de Setup M15 (v7.3) ---
+2025-04-20 20:42:20,030 - __main__ - INFO - No se encontrï¿½ BOS reciente en M15.
+2025-04-20 20:42:20,030 - __main__ - INFO - Desconectando MT5...
+2025-04-20 20:42:20,030 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-20 20:42:20,030 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-20 20:42:20,030 - __main__ - INFO - Pruebas smc_analyzer finalizadas.
+2025-04-20 20:53:13,929 - __main__ - INFO - Iniciando pruebas unitarias de smc_analyzer (v7.6)...
+2025-04-20 20:53:13,929 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-20 20:53:13,936 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-20 20:53:13,938 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-20 20:53:13,938 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-20 20:53:13,940 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-21 01:45:00
+2025-04-20 20:53:13,940 - data_manager - INFO - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-20 20:53:13,941 - __main__ - INFO - --- Iniciando Anï¿½lisis de Setup M15 (v7.4 - Rango 96) ---
+2025-04-20 20:53:13,946 - __main__ - INFO - ï¿½ltimo BOS M15 detectado: BOS_Down @ 2025-04-20 23:45:00
+2025-04-20 20:53:13,948 - __main__ - INFO - Buscando POI M15 de alta probabilidad despuï¿½s de BOS_Down @ 2025-04-20 23:45:00...
+2025-04-20 20:53:13,948 - __main__ - INFO - TR Impulso M15 (Bearish): Start @ 2025-04-20 22:30:00, End @ 2025-04-20 23:45:00. L=128661.29000, H=130302.99000, EQ=129482.14000
+2025-04-20 20:53:13,948 - __main__ - INFO - No se encontrï¿½ POI M15 (OB+Sweep+FVG).
+2025-04-20 20:53:13,948 - __main__ - INFO - No se encontrï¿½ POI vï¿½lido para el ï¿½ltimo BOS M15.
+2025-04-20 20:53:13,948 - __main__ - INFO - Desconectando MT5...
+2025-04-20 20:53:13,948 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-20 20:53:13,948 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-20 20:53:13,948 - __main__ - INFO - Pruebas smc_analyzer finalizadas.
+2025-04-20 21:01:03,002 - __main__ - INFO - Iniciando pruebas unitarias de smc_analyzer (v9.0)...
+2025-04-20 21:01:03,002 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-20 21:01:03,011 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-20 21:01:03,011 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-20 21:01:03,011 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-20 21:01:03,013 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-21 02:00:00
+2025-04-20 21:01:03,014 - data_manager - INFO - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-20 21:01:03,014 - __main__ - INFO - --- Iniciando Anï¿½lisis de Rango ï¿½ltimas 96 Velas M15 (v9.0) ---
+2025-04-20 21:01:03,016 - __main__ - INFO - Rango 96 velas M15: Low=128020.84000, High=132056.36000, EQ=130038.60000
+2025-04-20 21:01:03,016 - __main__ - INFO - Desconectando MT5...
+2025-04-20 21:01:03,016 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-20 21:01:03,017 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-20 21:01:03,017 - __main__ - INFO - Pruebas smc_analyzer finalizadas.
+2025-04-20 21:04:08,254 - __main__ - INFO - Iniciando pruebas unitarias de smc_analyzer (v9.1)...
+2025-04-20 21:04:08,254 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-20 21:04:08,263 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-20 21:04:08,263 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-20 21:04:08,263 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-20 21:04:08,266 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-21 02:00:00
+2025-04-20 21:04:08,266 - data_manager - INFO - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-20 21:04:08,266 - __main__ - INFO - --- Iniciando Anï¿½lisis de Setup M15 (v9.1 - Rango 96) ---
+2025-04-20 21:04:08,270 - __main__ - INFO - TR 96 velas: Low=128020.84000, High=132056.36000, EQ=130038.60000
+2025-04-20 21:04:08,271 - __main__ - INFO - ï¿½ltimo BOS M15 detectado: BOS_Down @ 2025-04-20 23:45:00. Bias = Bearish
+2025-04-20 21:04:08,273 - __main__ - INFO - Buscando POI M15 (Bearish) en TR 24h...
+2025-04-20 21:04:08,277 - __main__ - INFO - POI Val(2025-04-20 14:30:00 M15): BARRIDO LIQ ALCISTA OK (Local).
+2025-04-20 21:04:08,277 - __main__ - INFO - ï¿½POI M15 Encontrado! OB @ 2025-04-20 14:30:00 (barriï¿½ liq + FVG)
+2025-04-20 21:04:08,277 - __main__ - WARNING - POI Val(2025-04-20 14:30:00 M15): MITIGADO (Bearish)
+2025-04-20 21:04:08,277 - __main__ - WARNING - POI M15 @ 2025-04-20 14:30:00 encontrado, pero ya mitigado.
+2025-04-20 21:04:08,277 - __main__ - INFO - No se encontrï¿½ un POI de alta probabilidad vï¿½lido en esta ejecuciï¿½n.
+2025-04-20 21:04:08,278 - __main__ - INFO - Desconectando MT5...
+2025-04-20 21:04:08,278 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-20 21:04:08,278 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-20 21:04:08,278 - __main__ - INFO - Pruebas smc_analyzer finalizadas.
+2025-04-20 21:20:52,308 - __main__ - INFO - Iniciando pruebas unitarias de smc_analyzer (v10.1)...
+2025-04-20 21:20:52,308 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-20 21:20:52,318 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-20 21:20:52,318 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-20 21:20:52,318 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-20 21:20:52,320 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-21 02:15:00
+2025-04-20 21:20:52,320 - data_manager - INFO - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-20 21:20:52,321 - __main__ - INFO - --- Iniciando Anï¿½lisis de Setup M15 (v10.1 - Rango 96) ---
+2025-04-20 21:20:52,325 - __main__ - INFO - TR 96 velas: Low=128020.84000 @ 2025-04-20 02:45:00, High=132056.36000 @ 2025-04-20 14:30:00, EQ=130038.60000
+2025-04-20 21:20:52,326 - __main__ - INFO - ï¿½ltimo BOS M15 relativo al rango: BOS_Up @ 2025-04-20 09:00:00
+2025-04-20 21:20:52,327 - __main__ - INFO - Bias M15 determinado por ï¿½ltimo BOS interno: Bullish
+2025-04-20 21:20:52,328 - __main__ - INFO - Buscando POI M15 (Bullish) en TR 128020.84000-132056.36000...
+2025-04-20 21:20:52,334 - __main__ - INFO - No se encontrï¿½ POI M15 (OB+Sweep+FVG) en la zona.
+2025-04-20 21:20:52,334 - __main__ - INFO - Bias M15 es Bullish basado en ï¿½ltimo BOS, pero no se encontrï¿½ POI vï¿½lido.
+2025-04-20 21:20:52,334 - __main__ - INFO - Desconectando MT5...
+2025-04-20 21:20:52,334 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-20 21:20:52,334 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-20 21:20:52,334 - __main__ - INFO - Pruebas smc_analyzer finalizadas.
+2025-04-20 21:27:35,965 - __main__ - INFO - Iniciando pruebas unitarias de smc_analyzer (v10.1)...
+2025-04-20 21:27:35,965 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-20 21:27:35,973 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-20 21:27:35,974 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-20 21:27:35,974 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-20 21:27:35,976 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-21 02:15:00
+2025-04-20 21:27:35,976 - data_manager - INFO - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-20 21:27:35,976 - __main__ - INFO - --- Iniciando Anï¿½lisis de Setup M15 (v10.1 - Rango 96) ---
+2025-04-20 21:27:35,981 - __main__ - INFO - TR 96 velas: Low=128020.84000 @ 2025-04-20 02:45:00, High=132289.89000 @ 2025-04-21 02:15:00, EQ=130155.36500
+2025-04-20 21:27:35,982 - __main__ - INFO - ï¿½ltimo BOS M15 relativo al rango: BOS_Up @ 2025-04-20 18:30:00
+2025-04-20 21:27:35,982 - __main__ - INFO - Bias M15 determinado por ï¿½ltimo BOS interno: Bullish
+2025-04-20 21:27:35,984 - __main__ - INFO - Buscando POI M15 (Bullish) en TR 128020.84000-132289.89000...
+2025-04-20 21:27:35,989 - __main__ - INFO - No se encontrï¿½ POI M15 (OB+Sweep+FVG) en la zona.
+2025-04-20 21:27:35,989 - __main__ - INFO - Bias M15 es Bullish basado en ï¿½ltimo BOS, pero no se encontrï¿½ POI vï¿½lido.
+2025-04-20 21:27:35,990 - __main__ - INFO - Desconectando MT5...
+2025-04-20 21:27:35,990 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-20 21:27:35,990 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-20 21:27:35,990 - __main__ - INFO - Pruebas smc_analyzer finalizadas.
+2025-04-21 20:01:56,187 - __main__ - INFO - Iniciando pruebas unitarias de smc_analyzer (v10.1)...
+2025-04-21 20:01:56,188 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-21 20:01:56,196 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-21 20:01:56,197 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-21 20:01:56,197 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-21 20:01:56,199 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-22 01:00:00
+2025-04-21 20:01:56,199 - data_manager - INFO - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-21 20:01:56,199 - __main__ - INFO - --- Iniciando Anï¿½lisis de Setup M15 (v10.1 - Rango 96) ---
+2025-04-21 20:01:56,206 - __main__ - INFO - TR 96 velas: Low=130330.34000 @ 2025-04-21 01:15:00, High=137495.08000 @ 2025-04-21 16:15:00, EQ=133912.71000
+2025-04-21 20:01:56,208 - __main__ - INFO - ï¿½ltimo BOS M15 relativo al rango: BOS_Up @ 2025-04-21 09:00:00
+2025-04-21 20:01:56,208 - __main__ - INFO - Bias M15 determinado por ï¿½ltimo BOS interno: Bullish
+2025-04-21 20:01:56,210 - __main__ - INFO - Buscando POI M15 (Bullish) en TR 130330.34000-137495.08000...
+2025-04-21 20:01:56,213 - __main__ - INFO - POI Val(2025-04-21 20:30:00 M15): BARRIDO LIQ BAJISTA OK (Local).
+2025-04-21 20:01:56,213 - __main__ - INFO - ï¿½POI M15 Encontrado! OB @ 2025-04-21 20:30:00 (barriï¿½ liq + FVG)
+2025-04-21 20:01:56,216 - __main__ - WARNING - POI Val(2025-04-21 20:30:00 M15): MITIGADO (Bullish). Max post 134024.44000 >= 50% 130763.90500
+2025-04-21 20:01:56,216 - __main__ - WARNING - POI M15 @ 2025-04-21 20:30:00 encontrado, pero ya mitigado.
+2025-04-21 20:01:56,216 - __main__ - INFO - Bias M15 es Bullish basado en ï¿½ltimo BOS, pero no se encontrï¿½ POI vï¿½lido.
+2025-04-21 20:01:56,217 - __main__ - INFO - Desconectando MT5...
+2025-04-21 20:01:56,217 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-21 20:01:56,217 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-21 20:01:56,217 - __main__ - INFO - Pruebas smc_analyzer finalizadas.
+2025-04-21 20:28:03,258 - notifiers.telegram_notifier - INFO - Bot de Telegram inicializado correctamente (modo Async).
+2025-04-21 20:28:03,260 - __main__        - INFO     - *** Iniciando Volatility 75 Index SMC Analyzer (v10.1 - Estrategia M15 Rango Fijo) ***
+2025-04-21 20:28:03,260 - mt5_connector   - INFO     - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-21 20:28:03,260 - mt5_connector   - ERROR    - Fallo al inicializar MT5 (intento 1/3). Error MT5: (-10003, "IPC initialize failed, Process create failed 'C:\\\\Program Files\\\\MetaTrader 5 Terminal'")
+2025-04-21 20:28:03,260 - mt5_connector   - INFO     - Reintentando conexiï¿½n en 5 segundos...
+2025-04-21 20:28:08,262 - mt5_connector   - ERROR    - Fallo al inicializar MT5 (intento 2/3). Error MT5: (-10003, "IPC initialize failed, Process create failed 'C:\\\\Program Files\\\\MetaTrader 5 Terminal'")
+2025-04-21 20:28:08,263 - mt5_connector   - INFO     - Reintentando conexiï¿½n en 5 segundos...
+2025-04-21 20:28:13,264 - mt5_connector   - ERROR    - Fallo al inicializar MT5 (intento 3/3). Error MT5: (-10003, "IPC initialize failed, Process create failed 'C:\\\\Program Files\\\\MetaTrader 5 Terminal'")
+2025-04-21 20:28:13,264 - mt5_connector   - CRITICAL - Se superï¿½ el nï¿½mero mï¿½ximo de reintentos de conexiï¿½n a MT5.
+2025-04-21 20:28:13,264 - __main__        - CRITICAL - No se pudo conectar a MT5 al inicio. Saliendo.
+2025-04-21 20:32:35,175 - notifiers.telegram_notifier - INFO - Bot de Telegram inicializado correctamente (modo Async).
+2025-04-21 20:32:35,177 - __main__        - INFO     - *** Iniciando Volatility 75 Index SMC Analyzer (v10.1 - Estrategia M15 Rango Fijo) ***
+2025-04-21 20:32:35,177 - mt5_connector   - INFO     - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-21 20:32:37,126 - mt5_connector   - INFO     - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-21 20:32:37,126 - mt5_connector   - INFO     - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-21 20:32:37,126 - __main__        - INFO     - === Iniciando Bucle Principal del Analizador SMC (Estrategia M15 Rango Fijo) ===
+2025-04-21 20:32:37,126 - __main__        - INFO     - --- Inicio del Ciclo de Anï¿½lisis M15 ---
+2025-04-21 20:32:37,126 - __main__        - INFO     - Actualizando datos M15...
+2025-04-21 20:32:37,129 - data_manager    - INFO     - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-21 20:32:37,131 - mt5_connector   - INFO     - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-22 01:15:00
+2025-04-21 20:32:37,131 - data_manager    - INFO     - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-21 20:32:37,131 - __main__        - INFO     - Ejecutando anï¿½lisis de setup M15...
+2025-04-21 20:32:37,131 - smc_analyzer    - INFO     - --- Iniciando Anï¿½lisis de Setup M15 (v10.1 - Rango 96) ---
+2025-04-21 20:32:37,135 - smc_analyzer    - INFO     - TR 96 velas: Low=130476.03000 @ 2025-04-21 20:30:00, High=137495.08000 @ 2025-04-21 16:15:00, EQ=133985.55500
+2025-04-21 20:32:37,137 - smc_analyzer    - INFO     - ï¿½ltimo BOS M15 relativo al rango: BOS_Up @ 2025-04-21 09:00:00
+2025-04-21 20:32:37,137 - smc_analyzer    - INFO     - Bias M15 determinado por ï¿½ltimo BOS interno: Bullish
+2025-04-21 20:32:37,139 - smc_analyzer    - INFO     - Buscando POI M15 (Bullish) en TR 130476.03000-137495.08000...
+2025-04-21 20:32:37,141 - smc_analyzer    - INFO     - POI Val(2025-04-21 20:30:00 M15): BARRIDO LIQ BAJISTA OK (Local).
+2025-04-21 20:32:37,141 - smc_analyzer    - INFO     - ï¿½POI M15 Encontrado! OB @ 2025-04-21 20:30:00 (barriï¿½ liq + FVG)
+2025-04-21 20:32:37,141 - smc_analyzer    - WARNING  - POI Val(2025-04-21 20:30:00 M15): MITIGADO (Bullish). Max post 134208.62000 >= 50% 130763.90500
+2025-04-21 20:32:37,141 - smc_analyzer    - WARNING  - POI M15 @ 2025-04-21 20:30:00 encontrado, pero ya mitigado.
+2025-04-21 20:32:37,142 - smc_analyzer    - INFO     - Bias M15 es Bullish basado en ï¿½ltimo BOS, pero no se encontrï¿½ POI vï¿½lido.
+2025-04-21 20:32:37,142 - __main__        - INFO     - --- Fin del Ciclo de Anï¿½lisis M15 (Duraciï¿½n: 0.016s) ---
+2025-04-21 20:32:37,142 - __main__        - INFO     - Esperando 744.86 segundos para la prï¿½xima vela M15...
+2025-04-21 20:37:49,136 - __main__        - INFO     - Aplicaciï¿½n interrumpida por el usuario (fuera del bucle).
+2025-04-21 20:37:49,136 - __main__        - INFO     - Finalizando aplicaciï¿½n y desconectando de MT5...
+2025-04-21 20:37:49,136 - mt5_connector   - INFO     - Desconectando de MetaTrader 5...
+2025-04-21 20:37:49,136 - mt5_connector   - INFO     - Desconexiï¿½n de MT5 completada.
+2025-04-21 20:37:49,136 - __main__        - INFO     - *** Volatility 75 Index SMC Analyzer Finalizado ***
+2025-04-21 20:38:06,143 - notifiers.telegram_notifier - INFO - Bot de Telegram inicializado correctamente (modo Async).
+2025-04-21 20:38:06,143 - __main__        - INFO     - *** Iniciando Volatility 75 Index SMC Analyzer (v10.1 - Estrategia M15 Rango Fijo) ***
+2025-04-21 20:38:06,144 - mt5_connector   - INFO     - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-21 20:38:08,102 - mt5_connector   - INFO     - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-21 20:38:08,102 - mt5_connector   - INFO     - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-21 20:38:08,103 - __main__        - INFO     - === Iniciando Bucle Principal del Analizador SMC (Estrategia M15 Rango Fijo) ===
+2025-04-21 20:38:08,103 - __main__        - INFO     - Enviando mensaje de bienvenida a Telegram...
+2025-04-21 20:38:08,742 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-21 20:38:08,743 - notifiers.telegram_notifier - INFO     - Mensaje enviado exitosamente a Telegram (intento async 1/3).
+2025-04-21 20:38:08,743 - __main__        - INFO     - Mensaje de bienvenida enviado correctamente.
+2025-04-21 20:38:08,743 - __main__        - INFO     - --- Inicio del Ciclo de Anï¿½lisis M15 ---
+2025-04-21 20:38:08,743 - __main__        - INFO     - Actualizando datos M15...
+2025-04-21 20:38:08,743 - data_manager    - INFO     - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-21 20:38:08,746 - mt5_connector   - INFO     - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-22 01:30:00
+2025-04-21 20:38:08,746 - data_manager    - INFO     - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-21 20:38:08,746 - __main__        - INFO     - Ejecutando anï¿½lisis de setup M15...
+2025-04-21 20:38:08,746 - smc_analyzer    - INFO     - --- Iniciando Anï¿½lisis de Setup M15 (v10.1 - Rango 96) ---
+2025-04-21 20:38:08,751 - smc_analyzer    - INFO     - TR 96 velas: Low=130476.03000 @ 2025-04-21 20:30:00, High=137495.08000 @ 2025-04-21 16:15:00, EQ=133985.55500
+2025-04-21 20:38:08,752 - smc_analyzer    - INFO     - ï¿½ltimo BOS M15 relativo al rango: BOS_Up @ 2025-04-21 09:00:00
+2025-04-21 20:38:08,752 - smc_analyzer    - INFO     - Bias M15 determinado por ï¿½ltimo BOS interno: Bullish
+2025-04-21 20:38:08,754 - smc_analyzer    - INFO     - Buscando POI M15 (Bullish) en TR 130476.03000-137495.08000...
+2025-04-21 20:38:08,756 - smc_analyzer    - INFO     - POI Val(2025-04-21 20:30:00 M15): BARRIDO LIQ BAJISTA OK (Local).
+2025-04-21 20:38:08,756 - smc_analyzer    - INFO     - ï¿½POI M15 Encontrado! OB @ 2025-04-21 20:30:00 (barriï¿½ liq + FVG)
+2025-04-21 20:38:08,756 - smc_analyzer    - WARNING  - POI Val(2025-04-21 20:30:00 M15): MITIGADO (Bullish). Max post 134208.62000 >= 50% 130763.90500
+2025-04-21 20:38:08,756 - smc_analyzer    - WARNING  - POI M15 @ 2025-04-21 20:30:00 encontrado, pero ya mitigado.
+2025-04-21 20:38:08,756 - smc_analyzer    - INFO     - Bias M15 es Bullish basado en ï¿½ltimo BOS, pero no se encontrï¿½ POI vï¿½lido.
+2025-04-21 20:38:08,756 - __main__        - INFO     - --- Fin del Ciclo de Anï¿½lisis M15 (Duraciï¿½n: 0.013s) ---
+2025-04-21 20:38:08,757 - __main__        - INFO     - Esperando 413.24 segundos para la prï¿½xima vela M15...
+2025-04-21 20:45:02,004 - __main__        - INFO     - --- Inicio del Ciclo de Anï¿½lisis M15 ---
+2025-04-21 20:45:02,004 - __main__        - INFO     - Actualizando datos M15...
+2025-04-21 20:45:02,004 - data_manager    - INFO     - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-21 20:45:02,006 - mt5_connector   - INFO     - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-22 01:45:00
+2025-04-21 20:45:02,006 - data_manager    - INFO     - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-21 20:45:02,006 - __main__        - INFO     - Ejecutando anï¿½lisis de setup M15...
+2025-04-21 20:45:02,006 - smc_analyzer    - INFO     - --- Iniciando Anï¿½lisis de Setup M15 (v10.1 - Rango 96) ---
+2025-04-21 20:45:02,010 - smc_analyzer    - INFO     - TR 96 velas: Low=130476.03000 @ 2025-04-21 20:30:00, High=137495.08000 @ 2025-04-21 16:15:00, EQ=133985.55500
+2025-04-21 20:45:02,010 - smc_analyzer    - INFO     - ï¿½ltimo BOS M15 relativo al rango: BOS_Up @ 2025-04-21 09:00:00
+2025-04-21 20:45:02,012 - smc_analyzer    - INFO     - Bias M15 determinado por ï¿½ltimo BOS interno: Bullish
+2025-04-21 20:45:02,014 - smc_analyzer    - INFO     - Buscando POI M15 (Bullish) en TR 130476.03000-137495.08000...
+2025-04-21 20:45:02,016 - smc_analyzer    - INFO     - POI Val(2025-04-21 20:30:00 M15): BARRIDO LIQ BAJISTA OK (Local).
+2025-04-21 20:45:02,016 - smc_analyzer    - INFO     - ï¿½POI M15 Encontrado! OB @ 2025-04-21 20:30:00 (barriï¿½ liq + FVG)
+2025-04-21 20:45:02,016 - smc_analyzer    - WARNING  - POI Val(2025-04-21 20:30:00 M15): MITIGADO (Bullish). Max post 134208.62000 >= 50% 130763.90500
+2025-04-21 20:45:02,016 - smc_analyzer    - WARNING  - POI M15 @ 2025-04-21 20:30:00 encontrado, pero ya mitigado.
+2025-04-21 20:45:02,016 - smc_analyzer    - INFO     - Bias M15 es Bullish basado en ï¿½ltimo BOS, pero no se encontrï¿½ POI vï¿½lido.
+2025-04-21 20:45:02,016 - __main__        - INFO     - --- Fin del Ciclo de Anï¿½lisis M15 (Duraciï¿½n: 0.012s) ---
+2025-04-21 20:45:02,018 - __main__        - INFO     - Esperando 899.98 segundos para la prï¿½xima vela M15...
+2025-04-21 21:00:02,017 - __main__        - INFO     - --- Inicio del Ciclo de Anï¿½lisis M15 ---
+2025-04-21 21:00:02,017 - __main__        - INFO     - Actualizando datos M15...
+2025-04-21 21:00:02,017 - data_manager    - INFO     - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-21 21:00:02,019 - mt5_connector   - INFO     - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-22 02:00:00
+2025-04-21 21:00:02,020 - data_manager    - INFO     - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-21 21:00:02,020 - __main__        - INFO     - Ejecutando anï¿½lisis de setup M15...
+2025-04-21 21:00:02,020 - smc_analyzer    - INFO     - --- Iniciando Anï¿½lisis de Setup M15 (v10.1 - Rango 96) ---
+2025-04-21 21:00:02,023 - smc_analyzer    - INFO     - TR 96 velas: Low=130476.03000 @ 2025-04-21 20:30:00, High=137495.08000 @ 2025-04-21 16:15:00, EQ=133985.55500
+2025-04-21 21:00:02,024 - smc_analyzer    - INFO     - ï¿½ltimo BOS M15 relativo al rango: BOS_Up @ 2025-04-21 09:00:00
+2025-04-21 21:00:02,025 - smc_analyzer    - INFO     - Bias M15 determinado por ï¿½ltimo BOS interno: Bullish
+2025-04-21 21:00:02,028 - smc_analyzer    - INFO     - Buscando POI M15 (Bullish) en TR 130476.03000-137495.08000...
+2025-04-21 21:00:02,029 - smc_analyzer    - INFO     - POI Val(2025-04-21 20:30:00 M15): BARRIDO LIQ BAJISTA OK (Local).
+2025-04-21 21:00:02,030 - smc_analyzer    - INFO     - ï¿½POI M15 Encontrado! OB @ 2025-04-21 20:30:00 (barriï¿½ liq + FVG)
+2025-04-21 21:00:02,030 - smc_analyzer    - WARNING  - POI Val(2025-04-21 20:30:00 M15): MITIGADO (Bullish). Max post 134208.62000 >= 50% 130763.90500
+2025-04-21 21:00:02,030 - smc_analyzer    - WARNING  - POI M15 @ 2025-04-21 20:30:00 encontrado, pero ya mitigado.
+2025-04-21 21:00:02,030 - smc_analyzer    - INFO     - Bias M15 es Bullish basado en ï¿½ltimo BOS, pero no se encontrï¿½ POI vï¿½lido.
+2025-04-21 21:00:02,031 - __main__        - INFO     - --- Fin del Ciclo de Anï¿½lisis M15 (Duraciï¿½n: 0.014s) ---
+2025-04-21 21:00:02,031 - __main__        - INFO     - Esperando 899.97 segundos para la prï¿½xima vela M15...
+2025-04-21 21:15:02,001 - __main__        - INFO     - --- Inicio del Ciclo de Anï¿½lisis M15 ---
+2025-04-21 21:15:02,001 - __main__        - INFO     - Actualizando datos M15...
+2025-04-21 21:15:02,001 - data_manager    - INFO     - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-21 21:15:02,003 - mt5_connector   - INFO     - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-22 02:15:00
+2025-04-21 21:15:02,003 - data_manager    - INFO     - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-21 21:15:02,003 - __main__        - INFO     - Ejecutando anï¿½lisis de setup M15...
+2025-04-21 21:15:02,003 - smc_analyzer    - INFO     - --- Iniciando Anï¿½lisis de Setup M15 (v10.1 - Rango 96) ---
+2025-04-21 21:15:02,007 - smc_analyzer    - INFO     - TR 96 velas: Low=130476.03000 @ 2025-04-21 20:30:00, High=137495.08000 @ 2025-04-21 16:15:00, EQ=133985.55500
+2025-04-21 21:15:02,007 - smc_analyzer    - INFO     - ï¿½ltimo BOS M15 relativo al rango: BOS_Up @ 2025-04-21 09:00:00
+2025-04-21 21:15:02,009 - smc_analyzer    - INFO     - Bias M15 determinado por ï¿½ltimo BOS interno: Bullish
+2025-04-21 21:15:02,011 - smc_analyzer    - INFO     - Buscando POI M15 (Bullish) en TR 130476.03000-137495.08000...
+2025-04-21 21:15:02,013 - smc_analyzer    - INFO     - POI Val(2025-04-21 20:30:00 M15): BARRIDO LIQ BAJISTA OK (Local).
+2025-04-21 21:15:02,014 - smc_analyzer    - INFO     - ï¿½POI M15 Encontrado! OB @ 2025-04-21 20:30:00 (barriï¿½ liq + FVG)
+2025-04-21 21:15:02,014 - smc_analyzer    - WARNING  - POI Val(2025-04-21 20:30:00 M15): MITIGADO (Bullish). Max post 134208.62000 >= 50% 130763.90500
+2025-04-21 21:15:02,014 - smc_analyzer    - WARNING  - POI M15 @ 2025-04-21 20:30:00 encontrado, pero ya mitigado.
+2025-04-21 21:15:02,014 - smc_analyzer    - INFO     - Bias M15 es Bullish basado en ï¿½ltimo BOS, pero no se encontrï¿½ POI vï¿½lido.
+2025-04-21 21:15:02,014 - __main__        - INFO     - --- Fin del Ciclo de Anï¿½lisis M15 (Duraciï¿½n: 0.013s) ---
+2025-04-21 21:15:02,015 - __main__        - INFO     - Esperando 899.98 segundos para la prï¿½xima vela M15...
+2025-04-21 21:25:04,086 - __main__        - INFO     - Aplicaciï¿½n interrumpida por el usuario (fuera del bucle).
+2025-04-21 21:25:04,086 - __main__        - INFO     - Finalizando aplicaciï¿½n y desconectando de MT5...
+2025-04-21 21:25:04,086 - mt5_connector   - INFO     - Desconectando de MetaTrader 5...
+2025-04-21 21:25:04,087 - mt5_connector   - INFO     - Desconexiï¿½n de MT5 completada.
+2025-04-21 21:25:04,087 - __main__        - INFO     - *** Volatility 75 Index SMC Analyzer Finalizado ***
+2025-04-21 21:26:30,472 - notifiers.telegram_notifier - INFO - Bot de Telegram inicializado correctamente (modo Async).
+2025-04-21 21:26:30,472 - __main__        - INFO     - *** Iniciando Volatility 75 Index SMC Analyzer (v10.1 - Estrategia M15 Rango Fijo) ***
+2025-04-21 21:26:30,472 - mt5_connector   - INFO     - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-21 21:26:32,425 - mt5_connector   - INFO     - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-21 21:26:32,426 - mt5_connector   - INFO     - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-21 21:26:32,427 - __main__        - INFO     - === Iniciando Bucle Principal del Analizador SMC (Estrategia M15 Rango Fijo) ===
+2025-04-21 21:26:32,427 - __main__        - INFO     - Enviando mensaje de bienvenida a Telegram...
+2025-04-21 21:26:33,125 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-21 21:26:33,125 - notifiers.telegram_notifier - INFO     - Mensaje enviado exitosamente a Telegram (intento async 1/3).
+2025-04-21 21:26:33,125 - __main__        - INFO     - Mensaje de bienvenida enviado correctamente.
+2025-04-21 21:26:33,125 - __main__        - INFO     - --- Inicio del Ciclo de Anï¿½lisis M15 ---
+2025-04-21 21:26:33,125 - __main__        - INFO     - Actualizando datos M15...
+2025-04-21 21:26:33,125 - data_manager    - INFO     - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-21 21:26:33,129 - mt5_connector   - INFO     - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-22 02:15:00
+2025-04-21 21:26:33,129 - data_manager    - INFO     - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-21 21:26:33,129 - __main__        - INFO     - Ejecutando anï¿½lisis de setup M15...
+2025-04-21 21:26:33,129 - smc_analyzer    - INFO     - --- Iniciando Anï¿½lisis de Setup M15 (v10.0 - Rango 96) ---
+2025-04-21 21:26:33,134 - smc_analyzer    - INFO     - TR 96 velas: Low=130476.03000 @ 2025-04-21 20:30:00, High=137495.08000 @ 2025-04-21 16:15:00, EQ=133985.55500
+2025-04-21 21:26:33,135 - smc_analyzer    - INFO     - ï¿½ltimo BOS M15 relativo al rango: BOS_Up @ 2025-04-21 09:00:00
+2025-04-21 21:26:33,136 - smc_analyzer    - INFO     - Bias M15 determinado por ï¿½ltimo BOS interno: Bullish
+2025-04-21 21:26:33,137 - smc_analyzer    - INFO     - Buscando POI M15 (Bullish) en TR 130476.03000-137495.08000...
+2025-04-21 21:26:33,139 - smc_analyzer    - INFO     - POI Val(2025-04-21 20:30:00 M15): BARRIDO LIQ BAJISTA OK (Local).
+2025-04-21 21:26:33,139 - smc_analyzer    - INFO     - ï¿½POI M15 Encontrado! OB @ 2025-04-21 20:30:00 (barriï¿½ liq + FVG)
+2025-04-21 21:26:33,140 - smc_analyzer    - WARNING  - POI Val(2025-04-21 20:30:00 M15): MITIGADO (Bullish)
+2025-04-21 21:26:33,140 - smc_analyzer    - WARNING  - POI M15 @ 2025-04-21 20:30:00 encontrado, pero ya mitigado.
+2025-04-21 21:26:33,140 - smc_analyzer    - INFO     - Bias M15 es Bullish basado en ï¿½ltimo BOS, pero no se encontrï¿½ POI vï¿½lido.
+2025-04-21 21:26:33,140 - __main__        - INFO     - --- Fin del Ciclo de Anï¿½lisis M15 (Duraciï¿½n: 0.015s) ---
+2025-04-21 21:26:33,140 - __main__        - INFO     - Esperando 208.86 segundos para la prï¿½xima vela M15...
+2025-04-21 21:30:02,011 - __main__        - INFO     - --- Inicio del Ciclo de Anï¿½lisis M15 ---
+2025-04-21 21:30:02,011 - __main__        - INFO     - Actualizando datos M15...
+2025-04-21 21:30:02,011 - data_manager    - INFO     - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-21 21:30:02,014 - mt5_connector   - INFO     - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-22 02:30:00
+2025-04-21 21:30:02,014 - data_manager    - INFO     - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-21 21:30:02,014 - __main__        - INFO     - Ejecutando anï¿½lisis de setup M15...
+2025-04-21 21:30:02,014 - smc_analyzer    - INFO     - --- Iniciando Anï¿½lisis de Setup M15 (v10.0 - Rango 96) ---
+2025-04-21 21:30:02,017 - smc_analyzer    - INFO     - TR 96 velas: Low=130476.03000 @ 2025-04-21 20:30:00, High=137495.08000 @ 2025-04-21 16:15:00, EQ=133985.55500
+2025-04-21 21:30:02,019 - smc_analyzer    - INFO     - ï¿½ltimo BOS M15 relativo al rango: BOS_Up @ 2025-04-21 09:00:00
+2025-04-21 21:30:02,019 - smc_analyzer    - INFO     - Bias M15 determinado por ï¿½ltimo BOS interno: Bullish
+2025-04-21 21:30:02,022 - smc_analyzer    - INFO     - Buscando POI M15 (Bullish) en TR 130476.03000-137495.08000...
+2025-04-21 21:30:02,024 - smc_analyzer    - INFO     - POI Val(2025-04-21 20:30:00 M15): BARRIDO LIQ BAJISTA OK (Local).
+2025-04-21 21:30:02,024 - smc_analyzer    - INFO     - ï¿½POI M15 Encontrado! OB @ 2025-04-21 20:30:00 (barriï¿½ liq + FVG)
+2025-04-21 21:30:02,024 - smc_analyzer    - WARNING  - POI Val(2025-04-21 20:30:00 M15): MITIGADO (Bullish)
+2025-04-21 21:30:02,024 - smc_analyzer    - WARNING  - POI M15 @ 2025-04-21 20:30:00 encontrado, pero ya mitigado.
+2025-04-21 21:30:02,025 - smc_analyzer    - INFO     - Bias M15 es Bullish basado en ï¿½ltimo BOS, pero no se encontrï¿½ POI vï¿½lido.
+2025-04-21 21:30:02,025 - __main__        - INFO     - --- Fin del Ciclo de Anï¿½lisis M15 (Duraciï¿½n: 0.014s) ---
+2025-04-21 21:30:02,025 - __main__        - INFO     - Esperando 899.97 segundos para la prï¿½xima vela M15...
+2025-04-21 21:35:11,012 - __main__        - INFO     - Aplicaciï¿½n interrumpida por el usuario (fuera del bucle).
+2025-04-21 21:35:11,012 - __main__        - INFO     - Finalizando aplicaciï¿½n y desconectando de MT5...
+2025-04-21 21:35:11,012 - mt5_connector   - INFO     - Desconectando de MetaTrader 5...
+2025-04-21 21:35:11,014 - mt5_connector   - INFO     - Desconexiï¿½n de MT5 completada.
+2025-04-21 21:35:11,014 - __main__        - INFO     - *** Volatility 75 Index SMC Analyzer Finalizado ***
+2025-04-25 19:37:00,303 - notifiers.telegram_notifier - INFO - Bot de Telegram inicializado correctamente (modo Async).
+2025-04-25 19:37:00,303 - __main__        - INFO     - *** Iniciando Volatility 75 Index SMC Analyzer (v10.1 - Estrategia M15 Rango Fijo) ***
+2025-04-25 19:37:00,305 - mt5_connector   - INFO     - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-25 19:37:04,130 - mt5_connector   - INFO     - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-25 19:37:04,130 - mt5_connector   - INFO     - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-25 19:37:04,132 - __main__        - INFO     - === Iniciando Bucle Principal del Analizador SMC (Estrategia M15 Rango Fijo) ===
+2025-04-25 19:37:04,132 - __main__        - INFO     - Enviando mensaje de bienvenida a Telegram...
+2025-04-25 19:37:04,782 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-25 19:37:04,782 - notifiers.telegram_notifier - INFO     - Mensaje enviado exitosamente a Telegram (intento async 1/3).
+2025-04-25 19:37:04,782 - __main__        - INFO     - Mensaje de bienvenida enviado correctamente.
+2025-04-25 19:37:04,782 - __main__        - INFO     - --- Inicio del Ciclo de Anï¿½lisis M15 ---
+2025-04-25 19:37:04,782 - __main__        - INFO     - Actualizando datos M15...
+2025-04-25 19:37:04,782 - data_manager    - INFO     - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-25 19:37:04,793 - mt5_connector   - INFO     - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-26 00:30:00
+2025-04-25 19:37:04,793 - data_manager    - INFO     - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-25 19:37:04,793 - __main__        - INFO     - Ejecutando anï¿½lisis de setup M15...
+2025-04-25 19:37:04,793 - smc_analyzer    - INFO     - --- Iniciando Anï¿½lisis de Setup M15 (v10.0 - Rango 96) ---
+2025-04-25 19:37:04,800 - smc_analyzer    - INFO     - TR 96 velas: Low=120100.60000 @ 2025-04-25 04:00:00, High=131804.62000 @ 2025-04-25 18:45:00, EQ=125952.61000
+2025-04-25 19:37:04,800 - smc_analyzer    - INFO     - ï¿½ltimo BOS M15 relativo al rango: BOS_Up @ 2025-04-25 17:30:00
+2025-04-25 19:37:04,800 - smc_analyzer    - INFO     - Bias M15 determinado por ï¿½ltimo BOS interno: Bullish
+2025-04-25 19:37:04,802 - smc_analyzer    - INFO     - Buscando POI M15 (Bullish) en TR 120100.60000-131804.62000...
+2025-04-25 19:37:04,808 - smc_analyzer    - INFO     - No se encontrï¿½ POI M15 (OB+Sweep+FVG) en la zona.
+2025-04-25 19:37:04,808 - smc_analyzer    - INFO     - Bias M15 es Bullish basado en ï¿½ltimo BOS, pero no se encontrï¿½ POI vï¿½lido.
+2025-04-25 19:37:04,808 - __main__        - INFO     - --- Fin del Ciclo de Anï¿½lisis M15 (Duraciï¿½n: 0.027s) ---
+2025-04-25 19:37:04,809 - __main__        - INFO     - Esperando 477.19 segundos para la prï¿½xima vela M15...
+2025-04-25 19:40:27,016 - __main__        - INFO     - Aplicaciï¿½n interrumpida por el usuario (fuera del bucle).
+2025-04-25 19:40:27,016 - __main__        - INFO     - Finalizando aplicaciï¿½n y desconectando de MT5...
+2025-04-25 19:40:27,016 - mt5_connector   - INFO     - Desconectando de MetaTrader 5...
+2025-04-25 19:40:27,016 - mt5_connector   - INFO     - Desconexiï¿½n de MT5 completada.
+2025-04-25 19:40:27,016 - __main__        - INFO     - *** Volatility 75 Index SMC Analyzer Finalizado ***
+2025-04-25 20:01:09,669 - notifiers.telegram_notifier - INFO - Bot de Telegram inicializado correctamente (modo Async).
+2025-04-25 20:01:09,669 - __main__        - INFO     - *** Iniciando Volatility 75 Index SMC Analyzer (v10.1 - Estrategia M15 Rango Fijo) ***
+2025-04-25 20:01:09,669 - mt5_connector   - INFO     - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-25 20:01:09,673 - mt5_connector   - INFO     - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-25 20:01:09,673 - mt5_connector   - INFO     - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-25 20:01:09,673 - __main__        - INFO     - === Iniciando Bucle Principal del Analizador SMC (Estrategia M15 Rango Fijo) ===
+2025-04-25 20:01:09,673 - __main__        - INFO     - Enviando mensaje de bienvenida a Telegram...
+2025-04-25 20:01:10,289 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-25 20:01:10,291 - notifiers.telegram_notifier - INFO     - Mensaje enviado exitosamente a Telegram (intento async 1/3).
+2025-04-25 20:01:10,291 - __main__        - INFO     - Mensaje de bienvenida enviado correctamente.
+2025-04-25 20:01:10,291 - __main__        - INFO     - --- Inicio del Ciclo de Anï¿½lisis M15 ---
+2025-04-25 20:01:10,291 - __main__        - INFO     - Actualizando datos M15...
+2025-04-25 20:01:10,291 - data_manager    - INFO     - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-25 20:01:10,293 - mt5_connector   - INFO     - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-26 01:00:00
+2025-04-25 20:01:10,293 - data_manager    - INFO     - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-25 20:01:10,293 - __main__        - INFO     - Ejecutando anï¿½lisis de setup M15...
+2025-04-25 20:01:10,293 - smc_analyzer    - INFO     - --- Iniciando Anï¿½lisis de Setup M15 (v10.1 - Rango 96) ---
+2025-04-25 20:01:10,299 - smc_analyzer    - INFO     - TR 96 velas: Low=120100.60000 @ 2025-04-25 04:00:00, High=131804.62000 @ 2025-04-25 18:45:00, EQ=125952.61000
+2025-04-25 20:01:10,300 - smc_analyzer    - INFO     - ï¿½ltimo BOS M15 relativo al rango: BOS_Up @ 2025-04-25 17:30:00
+2025-04-25 20:01:10,300 - smc_analyzer    - INFO     - Bias M15 determinado por ï¿½ltimo BOS interno: Bullish
+2025-04-25 20:01:10,303 - smc_analyzer    - INFO     - Buscando POI M15 (Bullish) en TR 120100.60000-131804.62000...
+2025-04-25 20:01:10,308 - smc_analyzer    - INFO     - POI Val(2025-04-25 08:15:00 M15): BARRIDO LIQ BAJISTA OK (Local).
+2025-04-25 20:01:10,308 - smc_analyzer    - INFO     - ï¿½POI M15 Encontrado! OB @ 2025-04-25 08:15:00 (barriï¿½ liq + FVG cercano)
+2025-04-25 20:01:10,310 - smc_analyzer    - WARNING  - POI Val(2025-04-25 08:15:00 M15): MITIGADO (Bullish)
+2025-04-25 20:01:10,310 - smc_analyzer    - WARNING  - POI M15 @ 2025-04-25 08:15:00 encontrado, pero ya mitigado.
+2025-04-25 20:01:10,310 - smc_analyzer    - INFO     - Bias M15 es Bullish, pero no se encontrï¿½ POI vï¿½lido.
+2025-04-25 20:01:10,310 - __main__        - INFO     - --- Fin del Ciclo de Anï¿½lisis M15 (Duraciï¿½n: 0.019s) ---
+2025-04-25 20:01:10,310 - __main__        - INFO     - Esperando 831.69 segundos para la prï¿½xima vela M15...
+2025-04-25 20:09:31,428 - __main__        - INFO     - Aplicaciï¿½n interrumpida por el usuario (fuera del bucle).
+2025-04-25 20:09:31,430 - __main__        - INFO     - Finalizando aplicaciï¿½n y desconectando de MT5...
+2025-04-25 20:09:31,430 - mt5_connector   - INFO     - Desconectando de MetaTrader 5...
+2025-04-25 20:09:31,430 - mt5_connector   - INFO     - Desconexiï¿½n de MT5 completada.
+2025-04-25 20:09:31,430 - __main__        - INFO     - *** Volatility 75 Index SMC Analyzer Finalizado ***
+2025-04-25 20:09:40,137 - __main__ - INFO - Iniciando pruebas unitarias de smc_analyzer (v10.3)...
+2025-04-25 20:09:40,137 - mt5_connector - INFO - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-25 20:09:40,139 - mt5_connector - INFO - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-25 20:09:40,139 - mt5_connector - INFO - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-25 20:09:40,139 - data_manager - INFO - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-25 20:09:40,142 - mt5_connector - INFO - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-26 01:00:00
+2025-04-25 20:09:40,142 - data_manager - INFO - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-25 20:09:40,142 - __main__ - INFO - --- Iniciando Anï¿½lisis de Setup M15 (v10.3 - Rango 96) ---
+2025-04-25 20:09:40,146 - __main__ - INFO - TR 96 velas: L=120100.60000 @ 2025-04-25 04:00:00, H=131804.62000 @ 2025-04-25 18:45:00, EQ=125952.61000
+2025-04-25 20:09:40,147 - __main__ - INFO - ï¿½ltimo BOS M15 relativo al rango: BOS_Up @ 2025-04-25 17:30:00
+2025-04-25 20:09:40,147 - __main__ - INFO - Bias M15 determinado por ï¿½ltimo BOS interno: Bullish
+2025-04-25 20:09:40,149 - __main__ - INFO - Buscando POI M15 (Bullish) en TR 120100.60000-131804.62000...
+2025-04-25 20:09:40,153 - __main__ - INFO - POI Val(2025-04-25 08:15:00 M15): BARRIDO LIQ BAJISTA OK (Local).
+2025-04-25 20:09:40,153 - __main__ - INFO - ï¿½POI M15 Encontrado! OB @ 2025-04-25 08:15:00 (barriï¿½ liq + FVG cercano)
+2025-04-25 20:09:40,154 - __main__ - INFO - POI M15 (OB+Sweep+FVG) final seleccionado @ 2025-04-25 08:15:00.
+2025-04-25 20:09:40,154 - __main__ - INFO - *** ï¿½Setup M15 Encontrado! POI: OB+FVG+Sweep @ 2025-04-25 08:15:00 ***
+2025-04-25 20:09:40,154 - __main__ - INFO - Desconectando MT5...
+2025-04-25 20:09:40,154 - mt5_connector - INFO - Desconectando de MetaTrader 5...
+2025-04-25 20:09:40,155 - mt5_connector - INFO - Desconexiï¿½n de MT5 completada.
+2025-04-25 20:09:40,155 - __main__ - INFO - Pruebas smc_analyzer finalizadas.
+2025-04-25 20:10:07,378 - notifiers.telegram_notifier - INFO - Bot de Telegram inicializado correctamente (modo Async).
+2025-04-25 20:10:07,380 - __main__        - INFO     - *** Iniciando Volatility 75 Index SMC Analyzer (v10.1 - Estrategia M15 Rango Fijo) ***
+2025-04-25 20:10:07,380 - mt5_connector   - INFO     - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-25 20:10:09,381 - mt5_connector   - INFO     - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-25 20:10:09,382 - mt5_connector   - INFO     - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-25 20:10:09,383 - __main__        - INFO     - === Iniciando Bucle Principal del Analizador SMC (Estrategia M15 Rango Fijo) ===
+2025-04-25 20:10:09,383 - __main__        - INFO     - Enviando mensaje de bienvenida a Telegram...
+2025-04-25 20:10:10,007 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-25 20:10:10,007 - notifiers.telegram_notifier - INFO     - Mensaje enviado exitosamente a Telegram (intento async 1/3).
+2025-04-25 20:10:10,007 - __main__        - INFO     - Mensaje de bienvenida enviado correctamente.
+2025-04-25 20:10:10,007 - __main__        - INFO     - --- Inicio del Ciclo de Anï¿½lisis M15 ---
+2025-04-25 20:10:10,007 - __main__        - INFO     - Actualizando datos M15...
+2025-04-25 20:10:10,007 - data_manager    - INFO     - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-25 20:10:10,010 - mt5_connector   - INFO     - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-26 01:00:00
+2025-04-25 20:10:10,010 - data_manager    - INFO     - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-25 20:10:10,010 - __main__        - INFO     - Ejecutando anï¿½lisis de setup M15...
+2025-04-25 20:10:10,010 - smc_analyzer    - INFO     - --- Iniciando Anï¿½lisis de Setup M15 (v10.3 - Rango 96) ---
+2025-04-25 20:10:10,014 - smc_analyzer    - INFO     - TR 96 velas: L=120100.60000 @ 2025-04-25 04:00:00, H=131804.62000 @ 2025-04-25 18:45:00, EQ=125952.61000
+2025-04-25 20:10:10,015 - smc_analyzer    - INFO     - ï¿½ltimo BOS M15 relativo al rango: BOS_Up @ 2025-04-25 17:30:00
+2025-04-25 20:10:10,015 - smc_analyzer    - INFO     - Bias M15 determinado por ï¿½ltimo BOS interno: Bullish
+2025-04-25 20:10:10,017 - smc_analyzer    - INFO     - Buscando POI M15 (Bullish) en TR 120100.60000-131804.62000...
+2025-04-25 20:10:10,022 - smc_analyzer    - INFO     - POI Val(2025-04-25 08:15:00 M15): BARRIDO LIQ BAJISTA OK (Local).
+2025-04-25 20:10:10,022 - smc_analyzer    - INFO     - ï¿½POI M15 Encontrado! OB @ 2025-04-25 08:15:00 (barriï¿½ liq + FVG cercano)
+2025-04-25 20:10:10,022 - smc_analyzer    - INFO     - POI M15 (OB+Sweep+FVG) final seleccionado @ 2025-04-25 08:15:00.
+2025-04-25 20:10:10,022 - smc_analyzer    - INFO     - *** ï¿½Setup M15 Encontrado! POI: OB+FVG+Sweep @ 2025-04-25 08:15:00 ***
+2025-04-25 20:10:10,023 - __main__        - INFO     - ï¿½NUEVO POI M15 Vï¿½LIDO IDENTIFICADO! @ 2025-04-25 08:15:00
+2025-04-25 20:10:10,023 - __main__        - INFO     - Generando alerta TIPO NEW_POI_M15 para 2025-04-25 08:15:00
+2025-04-25 20:10:10,029 - __main__        - INFO     - --- Fin del Ciclo de Anï¿½lisis M15 (Duraciï¿½n: 0.023s) ---
+2025-04-25 20:10:10,029 - __main__        - INFO     - Esperando 291.97 segundos para la prï¿½xima vela M15...
+2025-04-25 20:10:10,317 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-25 20:10:10,317 - notifiers.telegram_notifier - INFO     - Mensaje enviado exitosamente a Telegram (intento async 1/3).
+2025-04-25 20:15:02,009 - __main__        - INFO     - --- Inicio del Ciclo de Anï¿½lisis M15 ---
+2025-04-25 20:15:02,009 - __main__        - INFO     - Actualizando datos M15...
+2025-04-25 20:15:02,009 - data_manager    - INFO     - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-25 20:15:02,012 - mt5_connector   - INFO     - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, ï¿½ltima vela: 2025-04-26 01:15:00
+2025-04-25 20:15:02,012 - data_manager    - INFO     - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-25 20:15:02,012 - __main__        - INFO     - Ejecutando anï¿½lisis de setup M15...
+2025-04-25 20:15:02,012 - smc_analyzer    - INFO     - --- Iniciando Anï¿½lisis de Setup M15 (v10.3 - Rango 96) ---
+2025-04-25 20:15:02,015 - smc_analyzer    - INFO     - TR 96 velas: L=120100.60000 @ 2025-04-25 04:00:00, H=131804.62000 @ 2025-04-25 18:45:00, EQ=125952.61000
+2025-04-25 20:15:02,016 - smc_analyzer    - INFO     - ï¿½ltimo BOS M15 relativo al rango: BOS_Up @ 2025-04-25 17:30:00
+2025-04-25 20:15:02,016 - smc_analyzer    - INFO     - Bias M15 determinado por ï¿½ltimo BOS interno: Bullish
+2025-04-25 20:15:02,020 - smc_analyzer    - INFO     - Buscando POI M15 (Bullish) en TR 120100.60000-131804.62000...
+2025-04-25 20:15:02,024 - smc_analyzer    - INFO     - POI Val(2025-04-25 08:15:00 M15): BARRIDO LIQ BAJISTA OK (Local).
+2025-04-25 20:15:02,024 - smc_analyzer    - INFO     - ï¿½POI M15 Encontrado! OB @ 2025-04-25 08:15:00 (barriï¿½ liq + FVG cercano)
+2025-04-25 20:15:02,025 - smc_analyzer    - INFO     - POI M15 (OB+Sweep+FVG) final seleccionado @ 2025-04-25 08:15:00.
+2025-04-25 20:15:02,025 - smc_analyzer    - INFO     - *** ï¿½Setup M15 Encontrado! POI: OB+FVG+Sweep @ 2025-04-25 08:15:00 ***
+2025-04-25 20:15:02,026 - mt5_connector   - INFO     - Informaciï¿½n general obtenida para Volatility 75 Index. Visible: True, Bid(info): 130415.96, Ask(info): 130456.05
+2025-04-25 20:15:03,028 - __main__        - INFO     - --- Fin del Ciclo de Anï¿½lisis M15 (Duraciï¿½n: 1.018s) ---
+2025-04-25 20:15:03,028 - __main__        - INFO     - Esperando 898.97 segundos para la prï¿½xima vela M15...
+2025-04-25 20:16:15,917 - __main__        - INFO     - Aplicaciï¿½n interrumpida por el usuario (fuera del bucle).
+2025-04-25 20:16:15,917 - __main__        - INFO     - Finalizando aplicaciï¿½n y desconectando de MT5...
+2025-04-25 20:16:15,917 - mt5_connector   - INFO     - Desconectando de MetaTrader 5...
+2025-04-25 20:16:15,917 - mt5_connector   - INFO     - Desconexiï¿½n de MT5 completada.
+2025-04-25 20:16:15,917 - __main__        - INFO     - *** Volatility 75 Index SMC Analyzer Finalizado ***
+2025-04-25 20:18:15,241 - notifiers.telegram_notifier - INFO - Bot de Telegram inicializado correctamente (modo Async).
+2025-04-25 20:18:15,243 - __main__        - INFO     - *** Iniciando Volatility 75 Index SMC Analyzer (v10.1 - Estrategia M15 Rango Fijo) ***
+2025-04-25 20:18:15,243 - mt5_connector   - INFO     - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-25 20:18:15,245 - mt5_connector   - INFO     - Conexiï¿½n a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-25 20:18:15,245 - mt5_connector   - INFO     - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-25 20:18:15,245 - __main__        - INFO     - === Iniciando Bucle Principal del Analizador SMC (Estrategia M15 Rango Fijo) ===
+2025-04-25 20:18:15,245 - __main__        - INFO     - Enviando mensaje de bienvenida a Telegram...
+2025-04-25 20:18:15,784 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 400 Bad Request"
+2025-04-25 20:18:15,785 - notifiers.telegram_notifier - ERROR    - Error enviando mensaje async a Telegram (intento 1/3): Can't parse entities: character '!' is reserved and must be escaped with the preceding '\'
+2025-04-25 20:18:15,785 - notifiers.telegram_notifier - INFO     - Reintentando envï¿½o async en 5s...
+2025-04-25 20:18:21,365 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 400 Bad Request"
+2025-04-25 20:18:21,366 - notifiers.telegram_notifier - ERROR    - Error enviando mensaje async a Telegram (intento 2/3): Can't parse entities: character '!' is reserved and must be escaped with the preceding '\'
+2025-04-25 20:18:21,366 - notifiers.telegram_notifier - INFO     - Reintentando envï¿½o async en 5s...
+2025-04-25 20:18:26,968 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 400 Bad Request"
+2025-04-25 20:18:26,968 - notifiers.telegram_notifier - ERROR    - Error enviando mensaje async a Telegram (intento 3/3): Can't parse entities: character '!' is reserved and must be escaped with the preceding '\'
+2025-04-25 20:18:26,968 - notifiers.telegram_notifier - CRITICAL - Mï¿½ximos reintentos envï¿½o Telegram superados.
+c
+2025-04-25 20:27:58,784 - notifiers.telegram_notifier - INFO - Bot de Telegram inicializado correctamente (modo Async).
+2025-04-25 20:27:58,785 - __main__        - INFO     - *** Iniciando Volatility 75 Index SMC Analyzer (v10.3 - Estrategia M15 Rango Fijo) ***
+2025-04-25 20:27:58,785 - mt5_connector   - INFO     - Intentando conectar a MetaTrader 5 (Cuenta: 12345678, Servidor: Deriv-Demo)...
+2025-04-25 20:27:59,449 - mt5_connector   - ERROR    - Fallo al inicializar MT5 (intento 1/3). Error MT5: (-6, 'Terminal: Authorization failed')
+2025-04-25 20:27:59,449 - mt5_connector   - INFO     - Reintentando conexión en 5 segundos...
+2025-04-25 20:28:04,455 - mt5_connector   - ERROR    - Fallo al inicializar MT5 (intento 2/3). Error MT5: (-6, 'Terminal: Authorization failed')
+2025-04-25 20:28:04,455 - mt5_connector   - INFO     - Reintentando conexión en 5 segundos...
+2025-04-25 20:28:09,461 - mt5_connector   - ERROR    - Fallo al inicializar MT5 (intento 3/3). Error MT5: (-6, 'Terminal: Authorization failed')
+2025-04-25 20:28:09,462 - mt5_connector   - CRITICAL - Se superó el número máximo de reintentos de conexión a MT5.
+2025-04-25 20:28:09,462 - __main__        - CRITICAL - No se pudo conectar a MT5 al inicio. Saliendo.
+2025-04-25 20:32:47,448 - notifiers.telegram_notifier - INFO - Bot de Telegram inicializado correctamente (modo Async).
+2025-04-25 20:32:47,449 - __main__        - INFO     - *** Iniciando Volatility 75 Index SMC Analyzer (v10.3 - Estrategia M15 Rango Fijo) ***
+2025-04-25 20:32:47,449 - mt5_connector   - INFO     - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-04-25 20:32:49,406 - mt5_connector   - INFO     - Conexión a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-04-25 20:32:49,406 - mt5_connector   - INFO     - Info Cuenta: Nombre=Wilson Calderon, Balance=9882.38 USD
+2025-04-25 20:32:49,406 - __main__        - INFO     - === Iniciando Bucle Principal del Analizador SMC (Estrategia M15 Rango Fijo) ===
+2025-04-25 20:32:49,406 - __main__        - INFO     - Enviando mensaje de bienvenida a Telegram...
+2025-04-25 20:32:50,039 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-25 20:32:50,040 - notifiers.telegram_notifier - INFO     - Mensaje enviado exitosamente a Telegram (intento async 1/3).
+2025-04-25 20:32:50,040 - __main__        - INFO     - Mensaje de bienvenida enviado correctamente.
+2025-04-25 20:32:50,040 - __main__        - INFO     - --- Inicio del Ciclo de Análisis M15 ---
+2025-04-25 20:32:50,040 - __main__        - INFO     - Actualizando datos M15...
+2025-04-25 20:32:50,040 - data_manager    - INFO     - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-25 20:32:50,042 - mt5_connector   - INFO     - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, Última vela: 2025-04-26 01:30:00
+2025-04-25 20:32:50,042 - data_manager    - INFO     - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-25 20:32:50,042 - __main__        - INFO     - Ejecutando análisis de setup M15...
+2025-04-25 20:32:50,042 - smc_analyzer    - INFO     - --- Iniciando Análisis de Setup M15 (v10.3 - Rango 96) ---
+2025-04-25 20:32:50,048 - smc_analyzer    - INFO     - TR 96 velas: L=120100.60000 @ 2025-04-25 04:00:00, H=131804.62000 @ 2025-04-25 18:45:00, EQ=125952.61000
+2025-04-25 20:32:50,048 - smc_analyzer    - INFO     - Último BOS M15 relativo al rango: BOS_Up @ 2025-04-25 17:30:00
+2025-04-25 20:32:50,048 - smc_analyzer    - INFO     - Bias M15 determinado por último BOS interno: Bullish
+2025-04-25 20:32:50,050 - smc_analyzer    - INFO     - Buscando POI M15 (Bullish) en TR 120100.60000-131804.62000...
+2025-04-25 20:32:50,056 - smc_analyzer    - INFO     - POI Val(2025-04-25 08:15:00 M15): BARRIDO LIQ BAJISTA OK (Local).
+2025-04-25 20:32:50,056 - smc_analyzer    - INFO     - ¡POI M15 Encontrado! OB @ 2025-04-25 08:15:00 (barrió liq + FVG cercano)
+2025-04-25 20:32:50,056 - smc_analyzer    - INFO     - POI M15 (OB+Sweep+FVG) final seleccionado @ 2025-04-25 08:15:00.
+2025-04-25 20:32:50,056 - smc_analyzer    - INFO     - *** ¡Setup M15 Encontrado! POI: OB+FVG+Sweep @ 2025-04-25 08:15:00 ***
+2025-04-25 20:32:50,056 - __main__        - INFO     - ¡NUEVO POI M15 VÁLIDO IDENTIFICADO! @ 2025-04-25 08:15:00
+2025-04-25 20:32:50,056 - __main__        - INFO     - Generando alerta TIPO NEW_POI_M15
+2025-04-25 20:32:50,056 - __main__        - INFO     - Enviando alerta a Telegram...
+2025-04-25 20:32:50,056 - __main__        - INFO     - --- Fin Ciclo M15 (Duración: 0.017s) ---
+2025-04-25 20:32:50,056 - __main__        - INFO     - Esperando 731.94 segundos...
+2025-04-25 20:32:50,342 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-25 20:32:50,342 - notifiers.telegram_notifier - INFO     - Mensaje enviado exitosamente a Telegram (intento async 1/3).
+2025-04-25 20:45:01,997 - __main__        - INFO     - --- Inicio del Ciclo de Análisis M15 ---
+2025-04-25 20:45:01,997 - __main__        - INFO     - Actualizando datos M15...
+2025-04-25 20:45:01,997 - data_manager    - INFO     - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-25 20:45:01,999 - mt5_connector   - INFO     - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, Última vela: 2025-04-26 01:45:00
+2025-04-25 20:45:01,999 - data_manager    - INFO     - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-25 20:45:01,999 - __main__        - INFO     - Ejecutando análisis de setup M15...
+2025-04-25 20:45:01,999 - smc_analyzer    - INFO     - --- Iniciando Análisis de Setup M15 (v10.3 - Rango 96) ---
+2025-04-25 20:45:02,003 - smc_analyzer    - INFO     - TR 96 velas: L=120100.60000 @ 2025-04-25 04:00:00, H=131804.62000 @ 2025-04-25 18:45:00, EQ=125952.61000
+2025-04-25 20:45:02,003 - smc_analyzer    - INFO     - Último BOS M15 relativo al rango: BOS_Up @ 2025-04-25 17:30:00
+2025-04-25 20:45:02,003 - smc_analyzer    - INFO     - Bias M15 determinado por último BOS interno: Bullish
+2025-04-25 20:45:02,006 - smc_analyzer    - INFO     - Buscando POI M15 (Bullish) en TR 120100.60000-131804.62000...
+2025-04-25 20:45:02,010 - smc_analyzer    - INFO     - POI Val(2025-04-25 08:15:00 M15): BARRIDO LIQ BAJISTA OK (Local).
+2025-04-25 20:45:02,010 - smc_analyzer    - INFO     - ¡POI M15 Encontrado! OB @ 2025-04-25 08:15:00 (barrió liq + FVG cercano)
+2025-04-25 20:45:02,010 - smc_analyzer    - INFO     - POI M15 (OB+Sweep+FVG) final seleccionado @ 2025-04-25 08:15:00.
+2025-04-25 20:45:02,010 - smc_analyzer    - INFO     - *** ¡Setup M15 Encontrado! POI: OB+FVG+Sweep @ 2025-04-25 08:15:00 ***
+2025-04-25 20:45:02,013 - mt5_connector   - INFO     - Información general obtenida para Volatility 75 Index. Visible: True, Bid(info): 130854.07, Ask(info): 130894.16
+2025-04-25 20:45:03,014 - __main__        - INFO     - --- Fin Ciclo M15 (Duración: 1.016s) ---
+2025-04-25 20:45:03,014 - __main__        - INFO     - Esperando 898.99 segundos...
+2025-04-25 21:00:02,002 - __main__        - INFO     - --- Inicio del Ciclo de Análisis M15 ---
+2025-04-25 21:00:02,002 - __main__        - INFO     - Actualizando datos M15...
+2025-04-25 21:00:02,002 - data_manager    - INFO     - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-25 21:00:02,005 - mt5_connector   - INFO     - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, Última vela: 2025-04-26 02:00:00
+2025-04-25 21:00:02,005 - data_manager    - INFO     - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-25 21:00:02,005 - __main__        - INFO     - Ejecutando análisis de setup M15...
+2025-04-25 21:00:02,005 - smc_analyzer    - INFO     - --- Iniciando Análisis de Setup M15 (v10.3 - Rango 96) ---
+2025-04-25 21:00:02,008 - smc_analyzer    - INFO     - TR 96 velas: L=120100.60000 @ 2025-04-25 04:00:00, H=131804.62000 @ 2025-04-25 18:45:00, EQ=125952.61000
+2025-04-25 21:00:02,009 - smc_analyzer    - INFO     - Último BOS M15 relativo al rango: BOS_Up @ 2025-04-25 17:30:00
+2025-04-25 21:00:02,009 - smc_analyzer    - INFO     - Bias M15 determinado por último BOS interno: Bullish
+2025-04-25 21:00:02,012 - smc_analyzer    - INFO     - Buscando POI M15 (Bullish) en TR 120100.60000-131804.62000...
+2025-04-25 21:00:02,017 - smc_analyzer    - INFO     - POI Val(2025-04-25 08:15:00 M15): BARRIDO LIQ BAJISTA OK (Local).
+2025-04-25 21:00:02,017 - smc_analyzer    - INFO     - ¡POI M15 Encontrado! OB @ 2025-04-25 08:15:00 (barrió liq + FVG cercano)
+2025-04-25 21:00:02,017 - smc_analyzer    - INFO     - POI M15 (OB+Sweep+FVG) final seleccionado @ 2025-04-25 08:15:00.
+2025-04-25 21:00:02,018 - smc_analyzer    - INFO     - *** ¡Setup M15 Encontrado! POI: OB+FVG+Sweep @ 2025-04-25 08:15:00 ***
+2025-04-25 21:00:02,018 - mt5_connector   - INFO     - Información general obtenida para Volatility 75 Index. Visible: True, Bid(info): 130426.16, Ask(info): 130466.25
+2025-04-25 21:00:03,020 - __main__        - INFO     - --- Fin Ciclo M15 (Duración: 1.017s) ---
+2025-04-25 21:00:03,020 - __main__        - INFO     - Esperando 898.98 segundos...
+2025-04-25 21:15:02,013 - __main__        - INFO     - --- Inicio del Ciclo de Análisis M15 ---
+2025-04-25 21:15:02,013 - __main__        - INFO     - Actualizando datos M15...
+2025-04-25 21:15:02,013 - data_manager    - INFO     - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-25 21:15:02,015 - mt5_connector   - INFO     - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, Última vela: 2025-04-26 02:15:00
+2025-04-25 21:15:02,015 - data_manager    - INFO     - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-25 21:15:02,015 - __main__        - INFO     - Ejecutando análisis de setup M15...
+2025-04-25 21:15:02,015 - smc_analyzer    - INFO     - --- Iniciando Análisis de Setup M15 (v10.3 - Rango 96) ---
+2025-04-25 21:15:02,019 - smc_analyzer    - INFO     - TR 96 velas: L=120100.60000 @ 2025-04-25 04:00:00, H=131804.62000 @ 2025-04-25 18:45:00, EQ=125952.61000
+2025-04-25 21:15:02,019 - smc_analyzer    - INFO     - Último BOS M15 relativo al rango: BOS_Up @ 2025-04-25 17:30:00
+2025-04-25 21:15:02,020 - smc_analyzer    - INFO     - Bias M15 determinado por último BOS interno: Bullish
+2025-04-25 21:15:02,022 - smc_analyzer    - INFO     - Buscando POI M15 (Bullish) en TR 120100.60000-131804.62000...
+2025-04-25 21:15:02,026 - smc_analyzer    - INFO     - POI Val(2025-04-25 08:15:00 M15): BARRIDO LIQ BAJISTA OK (Local).
+2025-04-25 21:15:02,027 - smc_analyzer    - INFO     - ¡POI M15 Encontrado! OB @ 2025-04-25 08:15:00 (barrió liq + FVG cercano)
+2025-04-25 21:15:02,027 - smc_analyzer    - INFO     - POI M15 (OB+Sweep+FVG) final seleccionado @ 2025-04-25 08:15:00.
+2025-04-25 21:15:02,027 - smc_analyzer    - INFO     - *** ¡Setup M15 Encontrado! POI: OB+FVG+Sweep @ 2025-04-25 08:15:00 ***
+2025-04-25 21:15:02,028 - mt5_connector   - INFO     - Información general obtenida para Volatility 75 Index. Visible: True, Bid(info): 130365.49, Ask(info): 130405.58
+2025-04-25 21:15:03,028 - __main__        - INFO     - --- Fin Ciclo M15 (Duración: 1.016s) ---
+2025-04-25 21:15:03,028 - __main__        - INFO     - Esperando 898.97 segundos...
+2025-04-25 21:30:02,009 - __main__        - INFO     - --- Inicio del Ciclo de Análisis M15 ---
+2025-04-25 21:30:02,009 - __main__        - INFO     - Actualizando datos M15...
+2025-04-25 21:30:02,009 - data_manager    - INFO     - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-25 21:30:02,011 - mt5_connector   - INFO     - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, Última vela: 2025-04-26 02:30:00
+2025-04-25 21:30:02,011 - data_manager    - INFO     - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-25 21:30:02,011 - __main__        - INFO     - Ejecutando análisis de setup M15...
+2025-04-25 21:30:02,011 - smc_analyzer    - INFO     - --- Iniciando Análisis de Setup M15 (v10.3 - Rango 96) ---
+2025-04-25 21:30:02,015 - smc_analyzer    - INFO     - TR 96 velas: L=120100.60000 @ 2025-04-25 04:00:00, H=131804.62000 @ 2025-04-25 18:45:00, EQ=125952.61000
+2025-04-25 21:30:02,016 - smc_analyzer    - INFO     - Último BOS M15 relativo al rango: BOS_Up @ 2025-04-25 17:30:00
+2025-04-25 21:30:02,016 - smc_analyzer    - INFO     - Bias M15 determinado por último BOS interno: Bullish
+2025-04-25 21:30:02,018 - smc_analyzer    - INFO     - Buscando POI M15 (Bullish) en TR 120100.60000-131804.62000...
+2025-04-25 21:30:02,022 - smc_analyzer    - INFO     - POI Val(2025-04-25 08:15:00 M15): BARRIDO LIQ BAJISTA OK (Local).
+2025-04-25 21:30:02,023 - smc_analyzer    - INFO     - ¡POI M15 Encontrado! OB @ 2025-04-25 08:15:00 (barrió liq + FVG cercano)
+2025-04-25 21:30:02,023 - smc_analyzer    - INFO     - POI M15 (OB+Sweep+FVG) final seleccionado @ 2025-04-25 08:15:00.
+2025-04-25 21:30:02,023 - smc_analyzer    - INFO     - *** ¡Setup M15 Encontrado! POI: OB+FVG+Sweep @ 2025-04-25 08:15:00 ***
+2025-04-25 21:30:02,024 - mt5_connector   - INFO     - Información general obtenida para Volatility 75 Index. Visible: True, Bid(info): 131233.02, Ask(info): 131273.11
+2025-04-25 21:30:03,025 - __main__        - INFO     - --- Fin Ciclo M15 (Duración: 1.016s) ---
+2025-04-25 21:30:03,025 - __main__        - INFO     - Esperando 898.97 segundos...
+2025-04-25 21:45:02,008 - __main__        - INFO     - --- Inicio del Ciclo de Análisis M15 ---
+2025-04-25 21:45:02,008 - __main__        - INFO     - Actualizando datos M15...
+2025-04-25 21:45:02,008 - data_manager    - INFO     - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-25 21:45:02,010 - mt5_connector   - INFO     - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, Última vela: 2025-04-26 02:45:00
+2025-04-25 21:45:02,010 - data_manager    - INFO     - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-25 21:45:02,010 - __main__        - INFO     - Ejecutando análisis de setup M15...
+2025-04-25 21:45:02,010 - smc_analyzer    - INFO     - --- Iniciando Análisis de Setup M15 (v10.3 - Rango 96) ---
+2025-04-25 21:45:02,014 - smc_analyzer    - INFO     - TR 96 velas: L=120100.60000 @ 2025-04-25 04:00:00, H=131804.62000 @ 2025-04-25 18:45:00, EQ=125952.61000
+2025-04-25 21:45:02,014 - smc_analyzer    - INFO     - Último BOS M15 relativo al rango: BOS_Up @ 2025-04-25 17:30:00
+2025-04-25 21:45:02,014 - smc_analyzer    - INFO     - Bias M15 determinado por último BOS interno: Bullish
+2025-04-25 21:45:02,016 - smc_analyzer    - INFO     - Buscando POI M15 (Bullish) en TR 120100.60000-131804.62000...
+2025-04-25 21:45:02,021 - smc_analyzer    - INFO     - POI Val(2025-04-25 08:15:00 M15): BARRIDO LIQ BAJISTA OK (Local).
+2025-04-25 21:45:02,021 - smc_analyzer    - INFO     - ¡POI M15 Encontrado! OB @ 2025-04-25 08:15:00 (barrió liq + FVG cercano)
+2025-04-25 21:45:02,021 - smc_analyzer    - INFO     - POI M15 (OB+Sweep+FVG) final seleccionado @ 2025-04-25 08:15:00.
+2025-04-25 21:45:02,022 - smc_analyzer    - INFO     - *** ¡Setup M15 Encontrado! POI: OB+FVG+Sweep @ 2025-04-25 08:15:00 ***
+2025-04-25 21:45:02,022 - mt5_connector   - INFO     - Información general obtenida para Volatility 75 Index. Visible: True, Bid(info): 130744.33, Ask(info): 130784.42
+2025-04-25 21:45:03,023 - __main__        - INFO     - --- Fin Ciclo M15 (Duración: 1.015s) ---
+2025-04-25 21:45:03,023 - __main__        - INFO     - Esperando 898.98 segundos...
+2025-04-25 22:00:02,004 - __main__        - INFO     - --- Inicio del Ciclo de Análisis M15 ---
+2025-04-25 22:00:02,004 - __main__        - INFO     - Actualizando datos M15...
+2025-04-25 22:00:02,004 - data_manager    - INFO     - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-25 22:00:02,006 - mt5_connector   - INFO     - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, Última vela: 2025-04-26 03:00:00
+2025-04-25 22:00:02,006 - data_manager    - INFO     - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-25 22:00:02,007 - __main__        - INFO     - Ejecutando análisis de setup M15...
+2025-04-25 22:00:02,007 - smc_analyzer    - INFO     - --- Iniciando Análisis de Setup M15 (v10.3 - Rango 96) ---
+2025-04-25 22:00:02,010 - smc_analyzer    - INFO     - TR 96 velas: L=120100.60000 @ 2025-04-25 04:00:00, H=131804.62000 @ 2025-04-25 18:45:00, EQ=125952.61000
+2025-04-25 22:00:02,011 - smc_analyzer    - INFO     - Último BOS M15 relativo al rango: BOS_Up @ 2025-04-25 17:30:00
+2025-04-25 22:00:02,011 - smc_analyzer    - INFO     - Bias M15 determinado por último BOS interno: Bullish
+2025-04-25 22:00:02,013 - smc_analyzer    - INFO     - Buscando POI M15 (Bullish) en TR 120100.60000-131804.62000...
+2025-04-25 22:00:02,018 - smc_analyzer    - INFO     - POI Val(2025-04-25 08:15:00 M15): BARRIDO LIQ BAJISTA OK (Local).
+2025-04-25 22:00:02,018 - smc_analyzer    - INFO     - ¡POI M15 Encontrado! OB @ 2025-04-25 08:15:00 (barrió liq + FVG cercano)
+2025-04-25 22:00:02,018 - smc_analyzer    - INFO     - POI M15 (OB+Sweep+FVG) final seleccionado @ 2025-04-25 08:15:00.
+2025-04-25 22:00:02,018 - smc_analyzer    - INFO     - *** ¡Setup M15 Encontrado! POI: OB+FVG+Sweep @ 2025-04-25 08:15:00 ***
+2025-04-25 22:00:02,019 - mt5_connector   - INFO     - Información general obtenida para Volatility 75 Index. Visible: True, Bid(info): 129989.69, Ask(info): 130029.78
+2025-04-25 22:00:03,019 - __main__        - INFO     - --- Fin Ciclo M15 (Duración: 1.016s) ---
+2025-04-25 22:00:03,024 - __main__        - INFO     - Esperando 898.98 segundos...
+2025-04-25 22:15:02,004 - __main__        - INFO     - --- Inicio del Ciclo de Análisis M15 ---
+2025-04-25 22:15:02,004 - __main__        - INFO     - Actualizando datos M15...
+2025-04-25 22:15:02,004 - data_manager    - INFO     - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-25 22:15:02,006 - mt5_connector   - INFO     - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, Última vela: 2025-04-26 03:15:00
+2025-04-25 22:15:02,006 - data_manager    - INFO     - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-25 22:15:02,007 - __main__        - INFO     - Ejecutando análisis de setup M15...
+2025-04-25 22:15:02,007 - smc_analyzer    - INFO     - --- Iniciando Análisis de Setup M15 (v10.3 - Rango 96) ---
+2025-04-25 22:15:02,010 - smc_analyzer    - INFO     - TR 96 velas: L=120100.60000 @ 2025-04-25 04:00:00, H=131804.62000 @ 2025-04-25 18:45:00, EQ=125952.61000
+2025-04-25 22:15:02,010 - smc_analyzer    - INFO     - Último BOS M15 relativo al rango: BOS_Up @ 2025-04-25 17:30:00
+2025-04-25 22:15:02,010 - smc_analyzer    - INFO     - Bias M15 determinado por último BOS interno: Bullish
+2025-04-25 22:15:02,013 - smc_analyzer    - INFO     - Buscando POI M15 (Bullish) en TR 120100.60000-131804.62000...
+2025-04-25 22:15:02,018 - smc_analyzer    - INFO     - POI Val(2025-04-25 08:15:00 M15): BARRIDO LIQ BAJISTA OK (Local).
+2025-04-25 22:15:02,018 - smc_analyzer    - INFO     - ¡POI M15 Encontrado! OB @ 2025-04-25 08:15:00 (barrió liq + FVG cercano)
+2025-04-25 22:15:02,018 - smc_analyzer    - INFO     - POI M15 (OB+Sweep+FVG) final seleccionado @ 2025-04-25 08:15:00.
+2025-04-25 22:15:02,018 - smc_analyzer    - INFO     - *** ¡Setup M15 Encontrado! POI: OB+FVG+Sweep @ 2025-04-25 08:15:00 ***
+2025-04-25 22:15:02,019 - mt5_connector   - INFO     - Información general obtenida para Volatility 75 Index. Visible: True, Bid(info): 128921.41, Ask(info): 128961.5
+2025-04-25 22:15:03,020 - __main__        - INFO     - --- Fin Ciclo M15 (Duración: 1.016s) ---
+2025-04-25 22:15:03,020 - __main__        - INFO     - Esperando 898.98 segundos...
+2025-04-25 22:30:02,002 - __main__        - INFO     - --- Inicio del Ciclo de Análisis M15 ---
+2025-04-25 22:30:02,002 - __main__        - INFO     - Actualizando datos M15...
+2025-04-25 22:30:02,002 - data_manager    - INFO     - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-25 22:30:02,004 - mt5_connector   - INFO     - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, Última vela: 2025-04-26 03:30:00
+2025-04-25 22:30:02,004 - data_manager    - INFO     - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-25 22:30:02,004 - __main__        - INFO     - Ejecutando análisis de setup M15...
+2025-04-25 22:30:02,004 - smc_analyzer    - INFO     - --- Iniciando Análisis de Setup M15 (v10.3 - Rango 96) ---
+2025-04-25 22:30:02,006 - smc_analyzer    - INFO     - TR 96 velas: L=120100.60000 @ 2025-04-25 04:00:00, H=131804.62000 @ 2025-04-25 18:45:00, EQ=125952.61000
+2025-04-25 22:30:02,008 - smc_analyzer    - INFO     - Último BOS M15 relativo al rango: BOS_Up @ 2025-04-25 17:30:00
+2025-04-25 22:30:02,008 - smc_analyzer    - INFO     - Bias M15 determinado por último BOS interno: Bullish
+2025-04-25 22:30:02,010 - smc_analyzer    - INFO     - Buscando POI M15 (Bullish) en TR 120100.60000-131804.62000...
+2025-04-25 22:30:02,014 - smc_analyzer    - INFO     - POI Val(2025-04-25 08:15:00 M15): BARRIDO LIQ BAJISTA OK (Local).
+2025-04-25 22:30:02,014 - smc_analyzer    - INFO     - ¡POI M15 Encontrado! OB @ 2025-04-25 08:15:00 (barrió liq + FVG cercano)
+2025-04-25 22:30:02,015 - smc_analyzer    - INFO     - POI M15 (OB+Sweep+FVG) final seleccionado @ 2025-04-25 08:15:00.
+2025-04-25 22:30:02,015 - smc_analyzer    - INFO     - *** ¡Setup M15 Encontrado! POI: OB+FVG+Sweep @ 2025-04-25 08:15:00 ***
+2025-04-25 22:30:02,016 - mt5_connector   - INFO     - Información general obtenida para Volatility 75 Index. Visible: True, Bid(info): 128775.56, Ask(info): 128815.65
+2025-04-25 22:30:03,017 - __main__        - INFO     - --- Fin Ciclo M15 (Duración: 1.015s) ---
+2025-04-25 22:30:03,017 - __main__        - INFO     - Esperando 898.98 segundos...
+2025-04-25 22:45:02,004 - __main__        - INFO     - --- Inicio del Ciclo de Análisis M15 ---
+2025-04-25 22:45:02,004 - __main__        - INFO     - Actualizando datos M15...
+2025-04-25 22:45:02,004 - data_manager    - INFO     - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-25 22:45:02,006 - mt5_connector   - INFO     - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, Última vela: 2025-04-26 03:45:00
+2025-04-25 22:45:02,006 - data_manager    - INFO     - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-25 22:45:02,006 - __main__        - INFO     - Ejecutando análisis de setup M15...
+2025-04-25 22:45:02,007 - smc_analyzer    - INFO     - --- Iniciando Análisis de Setup M15 (v10.3 - Rango 96) ---
+2025-04-25 22:45:02,010 - smc_analyzer    - INFO     - TR 96 velas: L=120100.60000 @ 2025-04-25 04:00:00, H=131804.62000 @ 2025-04-25 18:45:00, EQ=125952.61000
+2025-04-25 22:45:02,010 - smc_analyzer    - INFO     - Último BOS M15 relativo al rango: BOS_Up @ 2025-04-25 17:30:00
+2025-04-25 22:45:02,010 - smc_analyzer    - INFO     - Bias M15 determinado por último BOS interno: Bullish
+2025-04-25 22:45:02,012 - smc_analyzer    - INFO     - Buscando POI M15 (Bullish) en TR 120100.60000-131804.62000...
+2025-04-25 22:45:02,017 - smc_analyzer    - INFO     - POI Val(2025-04-25 08:15:00 M15): BARRIDO LIQ BAJISTA OK (Local).
+2025-04-25 22:45:02,017 - smc_analyzer    - INFO     - ¡POI M15 Encontrado! OB @ 2025-04-25 08:15:00 (barrió liq + FVG cercano)
+2025-04-25 22:45:02,017 - smc_analyzer    - INFO     - POI M15 (OB+Sweep+FVG) final seleccionado @ 2025-04-25 08:15:00.
+2025-04-25 22:45:02,017 - smc_analyzer    - INFO     - *** ¡Setup M15 Encontrado! POI: OB+FVG+Sweep @ 2025-04-25 08:15:00 ***
+2025-04-25 22:45:02,018 - mt5_connector   - INFO     - Información general obtenida para Volatility 75 Index. Visible: True, Bid(info): 127019.2, Ask(info): 127059.29
+2025-04-25 22:45:03,019 - __main__        - INFO     - --- Fin Ciclo M15 (Duración: 1.015s) ---
+2025-04-25 22:45:03,020 - __main__        - INFO     - Esperando 898.98 segundos...
+2025-04-25 23:00:02,003 - __main__        - INFO     - --- Inicio del Ciclo de Análisis M15 ---
+2025-04-25 23:00:02,003 - __main__        - INFO     - Actualizando datos M15...
+2025-04-25 23:00:02,003 - data_manager    - INFO     - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-25 23:00:02,005 - mt5_connector   - INFO     - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, Última vela: 2025-04-26 04:00:00
+2025-04-25 23:00:02,005 - data_manager    - INFO     - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-25 23:00:02,005 - __main__        - INFO     - Ejecutando análisis de setup M15...
+2025-04-25 23:00:02,006 - smc_analyzer    - INFO     - --- Iniciando Análisis de Setup M15 (v10.3 - Rango 96) ---
+2025-04-25 23:00:02,008 - smc_analyzer    - INFO     - TR 96 velas: L=120648.56000 @ 2025-04-25 08:15:00, H=131804.62000 @ 2025-04-25 18:45:00, EQ=126226.59000
+2025-04-25 23:00:02,009 - smc_analyzer    - INFO     - Último BOS M15 relativo al rango: BOS_Up @ 2025-04-25 17:30:00
+2025-04-25 23:00:02,009 - smc_analyzer    - INFO     - Bias M15 determinado por último BOS interno: Bullish
+2025-04-25 23:00:02,011 - smc_analyzer    - INFO     - Buscando POI M15 (Bullish) en TR 120648.56000-131804.62000...
+2025-04-25 23:00:02,016 - smc_analyzer    - INFO     - POI Val(2025-04-25 08:15:00 M15): BARRIDO LIQ BAJISTA OK (Local).
+2025-04-25 23:00:02,016 - smc_analyzer    - INFO     - ¡POI M15 Encontrado! OB @ 2025-04-25 08:15:00 (barrió liq + FVG cercano)
+2025-04-25 23:00:02,016 - smc_analyzer    - INFO     - POI M15 (OB+Sweep+FVG) final seleccionado @ 2025-04-25 08:15:00.
+2025-04-25 23:00:02,016 - smc_analyzer    - INFO     - *** ¡Setup M15 Encontrado! POI: OB+FVG+Sweep @ 2025-04-25 08:15:00 ***
+2025-04-25 23:00:02,017 - mt5_connector   - INFO     - Información general obtenida para Volatility 75 Index. Visible: True, Bid(info): 127102.72, Ask(info): 127142.81
+2025-04-25 23:00:03,018 - __main__        - INFO     - --- Fin Ciclo M15 (Duración: 1.015s) ---
+2025-04-25 23:00:03,018 - __main__        - INFO     - Esperando 898.98 segundos...
+2025-04-25 23:15:02,013 - __main__        - INFO     - --- Inicio del Ciclo de Análisis M15 ---
+2025-04-25 23:15:02,013 - __main__        - INFO     - Actualizando datos M15...
+2025-04-25 23:15:02,013 - data_manager    - INFO     - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-25 23:15:02,015 - mt5_connector   - INFO     - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, Última vela: 2025-04-26 04:15:00
+2025-04-25 23:15:02,015 - data_manager    - INFO     - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-25 23:15:02,015 - __main__        - INFO     - Ejecutando análisis de setup M15...
+2025-04-25 23:15:02,015 - smc_analyzer    - INFO     - --- Iniciando Análisis de Setup M15 (v10.3 - Rango 96) ---
+2025-04-25 23:15:02,019 - smc_analyzer    - INFO     - TR 96 velas: L=120648.56000 @ 2025-04-25 08:15:00, H=131804.62000 @ 2025-04-25 18:45:00, EQ=126226.59000
+2025-04-25 23:15:02,019 - smc_analyzer    - INFO     - Último BOS M15 relativo al rango: BOS_Up @ 2025-04-25 17:30:00
+2025-04-25 23:15:02,020 - smc_analyzer    - INFO     - Bias M15 determinado por último BOS interno: Bullish
+2025-04-25 23:15:02,022 - smc_analyzer    - INFO     - Buscando POI M15 (Bullish) en TR 120648.56000-131804.62000...
+2025-04-25 23:15:02,028 - smc_analyzer    - INFO     - POI Val(2025-04-25 08:15:00 M15): BARRIDO LIQ BAJISTA OK (Local).
+2025-04-25 23:15:02,028 - smc_analyzer    - INFO     - ¡POI M15 Encontrado! OB @ 2025-04-25 08:15:00 (barrió liq + FVG cercano)
+2025-04-25 23:15:02,028 - smc_analyzer    - INFO     - POI M15 (OB+Sweep+FVG) final seleccionado @ 2025-04-25 08:15:00.
+2025-04-25 23:15:02,028 - smc_analyzer    - INFO     - *** ¡Setup M15 Encontrado! POI: OB+FVG+Sweep @ 2025-04-25 08:15:00 ***
+2025-04-25 23:15:02,030 - mt5_connector   - INFO     - Información general obtenida para Volatility 75 Index. Visible: True, Bid(info): 127611.6, Ask(info): 127651.69
+2025-04-25 23:15:03,030 - __main__        - INFO     - --- Fin Ciclo M15 (Duración: 1.017s) ---
+2025-04-25 23:15:03,031 - __main__        - INFO     - Esperando 898.97 segundos...
+2025-04-25 23:30:02,014 - __main__        - INFO     - --- Inicio del Ciclo de Análisis M15 ---
+2025-04-25 23:30:02,014 - __main__        - INFO     - Actualizando datos M15...
+2025-04-25 23:30:02,014 - data_manager    - INFO     - Actualizando datos para Volatility 75 Index en 15 (Lookback: 150)...
+2025-04-25 23:30:02,016 - mt5_connector   - INFO     - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 150, Última vela: 2025-04-26 04:30:00
+2025-04-25 23:30:02,016 - data_manager    - INFO     - Datos para 15 actualizados correctamente. 150 velas.
+2025-04-25 23:30:02,016 - __main__        - INFO     - Ejecutando análisis de setup M15...
+2025-04-25 23:30:02,016 - smc_analyzer    - INFO     - --- Iniciando Análisis de Setup M15 (v10.3 - Rango 96) ---
+2025-04-25 23:30:02,020 - smc_analyzer    - INFO     - TR 96 velas: L=120648.56000 @ 2025-04-25 08:15:00, H=131804.62000 @ 2025-04-25 18:45:00, EQ=126226.59000
+2025-04-25 23:30:02,020 - smc_analyzer    - INFO     - Último BOS M15 relativo al rango: BOS_Up @ 2025-04-25 17:30:00
+2025-04-25 23:30:02,020 - smc_analyzer    - INFO     - Bias M15 determinado por último BOS interno: Bullish
+2025-04-25 23:30:02,023 - smc_analyzer    - INFO     - Buscando POI M15 (Bullish) en TR 120648.56000-131804.62000...
+2025-04-25 23:30:02,028 - smc_analyzer    - INFO     - POI Val(2025-04-25 08:15:00 M15): BARRIDO LIQ BAJISTA OK (Local).
+2025-04-25 23:30:02,028 - smc_analyzer    - INFO     - ¡POI M15 Encontrado! OB @ 2025-04-25 08:15:00 (barrió liq + FVG cercano)
+2025-04-25 23:30:02,028 - smc_analyzer    - INFO     - POI M15 (OB+Sweep+FVG) final seleccionado @ 2025-04-25 08:15:00.
+2025-04-25 23:30:02,028 - smc_analyzer    - INFO     - *** ¡Setup M15 Encontrado! POI: OB+FVG+Sweep @ 2025-04-25 08:15:00 ***
+2025-04-25 23:30:02,029 - mt5_connector   - INFO     - Información general obtenida para Volatility 75 Index. Visible: True, Bid(info): 128046.99, Ask(info): 128087.08
+2025-04-25 23:30:03,030 - __main__        - INFO     - --- Fin Ciclo M15 (Duración: 1.016s) ---
+2025-04-25 23:30:03,030 - __main__        - INFO     - Esperando 898.97 segundos...
+2025-04-25 23:44:41,633 - __main__        - INFO     - Aplicación interrumpida (fuera del bucle).
+2025-04-25 23:44:41,633 - __main__        - INFO     - Finalizando y desconectando MT5...
+2025-04-25 23:44:41,633 - mt5_connector   - INFO     - Desconectando de MetaTrader 5...
+2025-04-25 23:44:41,634 - mt5_connector   - INFO     - Desconexión de MT5 completada.
+2025-04-25 23:44:41,634 - __main__        - INFO     - *** Volatility 75 Index SMC Analyzer Finalizado ***
