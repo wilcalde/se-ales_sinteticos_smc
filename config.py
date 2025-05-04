@@ -28,12 +28,12 @@ TIMEFRAME_SIGNAL = TIMEFRAME_CONFIRMATION # La alerta final es para esta TF
 
 # --- Parámetros de Análisis (Cantidad de Velas Históricas) ---
 LOOKBACK_H1 = 250
-LOOKBACK_M15 = 150 # Suficiente para análisis de 96 velas + margen
+LOOKBACK_M15 = 350 # Suficiente para análisis de 96 velas + margen
 LOOKBACK_M5 = 75
 LOOKBACK_M1 = 100 # Si se usa M1 para confirmación
 
 # --- Parámetros Estrategia M15 Rango Fijo ---
-STRATEGY_M15_RANGE_CANDLES = 96 # Número de velas para definir el rango
+STRATEGY_M15_RANGE_CANDLES = 300 # Número de velas para definir el rango
 
 # --- Configuración de Logging ---
 LOG_LEVEL = "INFO"
