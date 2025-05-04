@@ -1,7 +1,7 @@
 # smc_analyzer.py
 # Módulo para analizar datos de mercado usando Smart Money Concepts (SMC)
 # (Actualizado v11.1: Función principal es analyze_m15_pending_pois)
-#Se elimina funcion de OB y se deja solo FVG
+#Se elimina funcion de OB y se deja solo FVG.
 
 import pandas as pd
 import numpy as np

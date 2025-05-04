@@ -1,6 +1,7 @@
 # main.py
 # Orquestador principal para SMC VIX Signal Bot
-# (v1.8: Llama a analyze_m15_pending_pois)
+# (v1.8: Llama a analyze_m15_pending_pois). 
+#ultima version
 
 import time
 import asyncio
