@@ -4557,3 +4557,356 @@ UnboundLocalError: cannot access local variable 'next_candle_time' where it is n
 2025-05-03 22:46:14,938 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
 2025-05-03 22:46:15,080 - __main__        - INFO     - Deteniendo aplicación...
 2025-05-03 22:46:15,249 - __main__        - INFO     - Aplicación detenida por el usuario.
+2025-05-03 22:47:46,858 - notifiers.telegram_notifier - INFO - Bot de Telegram inicializado correctamente (modo Async).
+2025-05-03 22:47:46,892 - __main__        - INFO     - *** Iniciando Volatility 75 Index SMC Analyzer (v11.0 - POIs Pendientes) ***
+2025-05-03 22:47:46,893 - mt5_connector   - INFO     - Intentando conectar a MetaTrader 5 (Cuenta: 5549411, Servidor: Deriv-Demo)...
+2025-05-03 22:47:46,895 - mt5_connector   - INFO     - Conexión a MT5 exitosa. Cuenta: 5549411, Servidor: Deriv-Demo
+2025-05-03 22:47:46,895 - mt5_connector   - INFO     - Info Cuenta: Nombre=Wilson Calderon, Balance=9890.49 USD
+2025-05-03 22:47:47,244 - __main__        - INFO     - Enviando mensaje de bienvenida a Telegram...
+2025-05-03 22:47:47,866 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 200 OK"
+2025-05-03 22:47:47,867 - notifiers.telegram_notifier - INFO     - Mensaje enviado exitosamente a Telegram (intento async 1/3).
+2025-05-03 22:47:47,867 - __main__        - INFO     - Mensaje bienvenida enviado.
+2025-05-03 22:47:47,867 - __main__        - INFO     - Iniciando polling de Telegram y bucle de análisis...
+2025-05-03 22:47:47,867 - __main__        - INFO     - === Iniciando Tarea de Análisis Periódico (v11.0) ===
+2025-05-03 22:47:47,867 - __main__        - INFO     - --- Inicio del Ciclo de Análisis M15 ---
+2025-05-03 22:47:47,867 - __main__        - INFO     - Actualizando datos M15...
+2025-05-03 22:47:47,867 - data_manager    - INFO     - Actualizando datos para Volatility 75 Index en 15 (Lookback: 350)...
+2025-05-03 22:47:47,871 - mt5_connector   - INFO     - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 350, Última vela: 2025-05-04 03:45:00
+2025-05-03 22:47:47,871 - data_manager    - INFO     - Datos para 15 actualizados correctamente. 350 velas.
+2025-05-03 22:47:47,871 - __main__        - INFO     - Ejecutando análisis de POIs pendientes M15...
+2025-05-03 22:47:47,871 - smc_analyzer    - INFO     - --- Iniciando Análisis FVGs Pendientes M15 (v11.1 - Rango 300) ---
+2025-05-03 22:47:47,877 - smc_analyzer    - INFO     - Verificando mitigación para 71 FVGs candidatos...
+2025-05-03 22:47:47,881 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 01:30:00 M15): MITIGADO (Bearish FVG). High 118298.03000 >= 50% 118239.26500 en 2025-05-03 23:15:00
+2025-05-03 22:47:47,881 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 02:15:00 M15): MITIGADO (Bearish FVG). High 117849.67000 >= 50% 117333.84500 en 2025-05-01 03:45:00
+2025-05-03 22:47:47,882 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 03:30:00 M15): MITIGADO (Bullish FVG). Low 115201.23000 <= 50% 117125.38000 en 2025-05-01 05:00:00
+2025-05-03 22:47:47,885 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 04:00:00 M15): MITIGADO (Bearish FVG). High 117331.38000 >= 50% 117100.91000 en 2025-05-03 20:45:00
+2025-05-03 22:47:47,886 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 04:15:00 M15): MITIGADO (Bearish FVG). High 116955.53000 >= 50% 116556.48000 en 2025-05-01 06:15:00
+2025-05-03 22:47:47,886 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 05:00:00 M15): MITIGADO (Bearish FVG). High 116791.71000 >= 50% 115625.63000 en 2025-05-01 06:30:00
+2025-05-03 22:47:47,886 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 05:45:00 M15): MITIGADO (Bullish FVG). Low 115554.20000 <= 50% 115593.39000 en 2025-05-01 07:15:00
+2025-05-03 22:47:47,887 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 06:00:00 M15): MITIGADO (Bullish FVG). Low 115603.15000 <= 50% 116232.07500 en 2025-05-01 07:30:00
+2025-05-03 22:47:47,890 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 08:15:00 M15): MITIGADO (Bearish FVG). High 115555.43000 >= 50% 115440.86000 en 2025-05-03 17:15:00
+2025-05-03 22:47:47,894 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 08:30:00 M15): MITIGADO (Bearish FVG). High 115555.43000 >= 50% 115133.65500 en 2025-05-03 17:15:00
+2025-05-03 22:47:47,897 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 09:00:00 M15): MITIGADO (Bearish FVG). High 114499.44000 >= 50% 114486.14500 en 2025-05-03 15:45:00
+2025-05-03 22:47:47,899 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 10:00:00 M15): MITIGADO (Bearish FVG). High 114105.40000 >= 50% 114046.76000 en 2025-05-03 15:15:00
+2025-05-03 22:47:47,900 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 10:15:00 M15): MITIGADO (Bearish FVG). High 113705.20000 >= 50% 113686.78000 en 2025-05-02 01:00:00
+2025-05-03 22:47:47,901 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 12:15:00 M15): MITIGADO (Bearish FVG). High 112531.16000 >= 50% 112473.82000 en 2025-05-01 23:45:00
+2025-05-03 22:47:47,902 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 13:15:00 M15): MITIGADO (Bearish FVG). High 111428.72000 >= 50% 111382.72000 en 2025-05-01 22:45:00
+2025-05-03 22:47:47,902 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 15:45:00 M15): MITIGADO (Bearish FVG). High 110595.34000 >= 50% 110083.54000 en 2025-05-01 17:15:00
+2025-05-03 22:47:47,903 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 18:30:00 M15): MITIGADO (Bullish FVG). Low 109573.76000 <= 50% 109777.47000 en 2025-05-02 08:30:00
+2025-05-03 22:47:47,903 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 20:45:00 M15): MITIGADO (Bearish FVG). High 111278.02000 >= 50% 110456.58500 en 2025-05-01 22:15:00
+2025-05-03 22:47:47,904 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 22:15:00 M15): MITIGADO (Bullish FVG). Low 110718.21000 <= 50% 110781.77500 en 2025-05-02 04:30:00
+2025-05-03 22:47:47,904 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 23:45:00 M15): MITIGADO (Bullish FVG). Low 111760.43000 <= 50% 111870.47500 en 2025-05-02 03:15:00
+2025-05-03 22:47:47,904 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 00:00:00 M15): MITIGADO (Bullish FVG). Low 112403.00000 <= 50% 112629.93500 en 2025-05-02 02:30:00
+2025-05-03 22:47:47,905 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 02:30:00 M15): MITIGADO (Bearish FVG). High 113239.50000 >= 50% 112930.82000 en 2025-05-02 06:15:00
+2025-05-03 22:47:47,905 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 03:00:00 M15): MITIGADO (Bearish FVG). High 112791.93000 >= 50% 112461.71500 en 2025-05-02 06:00:00
+2025-05-03 22:47:47,905 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 03:15:00 M15): MITIGADO (Bearish FVG). High 112385.76000 >= 50% 112080.42500 en 2025-05-02 05:45:00
+2025-05-03 22:47:47,906 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 03:30:00 M15): MITIGADO (Bearish FVG). High 111717.62000 >= 50% 111691.73500 en 2025-05-02 05:00:00
+2025-05-03 22:47:47,906 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 04:30:00 M15): MITIGADO (Bearish FVG). High 112791.93000 >= 50% 111138.10500 en 2025-05-02 06:00:00
+2025-05-03 22:47:47,906 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 05:45:00 M15): MITIGADO (Bullish FVG). Low 111198.65000 <= 50% 112066.37500 en 2025-05-02 07:15:00
+2025-05-03 22:47:47,907 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 06:00:00 M15): MITIGADO (Bullish FVG). Low 110530.63000 <= 50% 112413.35500 en 2025-05-02 07:30:00
+2025-05-03 22:47:47,907 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 07:00:00 M15): MITIGADO (Bearish FVG). High 112344.08000 >= 50% 112174.01500 en 2025-05-02 10:30:00
+2025-05-03 22:47:47,907 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 07:15:00 M15): MITIGADO (Bearish FVG). High 111499.28000 >= 50% 111481.97500 en 2025-05-02 10:15:00
+2025-05-03 22:47:47,907 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 07:30:00 M15): MITIGADO (Bearish FVG). High 111307.73000 >= 50% 111116.75000 en 2025-05-02 09:45:00
+2025-05-03 22:47:47,907 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 07:45:00 M15): MITIGADO (Bearish FVG). High 110484.97000 >= 50% 110444.39500 en 2025-05-02 09:30:00
+2025-05-03 22:47:47,909 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 09:45:00 M15): MITIGADO (Bullish FVG). Low 110423.72000 <= 50% 110645.03000 en 2025-05-02 17:15:00
+2025-05-03 22:47:47,909 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 10:30:00 M15): MITIGADO (Bullish FVG). Low 111590.94000 <= 50% 111838.88000 en 2025-05-02 15:15:00
+2025-05-03 22:47:47,909 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 10:45:00 M15): MITIGADO (Bullish FVG). Low 112023.38000 <= 50% 112739.64500 en 2025-05-02 12:15:00
+2025-05-03 22:47:47,910 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 11:45:00 M15): MITIGADO (Bearish FVG). High 113232.30000 >= 50% 113103.90000 en 2025-05-02 13:15:00
+2025-05-03 22:47:47,910 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 12:00:00 M15): MITIGADO (Bearish FVG). High 113428.78000 >= 50% 112652.23000 en 2025-05-02 13:30:00
+2025-05-03 22:47:47,910 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 12:30:00 M15): MITIGADO (Bullish FVG). Low 112613.97000 <= 50% 112884.90500 en 2025-05-02 14:00:00
+2025-05-03 22:47:47,910 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 14:45:00 M15): MITIGADO (Bearish FVG). High 112574.00000 >= 50% 112528.34000 en 2025-05-02 17:45:00
+2025-05-03 22:47:47,911 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 15:00:00 M15): MITIGADO (Bearish FVG). High 112574.00000 >= 50% 112213.80500 en 2025-05-02 17:45:00
+2025-05-03 22:47:47,911 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 16:45:00 M15): MITIGADO (Bearish FVG). High 112900.29000 >= 50% 111266.36500 en 2025-05-02 18:15:00
+2025-05-03 22:47:47,911 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 17:15:00 M15): MITIGADO (Bullish FVG). Low 110832.83000 <= 50% 111237.69000 en 2025-05-03 00:15:00
+2025-05-03 22:47:47,912 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 17:30:00 M15): MITIGADO (Bullish FVG). Low 111577.81000 <= 50% 111595.61000 en 2025-05-02 21:45:00
+2025-05-03 22:47:47,912 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 19:30:00 M15): MITIGADO (Bullish FVG). Low 111577.81000 <= 50% 112388.75500 en 2025-05-02 21:45:00
+2025-05-03 22:47:47,913 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 20:30:00 M15): MITIGADO (Bullish FVG). Low 111793.06000 <= 50% 113157.77000 en 2025-05-02 22:00:00
+2025-05-03 22:47:47,914 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 21:00:00 M15): MITIGADO (Bearish FVG). High 113532.56000 >= 50% 113458.48000 en 2025-05-03 14:30:00
+2025-05-03 22:47:47,915 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 21:15:00 M15): MITIGADO (Bearish FVG). High 113181.19000 >= 50% 113163.27500 en 2025-05-03 14:15:00
+2025-05-03 22:47:47,916 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 21:30:00 M15): MITIGADO (Bearish FVG). High 112815.91000 >= 50% 112590.43000 en 2025-05-03 13:45:00
+2025-05-03 22:47:47,916 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 22:45:00 M15): MITIGADO (Bearish FVG). High 112198.79000 >= 50% 112123.31000 en 2025-05-03 00:45:00
+2025-05-03 22:47:47,916 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 23:15:00 M15): MITIGADO (Bullish FVG). Low 111364.60000 <= 50% 112004.52000 en 2025-05-03 00:45:00
+2025-05-03 22:47:47,917 - smc_analyzer    - WARNING  - FVG Val(2025-05-03 03:45:00 M15): MITIGADO (Bearish FVG). High 111089.85000 >= 50% 110841.98000 en 2025-05-03 05:15:00
+2025-05-03 22:47:47,917 - smc_analyzer    - WARNING  - FVG Val(2025-05-03 07:15:00 M15): MITIGADO (Bullish FVG). Low 110338.51000 <= 50% 110594.67500 en 2025-05-03 08:45:00
+2025-05-03 22:47:47,917 - smc_analyzer    - WARNING  - FVG Val(2025-05-03 08:45:00 M15): MITIGADO (Bearish FVG). High 110970.81000 >= 50% 110774.17500 en 2025-05-03 12:15:00
+2025-05-03 22:47:47,918 - smc_analyzer    - WARNING  - FVG Val(2025-05-03 09:30:00 M15): MITIGADO (Bearish FVG). High 110070.44000 >= 50% 109833.78000 en 2025-05-03 11:30:00
+2025-05-03 22:47:47,918 - smc_analyzer    - WARNING  - FVG Val(2025-05-03 09:45:00 M15): MITIGADO (Bearish FVG). High 109534.95000 >= 50% 109320.29500 en 2025-05-03 11:15:00
+2025-05-03 22:47:47,919 - smc_analyzer    - INFO     - +++ FVG Pendiente Confirmado @ 2025-05-03 12:15:00 (Bullish) +++
+2025-05-03 22:47:47,919 - smc_analyzer    - INFO     - +++ FVG Pendiente Confirmado @ 2025-05-03 12:30:00 (Bullish) +++
+2025-05-03 22:47:47,920 - smc_analyzer    - INFO     - +++ FVG Pendiente Confirmado @ 2025-05-03 12:45:00 (Bullish) +++
+2025-05-03 22:47:47,921 - smc_analyzer    - INFO     - +++ FVG Pendiente Confirmado @ 2025-05-03 13:45:00 (Bullish) +++
+2025-05-03 22:47:47,922 - smc_analyzer    - INFO     - +++ FVG Pendiente Confirmado @ 2025-05-03 14:15:00 (Bullish) +++
+2025-05-03 22:47:47,923 - smc_analyzer    - INFO     - +++ FVG Pendiente Confirmado @ 2025-05-03 14:30:00 (Bullish) +++
+2025-05-03 22:47:47,924 - smc_analyzer    - INFO     - +++ FVG Pendiente Confirmado @ 2025-05-03 17:15:00 (Bullish) +++
+2025-05-03 22:47:47,924 - smc_analyzer    - WARNING  - FVG Val(2025-05-03 18:00:00 M15): MITIGADO (Bullish FVG). Low 115996.56000 <= 50% 116289.22000 en 2025-05-03 19:30:00
+2025-05-03 22:47:47,924 - smc_analyzer    - WARNING  - FVG Val(2025-05-03 20:45:00 M15): MITIGADO (Bullish FVG). Low 116491.63000 <= 50% 116893.39500 en 2025-05-03 22:15:00
+2025-05-03 22:47:47,924 - smc_analyzer    - WARNING  - FVG Val(2025-05-03 22:15:00 M15): MITIGADO (Bearish FVG). High 119353.76000 >= 50% 116864.82000 en 2025-05-03 23:45:00
+2025-05-03 22:47:47,925 - smc_analyzer    - INFO     - +++ FVG Pendiente Confirmado @ 2025-05-03 22:45:00 (Bullish) +++
+2025-05-03 22:47:47,925 - smc_analyzer    - WARNING  - FVG Val(2025-05-03 23:45:00 M15): MITIGADO (Bullish FVG). Low 117792.05000 <= 50% 118538.06500 en 2025-05-04 03:00:00
+2025-05-03 22:47:47,925 - smc_analyzer    - WARNING  - FVG Val(2025-05-04 00:30:00 M15): MITIGADO (Bullish FVG). Low 119056.71000 <= 50% 119583.99000 en 2025-05-04 02:00:00
+2025-05-03 22:47:47,925 - smc_analyzer    - WARNING  - FVG Val(2025-05-04 01:15:00 M15): MITIGADO (Bearish FVG). High 119993.21000 >= 50% 119686.57000 en 2025-05-04 02:45:00
+2025-05-03 22:47:47,926 - smc_analyzer    - INFO     - +++ FVG Pendiente Confirmado @ 2025-05-04 02:45:00 (Bearish) +++
+2025-05-03 22:47:47,926 - smc_analyzer    - INFO     - +++ FVG Pendiente Confirmado @ 2025-05-04 03:00:00 (Bearish) +++
+2025-05-03 22:47:47,926 - smc_analyzer    - INFO     - Análisis completado: 10 FVGs pendientes encontrados.
+2025-05-03 22:47:47,926 - __main__        - INFO     - ¡NUEVO POI M15 PENDIENTE IDENTIFICADO! @ 2025-05-03 12:15:00
+2025-05-03 22:47:47,926 - __main__        - INFO     - Generando alerta TIPO NEW_POI_M15
+2025-05-03 22:47:47,926 - __main__        - INFO     - ¡NUEVO POI M15 PENDIENTE IDENTIFICADO! @ 2025-05-03 12:30:00
+2025-05-03 22:47:47,926 - __main__        - INFO     - Generando alerta TIPO NEW_POI_M15
+2025-05-03 22:47:47,926 - __main__        - INFO     - ¡NUEVO POI M15 PENDIENTE IDENTIFICADO! @ 2025-05-03 12:45:00
+2025-05-03 22:47:47,926 - __main__        - INFO     - Generando alerta TIPO NEW_POI_M15
+2025-05-03 22:47:47,926 - __main__        - INFO     - ¡NUEVO POI M15 PENDIENTE IDENTIFICADO! @ 2025-05-03 13:45:00
+2025-05-03 22:47:47,927 - __main__        - INFO     - Generando alerta TIPO NEW_POI_M15
+2025-05-03 22:47:47,927 - __main__        - INFO     - ¡NUEVO POI M15 PENDIENTE IDENTIFICADO! @ 2025-05-03 14:15:00
+2025-05-03 22:47:47,927 - __main__        - INFO     - Generando alerta TIPO NEW_POI_M15
+2025-05-03 22:47:47,927 - __main__        - INFO     - ¡NUEVO POI M15 PENDIENTE IDENTIFICADO! @ 2025-05-03 14:30:00
+2025-05-03 22:47:47,927 - __main__        - INFO     - Generando alerta TIPO NEW_POI_M15
+2025-05-03 22:47:47,927 - __main__        - INFO     - ¡NUEVO POI M15 PENDIENTE IDENTIFICADO! @ 2025-05-03 17:15:00
+2025-05-03 22:47:47,927 - __main__        - INFO     - Generando alerta TIPO NEW_POI_M15
+2025-05-03 22:47:47,927 - __main__        - INFO     - ¡NUEVO POI M15 PENDIENTE IDENTIFICADO! @ 2025-05-03 22:45:00
+2025-05-03 22:47:47,927 - __main__        - INFO     - Generando alerta TIPO NEW_POI_M15
+2025-05-03 22:47:47,927 - __main__        - INFO     - ¡NUEVO POI M15 PENDIENTE IDENTIFICADO! @ 2025-05-04 02:45:00
+2025-05-03 22:47:47,927 - __main__        - INFO     - Generando alerta TIPO NEW_POI_M15
+2025-05-03 22:47:47,927 - __main__        - INFO     - ¡NUEVO POI M15 PENDIENTE IDENTIFICADO! @ 2025-05-04 03:00:00
+2025-05-03 22:47:47,927 - __main__        - INFO     - Generando alerta TIPO NEW_POI_M15
+2025-05-03 22:47:47,929 - mt5_connector   - INFO     - Información general obtenida para Volatility 75 Index. Visible: True, Bid(info): 117693.19, Ask(info): 117729.99
+2025-05-03 22:47:48,930 - __main__        - INFO     - Enviando 10 alertas a Telegram...
+2025-05-03 22:47:49,215 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 200 OK"
+2025-05-03 22:47:49,217 - notifiers.telegram_notifier - INFO     - Mensaje enviado exitosamente a Telegram (intento async 1/3).
+2025-05-03 22:47:49,401 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getMe "HTTP/1.1 200 OK"
+2025-05-03 22:47:49,401 - telegram.ext.Application - INFO     - Application started
+2025-05-03 22:47:49,556 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/deleteWebhook "HTTP/1.1 200 OK"
+2025-05-03 22:47:49,729 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 200 OK"
+2025-05-03 22:47:49,731 - notifiers.telegram_notifier - INFO     - Mensaje enviado exitosamente a Telegram (intento async 1/3).
+2025-05-03 22:47:50,243 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 200 OK"
+2025-05-03 22:47:50,243 - notifiers.telegram_notifier - INFO     - Mensaje enviado exitosamente a Telegram (intento async 1/3).
+2025-05-03 22:47:50,787 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 200 OK"
+2025-05-03 22:47:50,787 - notifiers.telegram_notifier - INFO     - Mensaje enviado exitosamente a Telegram (intento async 1/3).
+2025-05-03 22:47:51,253 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 200 OK"
+2025-05-03 22:47:51,253 - notifiers.telegram_notifier - INFO     - Mensaje enviado exitosamente a Telegram (intento async 1/3).
+2025-05-03 22:47:51,761 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 200 OK"
+2025-05-03 22:47:51,762 - notifiers.telegram_notifier - INFO     - Mensaje enviado exitosamente a Telegram (intento async 1/3).
+2025-05-03 22:47:52,282 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 200 OK"
+2025-05-03 22:47:52,283 - notifiers.telegram_notifier - INFO     - Mensaje enviado exitosamente a Telegram (intento async 1/3).
+2025-05-03 22:47:52,782 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 200 OK"
+2025-05-03 22:47:52,783 - notifiers.telegram_notifier - INFO     - Mensaje enviado exitosamente a Telegram (intento async 1/3).
+2025-05-03 22:47:53,283 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 200 OK"
+2025-05-03 22:47:53,284 - notifiers.telegram_notifier - INFO     - Mensaje enviado exitosamente a Telegram (intento async 1/3).
+2025-05-03 22:47:53,793 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 200 OK"
+2025-05-03 22:47:53,794 - notifiers.telegram_notifier - INFO     - Mensaje enviado exitosamente a Telegram (intento async 1/3).
+2025-05-03 22:47:54,016 - __main__        - INFO     - --- Fin Ciclo M15 (Duración: 6.149s) ---
+2025-05-03 22:47:54,016 - __main__        - INFO     - Esperando 727.98 segundos...
+2025-05-03 22:48:00,042 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:48:10,227 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:48:20,389 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:48:30,548 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:48:40,707 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:48:50,865 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:49:01,022 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:49:11,190 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:49:21,356 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:49:31,515 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:49:41,673 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:49:51,832 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:50:01,990 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:50:12,149 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:50:22,308 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:50:32,469 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:50:42,626 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:50:52,787 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:51:02,945 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:51:13,103 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:51:23,263 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:51:33,430 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:51:43,590 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:51:53,746 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:52:03,917 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:52:14,080 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:52:24,240 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:52:34,397 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:52:44,555 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:52:54,713 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:53:04,871 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:53:15,074 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:53:25,267 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:53:35,424 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:53:45,581 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:53:55,740 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:54:05,898 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:54:16,057 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:54:26,215 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:54:36,373 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:54:46,530 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:54:56,691 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:55:06,849 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:55:17,006 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:55:27,161 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:55:37,320 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:55:47,526 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:55:57,744 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:56:07,902 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:56:18,063 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:56:28,225 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:56:38,386 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:56:48,543 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:56:58,704 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:57:08,863 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:57:19,022 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:57:29,180 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:57:39,338 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:57:49,496 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:57:59,656 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:58:09,815 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:58:19,973 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:58:30,130 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:58:40,289 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:58:50,446 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:59:00,603 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:59:10,773 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:59:20,931 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:59:31,090 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:59:41,248 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 22:59:51,442 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:00:01,637 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:00:02,004 - __main__        - INFO     - --- Inicio del Ciclo de Análisis M15 ---
+2025-05-03 23:00:02,004 - __main__        - INFO     - Actualizando datos M15...
+2025-05-03 23:00:02,004 - data_manager    - INFO     - Actualizando datos para Volatility 75 Index en 15 (Lookback: 350)...
+2025-05-03 23:00:02,006 - mt5_connector   - INFO     - Datos OHLC obtenidos para Volatility 75 Index en 15. Filas: 350, Última vela: 2025-05-04 04:00:00
+2025-05-03 23:00:02,006 - data_manager    - INFO     - Datos para 15 actualizados correctamente. 350 velas.
+2025-05-03 23:00:02,006 - __main__        - INFO     - Ejecutando análisis de POIs pendientes M15...
+2025-05-03 23:00:02,006 - smc_analyzer    - INFO     - --- Iniciando Análisis FVGs Pendientes M15 (v11.1 - Rango 300) ---
+2025-05-03 23:00:02,012 - smc_analyzer    - INFO     - Verificando mitigación para 72 FVGs candidatos...
+2025-05-03 23:00:02,018 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 01:30:00 M15): MITIGADO (Bearish FVG). High 118298.03000 >= 50% 118239.26500 en 2025-05-03 23:15:00
+2025-05-03 23:00:02,018 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 02:15:00 M15): MITIGADO (Bearish FVG). High 117849.67000 >= 50% 117333.84500 en 2025-05-01 03:45:00
+2025-05-03 23:00:02,018 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 03:30:00 M15): MITIGADO (Bullish FVG). Low 115201.23000 <= 50% 117125.38000 en 2025-05-01 05:00:00
+2025-05-03 23:00:02,022 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 04:00:00 M15): MITIGADO (Bearish FVG). High 117331.38000 >= 50% 117100.91000 en 2025-05-03 20:45:00
+2025-05-03 23:00:02,022 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 04:15:00 M15): MITIGADO (Bearish FVG). High 116955.53000 >= 50% 116556.48000 en 2025-05-01 06:15:00
+2025-05-03 23:00:02,022 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 05:00:00 M15): MITIGADO (Bearish FVG). High 116791.71000 >= 50% 115625.63000 en 2025-05-01 06:30:00
+2025-05-03 23:00:02,022 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 05:45:00 M15): MITIGADO (Bullish FVG). Low 115554.20000 <= 50% 115593.39000 en 2025-05-01 07:15:00
+2025-05-03 23:00:02,024 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 06:00:00 M15): MITIGADO (Bullish FVG). Low 115603.15000 <= 50% 116232.07500 en 2025-05-01 07:30:00
+2025-05-03 23:00:02,026 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 08:15:00 M15): MITIGADO (Bearish FVG). High 115555.43000 >= 50% 115440.86000 en 2025-05-03 17:15:00
+2025-05-03 23:00:02,029 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 08:30:00 M15): MITIGADO (Bearish FVG). High 115555.43000 >= 50% 115133.65500 en 2025-05-03 17:15:00
+2025-05-03 23:00:02,033 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 09:00:00 M15): MITIGADO (Bearish FVG). High 114499.44000 >= 50% 114486.14500 en 2025-05-03 15:45:00
+2025-05-03 23:00:02,035 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 10:00:00 M15): MITIGADO (Bearish FVG). High 114105.40000 >= 50% 114046.76000 en 2025-05-03 15:15:00
+2025-05-03 23:00:02,037 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 10:15:00 M15): MITIGADO (Bearish FVG). High 113705.20000 >= 50% 113686.78000 en 2025-05-02 01:00:00
+2025-05-03 23:00:02,037 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 12:15:00 M15): MITIGADO (Bearish FVG). High 112531.16000 >= 50% 112473.82000 en 2025-05-01 23:45:00
+2025-05-03 23:00:02,037 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 13:15:00 M15): MITIGADO (Bearish FVG). High 111428.72000 >= 50% 111382.72000 en 2025-05-01 22:45:00
+2025-05-03 23:00:02,039 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 15:45:00 M15): MITIGADO (Bearish FVG). High 110595.34000 >= 50% 110083.54000 en 2025-05-01 17:15:00
+2025-05-03 23:00:02,039 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 18:30:00 M15): MITIGADO (Bullish FVG). Low 109573.76000 <= 50% 109777.47000 en 2025-05-02 08:30:00
+2025-05-03 23:00:02,039 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 20:45:00 M15): MITIGADO (Bearish FVG). High 111278.02000 >= 50% 110456.58500 en 2025-05-01 22:15:00
+2025-05-03 23:00:02,039 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 22:15:00 M15): MITIGADO (Bullish FVG). Low 110718.21000 <= 50% 110781.77500 en 2025-05-02 04:30:00
+2025-05-03 23:00:02,041 - smc_analyzer    - WARNING  - FVG Val(2025-05-01 23:45:00 M15): MITIGADO (Bullish FVG). Low 111760.43000 <= 50% 111870.47500 en 2025-05-02 03:15:00
+2025-05-03 23:00:02,041 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 00:00:00 M15): MITIGADO (Bullish FVG). Low 112403.00000 <= 50% 112629.93500 en 2025-05-02 02:30:00
+2025-05-03 23:00:02,041 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 02:30:00 M15): MITIGADO (Bearish FVG). High 113239.50000 >= 50% 112930.82000 en 2025-05-02 06:15:00
+2025-05-03 23:00:02,041 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 03:00:00 M15): MITIGADO (Bearish FVG). High 112791.93000 >= 50% 112461.71500 en 2025-05-02 06:00:00
+2025-05-03 23:00:02,041 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 03:15:00 M15): MITIGADO (Bearish FVG). High 112385.76000 >= 50% 112080.42500 en 2025-05-02 05:45:00
+2025-05-03 23:00:02,043 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 03:30:00 M15): MITIGADO (Bearish FVG). High 111717.62000 >= 50% 111691.73500 en 2025-05-02 05:00:00
+2025-05-03 23:00:02,043 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 04:30:00 M15): MITIGADO (Bearish FVG). High 112791.93000 >= 50% 111138.10500 en 2025-05-02 06:00:00
+2025-05-03 23:00:02,043 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 05:45:00 M15): MITIGADO (Bullish FVG). Low 111198.65000 <= 50% 112066.37500 en 2025-05-02 07:15:00
+2025-05-03 23:00:02,043 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 06:00:00 M15): MITIGADO (Bullish FVG). Low 110530.63000 <= 50% 112413.35500 en 2025-05-02 07:30:00
+2025-05-03 23:00:02,043 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 07:00:00 M15): MITIGADO (Bearish FVG). High 112344.08000 >= 50% 112174.01500 en 2025-05-02 10:30:00
+2025-05-03 23:00:02,045 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 07:15:00 M15): MITIGADO (Bearish FVG). High 111499.28000 >= 50% 111481.97500 en 2025-05-02 10:15:00
+2025-05-03 23:00:02,045 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 07:30:00 M15): MITIGADO (Bearish FVG). High 111307.73000 >= 50% 111116.75000 en 2025-05-02 09:45:00
+2025-05-03 23:00:02,045 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 07:45:00 M15): MITIGADO (Bearish FVG). High 110484.97000 >= 50% 110444.39500 en 2025-05-02 09:30:00
+2025-05-03 23:00:02,045 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 09:45:00 M15): MITIGADO (Bullish FVG). Low 110423.72000 <= 50% 110645.03000 en 2025-05-02 17:15:00
+2025-05-03 23:00:02,045 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 10:30:00 M15): MITIGADO (Bullish FVG). Low 111590.94000 <= 50% 111838.88000 en 2025-05-02 15:15:00
+2025-05-03 23:00:02,047 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 10:45:00 M15): MITIGADO (Bullish FVG). Low 112023.38000 <= 50% 112739.64500 en 2025-05-02 12:15:00
+2025-05-03 23:00:02,047 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 11:45:00 M15): MITIGADO (Bearish FVG). High 113232.30000 >= 50% 113103.90000 en 2025-05-02 13:15:00
+2025-05-03 23:00:02,047 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 12:00:00 M15): MITIGADO (Bearish FVG). High 113428.78000 >= 50% 112652.23000 en 2025-05-02 13:30:00
+2025-05-03 23:00:02,047 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 12:30:00 M15): MITIGADO (Bullish FVG). Low 112613.97000 <= 50% 112884.90500 en 2025-05-02 14:00:00
+2025-05-03 23:00:02,047 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 14:45:00 M15): MITIGADO (Bearish FVG). High 112574.00000 >= 50% 112528.34000 en 2025-05-02 17:45:00
+2025-05-03 23:00:02,047 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 15:00:00 M15): MITIGADO (Bearish FVG). High 112574.00000 >= 50% 112213.80500 en 2025-05-02 17:45:00
+2025-05-03 23:00:02,047 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 16:45:00 M15): MITIGADO (Bearish FVG). High 112900.29000 >= 50% 111266.36500 en 2025-05-02 18:15:00
+2025-05-03 23:00:02,049 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 17:15:00 M15): MITIGADO (Bullish FVG). Low 110832.83000 <= 50% 111237.69000 en 2025-05-03 00:15:00
+2025-05-03 23:00:02,049 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 17:30:00 M15): MITIGADO (Bullish FVG). Low 111577.81000 <= 50% 111595.61000 en 2025-05-02 21:45:00
+2025-05-03 23:00:02,049 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 19:30:00 M15): MITIGADO (Bullish FVG). Low 111577.81000 <= 50% 112388.75500 en 2025-05-02 21:45:00
+2025-05-03 23:00:02,049 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 20:30:00 M15): MITIGADO (Bullish FVG). Low 111793.06000 <= 50% 113157.77000 en 2025-05-02 22:00:00
+2025-05-03 23:00:02,051 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 21:00:00 M15): MITIGADO (Bearish FVG). High 113532.56000 >= 50% 113458.48000 en 2025-05-03 14:30:00
+2025-05-03 23:00:02,053 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 21:15:00 M15): MITIGADO (Bearish FVG). High 113181.19000 >= 50% 113163.27500 en 2025-05-03 14:15:00
+2025-05-03 23:00:02,053 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 21:30:00 M15): MITIGADO (Bearish FVG). High 112815.91000 >= 50% 112590.43000 en 2025-05-03 13:45:00
+2025-05-03 23:00:02,053 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 22:45:00 M15): MITIGADO (Bearish FVG). High 112198.79000 >= 50% 112123.31000 en 2025-05-03 00:45:00
+2025-05-03 23:00:02,053 - smc_analyzer    - WARNING  - FVG Val(2025-05-02 23:15:00 M15): MITIGADO (Bullish FVG). Low 111364.60000 <= 50% 112004.52000 en 2025-05-03 00:45:00
+2025-05-03 23:00:02,055 - smc_analyzer    - WARNING  - FVG Val(2025-05-03 03:45:00 M15): MITIGADO (Bearish FVG). High 111089.85000 >= 50% 110841.98000 en 2025-05-03 05:15:00
+2025-05-03 23:00:02,055 - smc_analyzer    - WARNING  - FVG Val(2025-05-03 07:15:00 M15): MITIGADO (Bullish FVG). Low 110338.51000 <= 50% 110594.67500 en 2025-05-03 08:45:00
+2025-05-03 23:00:02,055 - smc_analyzer    - WARNING  - FVG Val(2025-05-03 08:45:00 M15): MITIGADO (Bearish FVG). High 110970.81000 >= 50% 110774.17500 en 2025-05-03 12:15:00
+2025-05-03 23:00:02,055 - smc_analyzer    - WARNING  - FVG Val(2025-05-03 09:30:00 M15): MITIGADO (Bearish FVG). High 110070.44000 >= 50% 109833.78000 en 2025-05-03 11:30:00
+2025-05-03 23:00:02,055 - smc_analyzer    - WARNING  - FVG Val(2025-05-03 09:45:00 M15): MITIGADO (Bearish FVG). High 109534.95000 >= 50% 109320.29500 en 2025-05-03 11:15:00
+2025-05-03 23:00:02,057 - smc_analyzer    - INFO     - +++ FVG Pendiente Confirmado @ 2025-05-03 12:15:00 (Bullish) +++
+2025-05-03 23:00:02,057 - smc_analyzer    - INFO     - +++ FVG Pendiente Confirmado @ 2025-05-03 12:30:00 (Bullish) +++
+2025-05-03 23:00:02,059 - smc_analyzer    - INFO     - +++ FVG Pendiente Confirmado @ 2025-05-03 12:45:00 (Bullish) +++
+2025-05-03 23:00:02,059 - smc_analyzer    - INFO     - +++ FVG Pendiente Confirmado @ 2025-05-03 13:45:00 (Bullish) +++
+2025-05-03 23:00:02,061 - smc_analyzer    - INFO     - +++ FVG Pendiente Confirmado @ 2025-05-03 14:15:00 (Bullish) +++
+2025-05-03 23:00:02,061 - smc_analyzer    - INFO     - +++ FVG Pendiente Confirmado @ 2025-05-03 14:30:00 (Bullish) +++
+2025-05-03 23:00:02,063 - smc_analyzer    - INFO     - +++ FVG Pendiente Confirmado @ 2025-05-03 17:15:00 (Bullish) +++
+2025-05-03 23:00:02,063 - smc_analyzer    - WARNING  - FVG Val(2025-05-03 18:00:00 M15): MITIGADO (Bullish FVG). Low 115996.56000 <= 50% 116289.22000 en 2025-05-03 19:30:00
+2025-05-03 23:00:02,063 - smc_analyzer    - WARNING  - FVG Val(2025-05-03 20:45:00 M15): MITIGADO (Bullish FVG). Low 116491.63000 <= 50% 116893.39500 en 2025-05-03 22:15:00
+2025-05-03 23:00:02,063 - smc_analyzer    - WARNING  - FVG Val(2025-05-03 22:15:00 M15): MITIGADO (Bearish FVG). High 119353.76000 >= 50% 116864.82000 en 2025-05-03 23:45:00
+2025-05-03 23:00:02,063 - smc_analyzer    - INFO     - +++ FVG Pendiente Confirmado @ 2025-05-03 22:45:00 (Bullish) +++
+2025-05-03 23:00:02,063 - smc_analyzer    - WARNING  - FVG Val(2025-05-03 23:45:00 M15): MITIGADO (Bullish FVG). Low 117792.05000 <= 50% 118538.06500 en 2025-05-04 03:00:00
+2025-05-03 23:00:02,065 - smc_analyzer    - WARNING  - FVG Val(2025-05-04 00:30:00 M15): MITIGADO (Bullish FVG). Low 119056.71000 <= 50% 119583.99000 en 2025-05-04 02:00:00
+2025-05-03 23:00:02,065 - smc_analyzer    - WARNING  - FVG Val(2025-05-04 01:15:00 M15): MITIGADO (Bearish FVG). High 119993.21000 >= 50% 119686.57000 en 2025-05-04 02:45:00
+2025-05-03 23:00:02,065 - smc_analyzer    - INFO     - +++ FVG Pendiente Confirmado @ 2025-05-04 02:45:00 (Bearish) +++
+2025-05-03 23:00:02,065 - smc_analyzer    - INFO     - +++ FVG Pendiente Confirmado @ 2025-05-04 03:00:00 (Bearish) +++
+2025-05-03 23:00:02,065 - smc_analyzer    - INFO     - +++ FVG Pendiente Confirmado @ 2025-05-04 03:45:00 (Bullish) +++
+2025-05-03 23:00:02,065 - smc_analyzer    - INFO     - Análisis completado: 11 FVGs pendientes encontrados.
+2025-05-03 23:00:02,065 - __main__        - INFO     - ¡NUEVO POI M15 PENDIENTE IDENTIFICADO! @ 2025-05-04 03:45:00
+2025-05-03 23:00:02,065 - __main__        - INFO     - Generando alerta TIPO NEW_POI_M15
+2025-05-03 23:00:02,067 - mt5_connector   - INFO     - Información general obtenida para Volatility 75 Index. Visible: True, Bid(info): 118391.64, Ask(info): 118428.44
+2025-05-03 23:00:03,067 - __main__        - INFO     - ¡PRECIO ENTRANDO EN ZONA POI M15 @ 2025-05-04 03:00:00!
+2025-05-03 23:00:03,068 - __main__        - INFO     - Generando alerta TIPO PRICE_ENTERING_POI
+2025-05-03 23:00:03,068 - __main__        - INFO     - Enviando 2 alertas a Telegram...
+2025-05-03 23:00:03,675 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 200 OK"
+2025-05-03 23:00:03,676 - notifiers.telegram_notifier - INFO     - Mensaje enviado exitosamente a Telegram (intento async 1/3).
+2025-05-03 23:00:03,957 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/sendMessage "HTTP/1.1 200 OK"
+2025-05-03 23:00:03,958 - notifiers.telegram_notifier - INFO     - Mensaje enviado exitosamente a Telegram (intento async 1/3).
+2025-05-03 23:00:04,065 - __main__        - INFO     - --- Fin Ciclo M15 (Duración: 2.061s) ---
+2025-05-03 23:00:04,065 - __main__        - INFO     - Esperando 897.93 segundos...
+2025-05-03 23:00:11,810 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:00:21,966 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:00:32,135 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:00:42,297 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:00:52,456 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:01:02,613 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:01:12,771 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:01:22,927 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:01:33,084 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:01:43,242 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:01:53,400 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:02:03,568 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:02:13,726 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:02:23,888 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:02:34,069 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:02:44,227 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:02:54,386 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:03:04,544 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:03:14,702 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:03:24,863 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:03:35,019 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:03:45,188 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:03:55,348 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:04:05,507 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:04:15,668 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:04:25,825 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:04:35,984 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:04:46,142 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:04:56,617 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:05:06,777 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:05:16,935 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:05:27,096 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:05:37,255 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:05:47,414 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:05:57,578 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:06:07,738 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:06:17,898 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:06:28,060 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:06:38,222 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:06:48,380 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:06:58,540 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:07:08,697 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:07:18,859 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:07:29,017 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:07:39,176 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:07:49,339 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:07:59,497 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:08:09,658 - httpx           - INFO     - HTTP Request: POST https://api.telegram.org/bot7858974244:AAFGoYM-qU_nNcp7l7jXYj_2clqrnHwmOcQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-03 23:08:14,120 - __main__        - INFO     - Deteniendo aplicación...
+2025-05-03 23:08:14,321 - __main__        - INFO     - Aplicación detenida por el usuario.
